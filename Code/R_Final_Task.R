@@ -56,3 +56,21 @@ points(societies_complete1$Long, societies_complete1$Lat, col= societies_complet
 legend(-45,-40, legend=c("Flat","Not Flat"), 
        col=c("green","red"), pch=16, ncol=2)
 dev.off()
+
+
+
+
+mystery <- read.csv("./Data/MysteryData.csv")
+table(mystery$X)
+mystery$color <- ifelse(startsWith(mystery$X, "P"), "green", "red")
+
+# Draw a map
+pdf(file = "./Figure/mystery.pdf", width=20, height=20)
+# draw a map
+maps::map()
+# add points
+points(mystery$longitude, mystery$latitude, col=mystery$color)
+# add a legend
+legend(-45,-40, legend=c("Present","Absent"), 
+       col=c("green","red"), pch=16, ncol=2)
+dev.off()

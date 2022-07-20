@@ -1,0 +1,110 @@
+---
+title: "Project Description (2022 HRAF Summer Institute)"
+author: "Cheng Liu"
+date: "`r Sys.Date()`"
+fontsize: 11pt
+output: bookdown::pdf_document2
+header-includes:
+   - \usepackage{textcomp}
+   - \usepackage{utopia}
+   - \usepackage{lineno}
+   - \linenumbers
+   - \usepackage{float}
+   - \floatplacement{figure}{H}
+   - \usepackage{caption}
+   - \captionsetup[figure]{font=scriptsize}
+   - \captionsetup[table]{font=scriptsize}
+linestretch: 1.5
+link-citations: yes
+linkcolor: blue
+bibliography: bibliography.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Research Question
+
+How do people in pre-industrial societies learn to make tools?
+
+## Sub-questions
+1. Do hunter-gatherers have a unique learning pattern compared with groups practicing other types of subsistence strategies?
+
+2. Do learning strategies change across different developmental periods? (More specific hypothesis: will the frequency of social learning decrease through time?)
+
+3. What are some major transmission biases involved? (kin-based? context(success)-based?)
+
+# Motivation/Significance
+
+1. At the most basic level, this study provides the most in-depth descriptive investigation on this topic so far.
+
+2. It can help improving the external validity of archaeological experimental design.
+
+3. It can serve as a middle-range framework to better understand the formation of archaeological records.
+
+# Data sources and searching strategies
+0. Scope of study: Global sample
+
+1. EHRAF World Cultures:  subject "transmission of skills" + key word "tools" (thank you to Carol! Also remember to try specific name of tools like spear/knife/etc. Another keywords include make/made/makes/making.)
+
+2. EHRAF World Cultures: key word "practice" + "tool"? (haven't tried it)
+
+3. Other ethnoarchaeological works I have read before
+
+# Variables
+
+1. Area: using eHRAF's classification system
+
+2. Society(culture): using eHRAF's classification system
+
+3. Code: using eHRAF's classification system
+
+4. Subsistence type: using eHRAF's classification system
+
+5. Year of observation: eHRAF?
+
+6. Location of learning: following the author's description
+
+7. Location of learning (type): indoor, settlement, field
+
+8. Age of learner: precise age if it is explicitly described
+
+9. Age group of learner: Infancy, Early Adulthood, Middle Childhood, Adolescence, Adult
+
+10. Number of learner: precise number or number group?
+
+11. Age of model: precise age if it is explicitly described
+
+12. Age group of model: Infancy, Early Adulthood, Middle Childhood, Adolescence, Adult (<50), Adult (>50)
+
+13. Number of model: precise number or number group?
+
+14. Relationship between model and learner: horizontal/vertical/oblique
+
+15. Relationship between model and learner (details): mother/father/etc.
+
+16. Learning procesess: following Garfield et al. (2016), imitation/emulation, local enhancement, stimulus enhancement, collective learning, collective learning play, collective learning role play, teaching, teaching demonstration, teaching storytelling, individual learning
+
+17. Perceived difficulty of skill: difficult/moderate/easy
+
+18. Amount of time spent:
+
+19. Type of technology: ?
+
+20. Raw material: stone, clay, plant, bones
+
+21. Access to raw materials: difficult/moderate/easy
+
+22. Restriction of status involved: gender? wealth? religious status?
+
+23. Transmission bias: using Kendal's (2018) framework
+
+24. Note (habit, context) 
+
+25. Reference
+
+# Suggestions
+
+From Sean: Each instance should have its own row. Talking to Mike about Nvivo.
