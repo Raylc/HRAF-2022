@@ -1,0 +1,385 @@
+---
+title: "Evaluating the Effect of Random and Systematic Error on Correlations"
+author: "Carol Ember and Sean Roberts"
+output: pdf_document
+---
+
+# Introduction
+
+This exercise has two purposes:  To learn how to manage data files using R and to simulate the effects of random error and systematic error on correlations.  For this purpose you will start with two data files "dataA.csv" and "dataB.csv" which we will consider having "true" relationships between the variables (although the "true" relationships are different from each other).  Then we will deliberately create error to the variables in a number of different ways. The aim is to test how the correlation changes under different kinds of error.
+
+## Approach
+
+This is a fairly simple task, but we want to practice some project management skills. This includes organising the project files so they are transparent and writing the R script in a systematic way so that it is reproducible.
+
+Scripts usually aren't written from top to bottom, but involve an iterative process of trial and error to figure out the parts, then restructuring to put all the parts in order. The scripting process might look like this:
+
+-  Do some 'pseudocoding': write comments in a human language that describe the steps to take (the steps below have done this for you).
+-  Load some data, so we have something to work with.
+-  Try writing some code to do a particular step.
+-  Use the console to work out if the code worked.
+-  Write another line of code ...
+-  Restructure the code so that it can be used efficiently, e.g.:
+  -  Put lines in the right order to be reproduced.
+  -  Move code to a function that we can apply to other datasets.
+-  Check that the whole script can be run independently (by someone else with the same script and data) and in order to produce the same output.
+
+Have a go with the steps below, but there's an example full script at the end of this document.
+
+\clearpage
+\newpage
+
+# Step 1: Data preparation
+
+-  Create a folder for this tutorial. Inside this folder, create a "data" folder for the data and an "analysis" folder for the R script that runs the analysis.
+-  Download the two data files ("dataA.csv" and "dataB.csv") into the "data" folder.
+-  Download the file "errorFunctions.R" into the "analysis" folder.
+-  Start RStudio and create a new R script file, saving it to the "analysis" folder. 
+-  Set the working directory to the analysis folder (use the function `setwd()` or choose from the R Studio menu Session > Set Working Directory >  To Source File Location.
+
+# Step 2: Load the data
+
+Start writing a new script to complete the task.
+
+The first step is to set your working directory (e.g. using `setwd()`).
+
+Now use the function `read.csv()` to load the files into variables called `dataA` and `dataB`. For example:
+
+```{r}
+dataA <- read.csv("C:/FilesVC/HRAF-2022/Data/dataA.csv")
+```
+
+Take a look at the data - it includes two binary variables `x` and `y`.  These might be cultural traits, where 0 is the absence of the trait and 1 is the presence of the trait.
+
+What is the "true" correlation between the two variables? 
+
+The correlation for dataA might seem strange. What is happening here? Try using the function `table()` to see what the pattern is between the two variables.
+
+```{r}
+table(dataA$x, dataA$y)
+```
+
+A ha - they are perfectly evenly distributed.
+
+# Step 3: Add systematic error
+
+The file "errorFunctions.R" includes functions to change a data frame to introduce different types of error. You can copy and paste these functions into your script (I would include them near the top). You can try creating the third funtion yourself, if you want.
+
+For example, the function below is a custom function that we wrote for this project. It takes two arguments: a data frame `d` and the name of a variable to affect `var`. It then introduces *systematic error* to the chosen variable: it finds rows where the variable `var` is zero, chooses 20 of them at random, and sets the variable to 1 instead. Finally, it returns the new data frame.
+
+```{r}
+introduceSystematicError = function(d, var){
+  #Find the row numbers where the variable var is zero
+  rowsThatAreZero = which(d[,var]==0)
+  # Sample 20 rows randomly
+  rowsToChange = sample(rowsThatAreZero,20)
+  # Change the variable in these rows to 1
+  d[rowsToChange,var] = 1
+  # Return the new data frame
+  return(d)
+}
+
+```
+
+This code uses a few tricks:
+
+-  We use `d[,var]` instead of something like `d$x`, because eventually we want to apply the change to both x and y.
+-  The function `which` takes a vector of booleans (true and false) and returns the indices of elements that are True. So if the 1st, 4th and 5th items are True, it returns `1, 4, 5`. 
+-  The `sample` function selects items at random from a vector. Its first argument is the vector we want to select from, and the second argument is how many items we want to select.
+
+Add this function to your script:
+
+-  Copy and paste this function into your script. Functions must be run before you use them, so I usually put functions at the top of the script.
+-  Run the function in the console so that the function is now available.
+-  Now apply the function to the data frame `dataA` and the var `"x"`, and assign the result to a new data frame variable `dataA.sys1`.
+
+```{r}
+dataA.sys1 <- introduceSystematicError(dataA,"x")
+table(dataA.sys1$x, dataA.sys1$y)
+```
+
+The result should be different - check this by using `table()` on the new data frame.
+
+We now want to create a third data frame `dataA.sys2`. This should be a copy of `dataA.sys1`, but where the variable "y" also has systematic error. At this point, you should see the advantage of creating a custom function: we don't have to copy all the lines again. Since we also have to do this for dataB, this approach has some advantages: our script is more readable; and it's easier to change, since we only have to change the code in the custom function for it to be applied each time.
+
+## Double sytematic error
+
+The next function below is a similar custom function that introduces DOUBLE systematic error. In this case, the function accepts three arguments, including the names of two variables to change. It finds rows for the first variable that are "0", and randomly samples 20 of these rows. For each of these 20 rows, BOTH variables are set to "1".
+
+```{r}
+introduceDoubleSystematicError = function(d, var1, var2){
+  #Find the row numbers where the variable var is zero
+  rowsThatAreZero = which(d[,var1]==0)
+  # Sample 20 rows randomly
+  rowsToChange = sample(rowsThatAreZero,20)
+  # Change the variable in these rows to 1
+  d[rowsToChange,var1] = 1
+  # Make sure these are also 1 for variable 2
+  d[rowsToChange,var2] = 1  
+  # Return the new data frame
+  return(d)
+}
+```
+
+
+Apply this function to the data. How does the association change?
+```{r}
+dataA.sys2 <- introduceDoubleSystematicError(dataA,"x","y")
+table(dataA.sys2$x, dataA.sys1$y)
+```
+
+## Random error
+
+The third function is very similar to double systematic error, except it works like this:
+
+1.  Picking 20 rows of the data at random. 
+2.  Change the data for these rows: change a 0 to 1 and change a 1 to 0.
+
+It does this independently for both variables specified (not picking the same rows for both variables).
+
+It uses the `sample()` function to do the first bit. The second bit could be done in several ways. Probably the easiest is just to do `1 - x` (where x is the data you want to change: (1 - 0 = 1) and (1 - 1 = 0)).
+
+```{r}
+introduceRandomError = function(d, var1, var2){
+  # For var1: pick 20 rows
+  rowsToChange = sample(1:nrow(d),20)
+  # Change 0 to 1 and change 1 to 0
+  d[rowsToChange,var1] = 1 - d[rowsToChange,var1]
+  
+  # For var2: pick 20 rows
+  rowsToChange = sample(1:nrow(d),20)
+  # Change 0 to 1 and change 1 to 0
+  d[rowsToChange,var2] = 1 - d[rowsToChange,var2]
+  # Return the new data frame
+  return(d)
+}
+```
+
+
+Apply this random error to create a new data frame `dataA.rand` and `dataB.rand`. How does the association change?
+
+```{r}
+dataA.ran1 <- introduceRandomError(dataA,"x","y")
+table(dataA.ran1$x, dataA.ran1$y)
+```
+
+# Step 5: Tidying up
+
+Go over your script and make sure that it includes all the steps to create the data frames, and that these are in the correct order. Someone else should be able to run the script and arrive at the same results (well, not exactly the same, since we're using random numbers, but the same kind of content).
+
+
+# Step 6: Correlations
+
+Calculate the correlation and significance for the relationship between `x` and `y` in each of the data frames.
+```{r}
+
+cor.test(dataA$x, dataA$y)
+cor.test(dataA.ran1$x, dataA.ran1$y)
+cor.test(dataA.sys1$x, dataA.sys1$y)
+cor.test(dataA.sys2$x, dataA.sys2$y)
+```
+Do you have any preliminary conclusions about the effect of error (systematic, double systematic in the same direction, random error) and whether it depends on the original result?
+
+# Further steps
+
+What happens if you run your script again so that there are different random choices? Does this change your conclusions?
+
+
+Could you add some code to run the whole process many times, to see the *range* of correlation strengths that can occur due to different types of error? How would you need to restructure the code to achieve this efficiently?
+
+```{r}
+#rerun(10, introduceDoubleSystematicError(dataA,"x","y"))
+
+library(purrr)
+# define a function to generate correlation coefficient and p value
+cor1 = function(d){
+               results = cor.test(d$x,d$y)
+               return(
+                 c(r = results$estimate,
+                   p = results$p.value))
+}
+# combine the error generating function and correlations result function
+multiple.func2 <- function(x) {
+      sys2 = introduceDoubleSystematicError(x, "x", "y") 
+      corr = cor1(sys2)
+}
+# resample the double sys error 10 times and return the statistics
+rerun(10, multiple.func2(dataA))
+
+
+# combine the error generating function and correlations result function
+multiple.func1 <- function(x) {
+      sys1 = introduceSystematicError(x, "x") 
+      corr = cor1(sys1)
+}
+# resample the double sys error 10 times and return the statistics
+rerun(10, multiple.func1(dataA))
+
+# combine the error generating function and correlations result function
+multiple.func3 <- function(x) {
+      ran1 = introduceRandomError(x, "x", "y") 
+      corr = cor1(ran1)
+}
+# resample the double sys error 10 times and return the statistics
+rerun(10, multiple.func3(dataA))
+
+
+stats <- rerun(10, multiple.func3(dataB))
+
+barplot(ST, main="Car Distribution",
+   xlab="Number of Gears")
+multiple.func <- function(x) {
+      c(ran1 = introduceRandomError(x), cor = )
+}
+
+result <- sapply(dataA, multiple.func)
+
+multiple.func <- function(x) {
+      c(sys1 = introduceDoubleSystematicError(x), sys2 = introduceDoubleSystematicError(x), ran1 = introduceRandomError(x))
+}
+
+
+cor.test(dataA$x, dataA$y)
+cor.test(dataA.ran1$x, dataA.ran1$y)
+cor.test(dataA.sys1$x, dataA.sys1$y)
+cor.test(dataA.sys2$x, dataA.sys2$y)
+```
+
+
+```{r}
+dataB <- read.csv("C:/FilesVC/HRAF-2022/Data/dataB.csv")
+dataB.ran1 <- introduceRandomError(dataB,"x","y")
+dataB.sys1 <- introduceSystematicError(dataB,"x")
+dataB.sys2 <- introduceDoubleSystematicError(dataB,"x","y")
+cor.test(dataB$x, dataB$y)
+cor.test(dataB.ran1$x, dataB.ran1$y)
+cor.test(dataB.sys1$x, dataB.sys1$y)
+cor.test(dataB.sys2$x, dataB.sys2$y)
+```
+
+
+\clearpage
+\newpage
+
+# Example complete script
+
+Below is an example of how the task above could be solved.
+
+
+```{r eval=F}
+try(setwd("~/Documents/Conferences/EmberWorkshop/Lectures/SystematicError/analysis/"))
+
+# Custom functions to introduce systematic and random errors
+introduceSystematicError = function(d, var){
+  #Find the row numbers where x is zero
+  rowsThatAreZero = which(d[,var]==0)
+  # Sample 20 rows randomly
+  rowsToChange = sample(rowsThatAreZero,20)
+  # Change the variable in these rows to 1
+  d[rowsToChange,var] = 1
+  # Return the new data frame
+  return(d)
+}
+
+# Custom function for double systematic error
+introduceDoubleSystematicError = function(d, var1, var2){
+  #Find the row numbers where the first variable var is zero
+  rowsThatAreZero = which(d[,var1]==0)
+  # Sample 20 rows randomly
+  rowsToChange = sample(rowsThatAreZero,20)
+  # Change the variable 1 in these rows to 1
+  d[rowsToChange,var1] = 1
+  # Make sure these are also 1 for variable 2
+  d[rowsToChange,var2] = 1  
+  # Return the new data frame
+  return(d)
+}
+
+introduceRandomError = function(d, var1, var2){
+  # For var1: pick 20 rows
+  rowsToChange = sample(1:nrow(d),20)
+  # Change 0 to 1 and change 1 to 0
+  d[rowsToChange,var1] = 1 - d[rowsToChange,var1]
+  
+  # For var2: pick 20 rows
+  rowsToChange = sample(1:nrow(d),20)
+  # Change 0 to 1 and change 1 to 0
+  d[rowsToChange,var2] = 1 - d[rowsToChange,var2]
+  # Return the new data frame
+  return(d)
+}
+
+# Read in the data
+dataA = read.csv("../data/dataA.csv")
+
+# Make a copy of the original data frame for systematic error in x
+dataA.sys1 = introduceSystematicError(dataA,"x")
+# Make a copy of xy.sys1 that also has systematic error in both x and y
+dataA.sys2  = introduceSystematicError(dataA.sys1,"y")
+
+# Double systmatic error
+dataA.doubleSys1 = introduceDoubleSystematicError(dataA,"x","y")
+dataA.doubleSys2  = introduceDoubleSystematicError(dataA,"x","y")
+
+# Make a copy of the original data for random error
+dataA.rand = introduceRandomError(dataA, "x", "y")
+
+
+# Do the same for data B:
+dataB = read.csv("../data/dataB.csv")
+dataB.sys1 = introduceSystematicError(dataB,"x")
+dataB.sys2  = introduceSystematicError(dataB.sys1,"y")
+dataB.doubleSys1 = introduceDoubleSystematicError(dataB,"x","y")
+dataB.doubleSys2  = introduceDoubleSystematicError(dataB,"x","y")
+dataB.rand = introduceRandomError(dataB, "x", "y")
+
+
+# Calculate correlations
+# (there are many ways to do this effecitvely)
+
+# Method 1: list of correlation tests (most straightforward)
+cor.test(dataA$x, dataA$y)
+cor.test(dataA.sys1$x, dataA.sys1$y)
+cor.test(dataA.rand$x, dataA.rand$y)
+# ... etc.
+
+# Method 2: less chance of typos messing things up
+with(dataA,cor.test(x,y))
+with(dataA.sys1,cor.test(x,y))
+with(dataA.sys2,cor.test(x,y))
+with(dataA.doubleSys1,cor.test(x,y))
+with(dataA.doubleSys2,cor.test(x,y))
+with(dataA.rand,cor.test(x,y))
+
+with(dataB,cor.test(x,y))
+with(dataB.sys1,cor.test(x,y))
+with(dataB.sys2,cor.test(x,y))
+with(dataB.doubleSys1,cor.test(x,y))
+with(dataB.doubleSys2,cor.test(x,y))
+with(dataB.rand,cor.test(x,y))
+
+
+
+# Method 3: Creating a table of results
+listOfData = list(dataA=dataA, 
+                  dataA.sys1=dataA.sys1,
+                  dataA.sys2=dataA.sys2, 
+                  dataA.doubleSys1 = dataA.doubleSys1,
+                  dataA.doubleSys2 = dataA.doubleSys2,
+                  dataA.rand=dataA.rand,
+                  dataB=dataB, 
+                  dataB.sys1=dataB.sys1, 
+                  dataB.sys2=dataB.sys2, 
+                  dataB.doubleSys1 = dataB.doubleSys1,
+                  dataB.doubleSys2 = dataB.doubleSys2,
+                  dataB.rand=dataB.rand)
+res = sapply(listOfData,
+             function(d){
+               cx = cor.test(d$x,d$y)
+               return(
+                 c(r = cx$estimate,
+                   p = cx$p.value))
+             })# end of sapply
+res = t(res)
+res
+```

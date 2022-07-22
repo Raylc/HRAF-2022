@@ -1,0 +1,24 @@
+---
+title: "Appendix. Ethnographic Sources"
+author: "Cheng Liu"
+date: "`r Sys.Date()`"
+fontsize: 11pt
+output: bookdown::pdf_document2
+header-includes:
+   - \usepackage{textcomp}
+   - \usepackage{utopia}
+   - \usepackage{lineno}
+   - \linenumbers
+   - \usepackage{float}
+   - \floatplacement{figure}{H}
+   - \usepackage{caption}
+   - \captionsetup[figure]{font=scriptsize}
+   - \captionsetup[table]{font=scriptsize}
+linestretch: 1.5
+link-citations: yes
+linkcolor: blue
+bibliography: bibliography.bib
+csl: apa.csl
+---
+
+# Africa

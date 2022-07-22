@@ -47,7 +47,7 @@ How do people in pre-industrial societies learn to make tools?
 # Data sources and searching strategies
 0. Scope of study: Global sample
 
-1. EHRAF World Cultures:  subject "transmission of skills" + key word "tools" (thank you to Carol! Also remember to try specific name of tools like spear/knife/etc. Another keywords include make/made/makes/making.)
+1. EHRAF World Cultures:  subject "transmission of skills" + key word "tools". This combination yields 133 paragraphs in 96 documents across 72 cultures. (thank you to Carol! Also remember to try specific name of tools like spear/knife/etc. Another keywords include make/made/makes/making.)
 
 2. EHRAF World Cultures: key word "practice" + "tool"? (haven't tried it)
 
@@ -57,17 +57,17 @@ How do people in pre-industrial societies learn to make tools?
 
 1. Area: using eHRAF's classification system
 
-2. Society(culture): using eHRAF's classification system
+2. Society: using eHRAF's classification system
 
 3. Code: using eHRAF's classification system
 
-4. Subsistence type: using eHRAF's classification system
+4. Subsistence: hunter-gatherer, primarily hunter-gatherer, horticulturalist, agro-pastarolist, intensive agriculturalist, commercial economy, other subsistence combinations (eHRAF's classification system)
 
 5. Year of observation: eHRAF?
 
-6. Location of learning: following the author's description
+6. Location: following the author's description
 
-7. Location of learning (type): indoor, settlement, field
+7. Location(type): indoor, settlement, field
 
 8. Age of learner: precise age if it is explicitly described
 
@@ -81,25 +81,25 @@ How do people in pre-industrial societies learn to make tools?
 
 13. Number of model: precise number or number group?
 
-14. Relationship between model and learner: horizontal/vertical/oblique
+14. Transmission modes: horizontal/vertical/oblique
 
-15. Relationship between model and learner (details): mother/father/etc.
+15. Social relationship: mother/father/etc.
 
-16. Learning procesess: following Garfield et al. (2016), imitation/emulation, local enhancement, stimulus enhancement, collective learning, collective learning play, collective learning role play, teaching, teaching demonstration, teaching storytelling, individual learning
+16. Transmission bias: using Kendal's (2018) framework
 
-17. Perceived difficulty of skill: difficult/moderate/easy
+17. Learning procesess: following Garfield et al. (2016), imitation/emulation, local enhancement, stimulus enhancement, collective learning, collective learning play, collective learning role play, teaching, teaching demonstration, teaching storytelling, individual learning
 
-18. Amount of time spent:
+18. Perceived difficulty: difficult/moderate/easy
 
-19. Type of technology: ?
+19. Time spent:
 
-20. Raw material: stone, clay, plant, bones
+20. Technology: ?
 
-21. Access to raw materials: difficult/moderate/easy
+21. Raw material: stone, clay, plant, bones
 
-22. Restriction of status involved: gender? wealth? religious status?
+22. Access to raw materials: difficult/moderate/easy
 
-23. Transmission bias: using Kendal's (2018) framework
+23. Restriction of status involved: gender? wealth? religious status?
 
 24. Note (habit, context) 
 

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  21 JUL 2022 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  20 JUL 2022 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**manuscript.tex
-(./manuscript.tex
+**Appendix.tex
+(./Appendix.tex
 LaTeX2e <2019-10-01> patch level 3
 (c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -449,8 +449,8 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 (c:/texlive/2019/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
-)) (./manuscript.aux)
-\openout1 = `manuscript.aux'.
+)) (./Appendix.aux)
+\openout1 = `Appendix.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
 LaTeX Font Info:    ... okay on input line 96.
@@ -606,16 +606,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) (./manuscript.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 2.
-)
+) (./Appendix.toc)
 \tf@toc=\write3
-\openout3 = `manuscript.toc'.
+\openout3 = `Appendix.toc'.
 
-[1
-
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 86.
 See the caption package documentation for explanation.
@@ -624,29 +618,31 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 87.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
-(./manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 214.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+[1
+
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
+(./Appendix.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 14737 strings out of 492162
- 216222 string characters out of 6129062
- 345649 words of memory out of 5000000
- 18752 multiletter control sequences out of 15000+600000
- 78115 words of font info for 76 fonts, out of 8000000 for 9000
+ 14640 strings out of 492162
+ 215154 string characters out of 6129062
+ 340524 words of memory out of 5000000
+ 18728 multiletter control sequences out of 15000+600000
+ 64968 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,42p,809b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,42p,807b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2019/texm
 f-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/pub
 lic/lm/lmss8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopia/putb8a.pf
 b><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on manuscript.pdf (3 pages, 54807 bytes).
+Output written on Appendix.pdf (1 page, 38675 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
- 8241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 35 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
+ 8201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
