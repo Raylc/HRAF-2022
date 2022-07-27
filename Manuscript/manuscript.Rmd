@@ -1,5 +1,5 @@
 ---
-title: "Project Description (2022 HRAF Summer Institute)"
+title: "How do people in pre-industrial societies learn to make tools?"
 author: "Cheng Liu"
 date: "`r Sys.Date()`"
 fontsize: 11pt
@@ -8,7 +8,6 @@ header-includes:
    - \usepackage{textcomp}
    - \usepackage{utopia}
    - \usepackage{lineno}
-   - \linenumbers
    - \usepackage{float}
    - \floatplacement{figure}{H}
    - \usepackage{caption}
@@ -27,84 +26,76 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Research Question
 
-How do people in pre-industrial societies learn to make tools?
+1.  Do hunter-gatherers have a unique learning pattern compared with groups practicing other types of subsistence strategies?
 
-## Sub-questions
-1. Do hunter-gatherers have a unique learning pattern compared with groups practicing other types of subsistence strategies?
+2.  Do learning strategies change across different developmental periods? (More specific hypothesis: will the frequency of social learning decrease through time?)
 
-2. Do learning strategies change across different developmental periods? (More specific hypothesis: will the frequency of social learning decrease through time?)
-
-3. What are some major transmission biases involved? (kin-based? context(success)-based?)
+3.  What are some major transmission biases involved? (kin-based? context(success)-based?)
 
 # Motivation/Significance
 
-1. At the most basic level, this study provides the most in-depth descriptive investigation on this topic so far.
+1.  At the most basic level, this study provides the most in-depth descriptive investigation on this topic so far.
 
-2. It can help improving the external validity of archaeological experimental design.
+2.  It can help improving the external validity of archaeological experimental design.
 
-3. It can serve as a middle-range framework to better understand the formation of archaeological records.
+3.  It can serve as a middle-range framework to better understand the formation of archaeological records.
 
 # Data sources and searching strategies
-0. Scope of study: Global sample
 
-1. EHRAF World Cultures:  subject "transmission of skills" + key word "tools". This combination yields 133 paragraphs in 96 documents across 72 cultures. (thank you to Carol! Also remember to try specific name of tools like spear/knife/etc. Another keywords include make/made/makes/making.)
+0.  Scope of study: Global sample
 
-2. EHRAF World Cultures: key word "practice" + "tool"? (haven't tried it)
+1.  EHRAF World Cultures: subject "transmission of skills" + key word "tools". This combination yields 133 paragraphs in 96 documents across 72 cultures. (Another keywords include make/made/makes/making, produce, manufacture, create, construct, assemble, fabricate, shape, forge, form, etc.)
 
-3. Other ethnoarchaeological works I have read before
+2.  EHRAF World Cultures: key word "practice" + "tool"? (haven't tried it)
+
+3.  Other ethnoarchaeological works I have read before
 
 # Variables
 
-1. Area: using eHRAF's classification system
+1.  **Area**: using eHRAF's classification system
 
-2. Society: using eHRAF's classification system
+2.  **Society**: using eHRAF's classification system
 
-3. Code: using eHRAF's classification system
+3.  **OWC Code**: The Outline of World Cultures (OWC) is a classification system of the cultures of the world, which is used by eHRAF to organize its databases.
 
-4. Subsistence: hunter-gatherer, primarily hunter-gatherer, horticulturalist, agro-pastarolist, intensive agriculturalist, commercial economy, other subsistence combinations (eHRAF's classification system)
+4.  **Subsistence**: Hunter-gatherer, primarily hunter-gatherer, horticulturalist, agro-pastarolist, intensive agriculturalist, commercial economy, other subsistence combinations (eHRAF's classification system)
 
-5. Year of observation: eHRAF?
+5.  **Year of observation**: The years when the given society was observed by the ethnographers. This information is readily available under the name "field date" in the meta information of eHRAF World Cultures.
 
-6. Location: following the author's description
+6.  **Location**: The location where the learning event happens according to the ethnographer's description.
 
-7. Location(type): indoor, settlement, field
+7.  **Location (type)**: [1) *indoor*]{.ul}*:* learning happens inside a building; [2) *outdoor settlement*]{.ul}*:* learning happens inside the settlement but outside the buildings; [3) *outdoor field*]{.ul}: learning happens outside the settlement
 
-8. Age of learner: precise age if it is explicitly described
+8.  **Age of learner**: The learner's age according to the ethnographer's description.
 
-9. Age group of learner: Infancy, Early Adulthood, Middle Childhood, Adolescence, Adult
+9.  **Age group of learner**: [1) *Infancy*]{.ul} (0-4 years old), [2) *Early Childhood*]{.ul} (4-8 years old), [3) *Middle Childhood*]{.ul} (8-12 years old), [4) *Adolescence*]{.ul}(12-16 years old), [5) *Adult*]{.ul} (\>16 years old). For analytical purpose, this category does not concern the cultural differences on the perception of developmental differences.
 
-10. Number of learner: precise number or number group?
+10. **Number of learner**: The number of learner according to the ethnographer's description.
 
-11. Age of model: precise age if it is explicitly described
+11. **Age of model**: The model's age according to the ethnographer's description.
 
-12. Age group of model: Infancy, Early Adulthood, Middle Childhood, Adolescence, Adult (<50), Adult (>50)
+12. **Age group of model**: [1) *Infancy*]{.ul} (0-4 years old), [2) *Early Childhood*]{.ul} (4-8 years old), [3) *Middle Childhood*]{.ul} (8-12 years old), [4) *Adolescence*]{.ul}(12-16 years old), [5) *Adult*]{.ul} (\>16 years old). For analytical purpose, this category does not concern the cultural differences on the perception of developmental differences.
 
-13. Number of model: precise number or number group?
+13. **Number of model**: The number of model according to the ethnographer's description.
 
-14. Transmission modes: horizontal/vertical/oblique
+14. **Transmission modes**: [1) *horizontal transmission*]{.ul}: social learning from individuals of the same generation, age group, or cohort, roughly within 4--5 years of age; [2) *vertical transmission*]{.ul}: children learning from their parents; [3) *oblique transmission*]{.ul}: social learning between individuals of distinct generations or age groups typically from an older generation to a younger generation. It can happen within or beyond extended kin group, such as learning from grandparents, uncles, or other adults in the local population.
 
-15. Social relationship: mother/father/etc.
+15. **Social relationship**: The relationship between the learner and the model according to the ethnographer's description. For example, mother-son/father-daughter/etc.
 
-16. Transmission bias: using Kendal's (2018) framework
+16. **Transmission bias**: This category follows the framework developed by Kendal at al. (2018). [1) *kin-based bias*]{.ul}: learning a cultural trait from people who are your kin members, [2) *success-based bias*]{.ul}: learning a cultural trait from people because they are successful in this technology, [3) *prestige-based bias*]{.ul}: learning a cultural trait from people because of their high social status; [4) *conformist bias*]{.ul}: learning a specific type of knowledge from other people because it is displayed by the majority of local population.
 
-17. Learning procesess: following Garfield et al. (2016), imitation/emulation, local enhancement, stimulus enhancement, collective learning, collective learning play, collective learning role play, teaching, teaching demonstration, teaching storytelling, individual learning
+17. **Learning processes**: This category follows the framework developed by Garfield et al. (2016). [1) *imitation/emulation*]{.ul}: The learner directly observes some skill or behavior and attempts to replicate the observed actions or behaviors; [2) *local enhancement*]{.ul}: The learner gains knowledge or skills by interacting with the local environment because other individuals expose the learner to the setting or environment (e.g., parents take children gathering or walk through forest); [3) *stimulus enhancement*]{.ul}: The learner is given an object to facilitate learning how to use the object; [4) *collective learning*]{.ul}: Individuals of approximately equal age, skill, knowledge, and cognitive ability collectively contribute to the learning of a specific skill or knowledge; [5) collective learning play]{.ul}: Type of collaborative learning that involves the transmission, acquisition, or practice of cultural knowledge or skills through informal play or miscellaneous games; [6) *collective learning role play*]{.ul}: Type of collaborative learning that involves individuals of similar age collectively playing social roles (e.g., play house, husband-wife); [7) *teaching*]{.ul}: An individual modifies his or her behavior specifically to impart knowledge, skills, or behaviors, to a learner, but there is insufficient information to code as demonstration or storytelling; [8) *teaching demonstration*]{.ul}: Type of teaching where an individual demonstrates knowledge, skills, or behaviors, to a learner, and may offer feedback and examples during the process; [9) *teaching storytelling*]{.ul}: Type of teaching where an individual actively imparts specific (within one of the defined domains) knowledge, skills, or behaviors to a learner by verbal communication of stories or metaphors; [10) *individual learning*]{.ul}: Individual exhibits repeated attempts to learn a skill or develop new skills or knowledge on his or her own, including trial and error and individual practice.
 
-18. Perceived difficulty: difficult/moderate/easy
+18. **Time spent**: The time spent on learning according to the ethnographer's description.
 
-19. Time spent:
+19. **Time spent (type)**: [1) *one-shot learning*]{.ul}: the learners only need to learn once to acquire a given technology. [2) *repeated learning*]{.ul}: the learners need to multiple time, including individual trial-and-error learning and practice, to acquire a given technology.
 
-20. Technology: ?
+20. **Technology**: The subject of learning according to the ethnographer's description.
 
-21. Raw material: stone, clay, plant, bones
+21. **Raw material**: stone, clay, plant, bones, etc.
 
-22. Access to raw materials: difficult/moderate/easy
+22. **Restriction of status involved**: The restriction on the social status involved in the learning according to the ethnographer's description. For example, gender, wealth, religious status.
 
-23. Restriction of status involved: gender? wealth? religious status?
+23. **Note** (habit, context, difficulty perceived by local people and ethnographers, access to raw material)
 
-24. Note (habit, context) 
-
-25. Reference
-
-# Suggestions
-
-From Sean: Each instance should have its own row. Talking to Mike about Nvivo.
+24. **Reference**
