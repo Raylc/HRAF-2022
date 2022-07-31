@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  29 JUL 2022 17:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  30 JUL 2022 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -615,6 +615,7 @@ Underfull \hbox (badness 2165) in paragraph at lines 512--513
 an ini-ti-ate learns the ba-sic in-
  []
 
+[32] [33] [34] [35] [36]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 73.
 See the caption package documentation for explanation.
@@ -623,29 +624,29 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 74.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 522.
-[32]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 522.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 574.
+[37]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 574.
 (./Appendix.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 522.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 522.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 574.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 574.
  ) 
 Here is how much of TeX's memory you used:
- 15349 strings out of 492162
- 224611 string characters out of 6129062
- 368762 words of memory out of 5000000
- 19191 multiletter control sequences out of 15000+600000
+ 15375 strings out of 492162
+ 224878 string characters out of 6129062
+ 369016 words of memory out of 5000000
+ 19200 multiletter control sequences out of 15000+600000
  88871 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,42p,2328b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,42p,2328b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texm
 f-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopi
 a/putri8a.pfb>
-Output written on Appendix.pdf (32 pages, 148760 bytes).
+Output written on Appendix.pdf (37 pages, 162601 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
- 377 compressed objects within 4 object streams
- 130 named destinations out of 1000 (max. 500000)
- 12441 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 474 PDF objects out of 1000 (max. 8388607)
+ 427 compressed objects within 5 object streams
+ 147 named destinations out of 1000 (max. 500000)
+ 12465 words of extra memory for PDF output out of 14400 (max. 10000000)
 
