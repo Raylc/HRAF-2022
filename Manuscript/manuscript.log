@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  28 JUL 2022 16:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  31 JUL 2022 00:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -615,13 +615,13 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 [1
 
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 Underfull \hbox (badness 2088) in paragraph at lines 183--185
 []\T1/put/b/n/10.95 Transmission modes\T1/put/m/n/10.95 (+20) : |   []   |   []
 : so-cial learn-ing from in-di-vid-u-als
  []
 
-[3] [4]
+[4]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 74.
 See the caption package documentation for explanation.
@@ -638,18 +638,18 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 206.
  ) 
 Here is how much of TeX's memory you used:
- 15222 strings out of 492162
- 223021 string characters out of 6129062
- 358171 words of memory out of 5000000
+ 15231 strings out of 492162
+ 223099 string characters out of 6129062
+ 360171 words of memory out of 5000000
  19189 multiletter control sequences out of 15000+600000
- 73497 words of font info for 106 fonts, out of 8000000 for 9000
+ 74460 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,42p,2235b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texm
 f-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopi
 a/putri8a.pfb>
-Output written on manuscript.pdf (5 pages, 64819 bytes).
+Output written on manuscript.pdf (5 pages, 65939 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  103 compressed objects within 2 object streams
