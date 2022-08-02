@@ -3,7 +3,10 @@ title: "Appendix. Ethnographic Sources"
 author: "Cheng Liu"
 date: "`r Sys.Date()`"
 fontsize: 11pt
-output: bookdown::pdf_document2
+output: 
+  bookdown::pdf_document2:
+    toc: true
+    toc_depth: 3
 header-includes:
    - \usepackage{textcomp}
    - \usepackage{utopia}
@@ -30,6 +33,16 @@ Meyer, H., & Handzik, H. (1916). The Barundi: an ethnological study of German Ea
 
 "**The eldest son also inherits** the religious and professional attributes and **skills of his father**. If the father was a priest (kiranga), sorcerer, medicine man (umufumu), or **blacksmith** (umususi), etc., the eldest son becomes --- or remains --- in the same position or profession by inheriting from his father the insignia and tools, **in addition to the expert training**. Thus, certain professions remain the prerogative of certain families. If the mother is an expert of some sort, she will pass on her skills to her eldest daughter."
 
+### Mongo
+
+Hulstaert, G. E., & Vizedom, M. B. (1938). Marriage among the Nkundu. In MéIn-8 (Vol. 8, pp. iv, 520). Librairie Falk fils, Georges Van Campenhout, Successeur. p.475-476. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fo32-002
+
+"**Parents teach their children the trades that they themselves know: forging, wood sculpture, the weaving of mats and baskets, pottery making, etc.**"
+
+**p476(contexual information)**
+"In general one has the impression that the girls are far more active than the boys. But I think that this difference is due to the fact that **the boys are almost always in the forest, while the girls remain in the village and are therefore noticed more**. As a matter of fact in our missions it cannot be said that the boys work less well than the girls, quite the contrary."
+
+
 ## Eastern Africa
 
 ### Chagga
@@ -37,6 +50,16 @@ Meyer, H., & Handzik, H. (1916). The Barundi: an ethnological study of German Ea
 Dundas Sir, C. (1924). Kilimanjaro and its people: a history of the Wachagga, their laws, customs and legends, together with some account of the highest mountain in Africa. H. F. & G. Witherby. p.273-274. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fn04-004
 
 "**It seems to be the common rule with all smiths that apprentices are taught first to make knives, then sickles, next slashers, after that hoes, and finally arms. An apprentice who does not belong to the clan of his instructor must enter into blood brotherhood with him, and remains for all his life in the relation of a son to his master; nor may he in turn teach anyone the art without his master's consent. The course of instruction is said to last two to three years**, and having qualified, the pupil pays the fee mentioned before and receives in return a hammer, tongs and an anvil, for which a hard stone from the river bed is used. When insert_drive_file274 when a new forge is made, sacrifice is offered to the ancestors of the smith's clan."
+
+**p.272 (contexual information)**
+
+"In general, the smiths believe that the spirits of their ancestors would be offended if one of their clan did not practise, or at least was not taught, the smiths' craft; among the Wako Makundi Tomono, when a male chil dis born the father gives it a hammer to lick, saying: “With this hammer you shall acquire blessing all your days.” **In the Malisa clan, however, the rule is that the eldest son becomes a smith, the next son a charcoal burner, the third again a smith, and so on. Now if the second son has sons, the eldest must become a smith again, but must pay a fee of a heifer and a goat, as is paid by all persons who wish to become smiths and who are not of the smith clans.** In Uru lives a clan Buka, a branch of Malisa, and its members are charcoal burners, having never paid the insert_drive_file273 fee for instruction in the smiths' art. There are a few such charcoal burners' clans, but mostly the fuel is made by any person who wishes to have something forged, and who supplies it to the smith. Likewise the metal must be supplied by the customer, the rule being that he must supply enough to make two of each article he requires, the second being for the smith himself, or if sufficient metal is not supplied, the second article must be redeemed by payment of one goat; but for the forging of arms, sufficient metal is given to furnish material for three of every one weapon ordered."
+
+Raum, O. F. (1940). Chaga childhood: a description of indigenous education in an East African tribe. Oxford University Press for the International Institute of African Languages and Cultures. p.373. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fn04-002
+
+**p.373 (contexual information)**
+
+"In summing up this survey of professional training, three types can be distinguished. The practice of magic is transmitted when the elders feel they are approaching death. **The simpler vocations, such as bee-keeping and forging, admit the successor at the time of initiation and marriage**, because these occupations form the means of subsistence of the poorer families. The rites accompanying the training and the admission of youths to the professions are analogous to the agricultural education of the farmer's son, whose hoe and axe are blessed too. The heir to the realm receives a schooling, which, though adapted to his superior position, resembles that of his subjects. **Theoretical teaching, magical initiation, and social approval are in all walks of life necessary to admit the novice to his vocation.**"
 
 ## Southern Africa
 
@@ -101,7 +124,11 @@ Ottenberg, S. (1975). Masked rituals of Afikpo, the context of an African art. I
 
 ### Kpelle
 
-Lancy, D. F. (1984). Work, play and learning in a Kpelle town. Xerox University Microfilms. p157-158. <https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fd06-009>
+Lancy, D. F. (1984). Work, play and learning in a Kpelle town. Xerox University Microfilms. p.141, 157-158. <https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fd06-009>
+
+**p141**
+
+"Some tasks are done within the family, but only by the male or female members. Each wife will have her own vegetable and cassava gardens which she tends with the aid of her daughters. Men plant and harvest tree crops with their sons. Net-waving and net-fishing are done in mother and daughter teams, (see Plate XX) as trapping is a father and son operation. **While the girl attempts to learn how to weave nets from her mother, her brother may be tramping through the jungle setting and inspecting traps with his father. At first, the boy merely tags along learning to attend to the salient stimuli of game and jungle. Later, ho will help his father gather materials to make the trap, then he assists in making and setting them. He will try to make his own, getting advice from his father on proper construction. At seven years (Cross-Reference: (Table 13))A a boy may be able to construct a simple trap for catching small birds (Faang).** Each year, thereafter, he will probably learn one or two new traps until he has mastered the whole arsenal. At fourteen ha may join Geleng-Gbe the boys' hunting society and learn secret medicines to use in his traps. At age sixteen he traps by himself and contributes part of his catch to the family larder."
 
 **p157-158**
 
@@ -120,6 +147,7 @@ A girl makes thread from pissava palm fibers (actually strips the fiber into thr
 Many men from Gbarngasuakwelle have, at one time or another, gone down to the coast to work for a few months, for wages, in the Firestone rubber plantation. I observed insert_drive_file178 a seven year old boy with his younger brothers and sisters reenacting the homecoming scene of a worker returned from Firestone. He had made a carrier basket of palm thatch and proceeded to distribute to his "wife and children": dirt (= salt), leaves (= clothes), sticks (= shoes), rope (= belt), gourds (= pots) and cowrie shells (= money).
 
 Several boys aged eight to ten practice palm-tree climbing, to "cut palm nuts." They play on a coconut tree which has a convenient curve in it not found in the oil-palm tree making it easier to climb the first few feet. Their Baling is a strip of bamboo which they loop around the trunk and hold at their sides."
+
 
 Lancy, D. F. (1996). Playing on the mother-ground: cultural routines for children's development. In Culture and human development (pp. xii, 240). Guilford press. p89-90 <https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fd06-031>
 
@@ -162,6 +190,18 @@ A new Poro-bush is opened up at the beginning of the dry season, that is, from N
 **p37** (contexual information)
 
 "In southern Kpelleland, instead of earthen bowls and plates, wooden ones are used of various shapes and sizes. Imported brass bowls and iron pots are also used everywhere; vessels bartered in the North are also common. Other kitchenware to be mentioned are wooden spoons, most of them very artistically carved; gourd shells used for eating and drinking, for storing flour, rice, pepper; the long-stemmed ones are also used as spoons and as enema syringes. Likewise carved of wood are combs, sandals with leather straps, trumpets in the shape of elephant tusks, sword sheaths covered with leather, large mortars for rice and tubers, small ones for snuff, drums, game boards, masks, and dugouts. **It is difficult to find out exactly how these objects are made because they are produced in the schools of the secret societies,34 or at any rate the art is taught there and must therefore be kept secret.**"
+
+Erchak, G. M. (1977). Full respect: Kpelle children in adaptation. In HRAFlex books, ethnography series (pp. 9, 225 l.). Human Relations Area Files, Inc. p.149. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fd06-014
+
+**p.149** (contexual information)
+
+"Many basic skills are acquired through direct investigation, observation, and trial-and-error experimentation. A young boy will watch carefully while an older boy assembles a toy wagon from odds and ends. Scenes of the following sort insert_drive_file150 were observed throughout the year: Three boys were seen carefully and deliberately unweaving the rattan of an old chairseat. While unweaving, the oldest boy continually commented on how the chair was put together. The two younger boys watched carefully."
+
+### Mende
+
+Leach, M. (1994). Rainforest relations: gender and resource use among the Mende of Gola, Sierra Leone. In International African library (pp. xix, 272). Edinburgh University Press for the International African Institute, London. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fc07-009
+
+"In contrast with women's predominance in collecting and using food products, most of the tree and plant materials which Gola forest villagers use to construct and repair buildings, **furniture and items of household and agricultural equipment are collected and processed by men. The knowledge and skills involved in the manufacture of many equipment items are learned as part of Poro initiation**, and women usually avoid the activities for fear of transgressing forbidden men's society boundaries."
 
 ### Tallensi
 
@@ -217,6 +257,16 @@ Adriani, N., & Kruijt, A. C. (1951). The Bare’e-speaking Toradja of central Ce
 Lambrecht, F. (1958). Ifugaw weaving. Folklore Studies, Vol. 17, 1-53 , plates. p1. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=oa19-023
 
 "**Weaving, from cotton to cloth, is the exclusive task of women**. They weave for themselves and the members of their family, but only occasionally for selling purposes. **Girls learn how to weave by helping their mother or elder sister, for example in putting up the warp (see infra), and by actual practice under the latters’ supervision: most of them become quite skilled within a short period of time.** The weaving tools, i.e., the loom sticks, the spindle, the apparatus for fluffing, skeining and winding, are, of course, made by the men."
+
+### Sama-Bajau
+
+Nimmo, H. (2000). Magosaha: an ethnology of the Tawi-Tawi Sama Dilaut. Ateneo de Manila University Press. p.53. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=oa08-003
+
+"**All boatbuilders I interviewed said they learned their craft by working with others, usually their fathers, when young. And expectedly, many of these men were assisted by their sons who would become boatbuilders themselves. Thus, it is very much a family skill passed through the generations.** Men tend to specialize in one type of houseboat (always the one used by their kin group), but are usually able to construct several types of fishing boats. Among the Sama Dilaut men recognized as master boatbuilders in Tawi-Tawi during the 1960s were Hadjulani, Maisahani, Kaiyani, Suarani, Saraban, Amileludden, Lajahulan, and Salbaiyani. All had sons of varying ages who assisted them. During my stay, two of the sons made their first small dugouts and burst with pride as they paddled them through the moorage for the first time."
+
+**p.28** (contexual information)
+
+"**Boat-building is normally an individual project, but occasionally a man needs assistance to help him over a difficult stage of construction or to provide skills, such as carving, which he does not have. At such times, he calls upon members of the family-alliance unit to form a work team**; unless their assistance is needed for a long time, these members expect no payment for their services beyond reciprocal favors. A man with little talent for boat-building, or a young, inexperienced man, sometimes must depend upon members of his alliance unit to construct his entire boat. In this case, the owner provides all materials for the boat and does whatever work he can under the direction of the master boat-builder; in addition, he may be expected to provide sustenance for some of the workers during this period. All depends upon the closeness of the relationship between the men. Most men closely related to the boat-owner would demand no payment, but would certainly feel no qualms about seeking reciprocity from him in a time of their own need. He would, of course, be obligated to give such assistance. On rare occasions, two or three men of an alliance unit may form a work team to construct a boat to sell, in which case profits are equally divided."
 
 ### Semai
 
@@ -312,11 +362,27 @@ Petrivelli, P., Brelsford, T., & McNabb, S. (1992). The Aleutian-Pribilof Island
 
 Today, despite the passing of the distinctive form of the avunculate, Aleut young people are subtly but pervasively socialized into key sets of understandings. Subsistence skills are an important component but not the key marker. Aleut language is transmitted intergenerationally only in Atka to any significant degree, but all the same, distinctive communication patterns, codes of deference in social interaction, and shared understandings about the Aleuts' place in the history of the region are passed on. In addition, key production skills, such as salmon fishing in the eastern Aleutians or the fur seal harvest in the Pribilofs, are set up and transmitted as ideals. Participation in the insert_drive_file441 Orthodox Church is also one of the key elements of Aleut continuity passed down to young people although the frequency of practice varies by community and family."
 
+### Alutiq
+
+Hrdlicka, A. (1975). The anthropology of Kodiak Island. AMS Press. p.79. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=na10-007
+
+“They endeavor in every way to teach the children to endure without complaints, sickness as well as inclement weather. From the very infancy they purposely keep them in dry or again wet places. If the child cries, they dip it into water, even though this be in winter, and hold him there until he stops crying. When the child begins to walk they stop looking after him, and he is free to run barefooted, over ground and stones, in warm and cold weather; and for this reason they later on endure such hardiness, rawness of air and bad weather. In the winter, even in strong frost, they chase all the children into the sea and hold them there for a prolonged time…. The father is glad when the son throws a stone at him or at his mother and wounds him to blood. **From the earliest age the children commence to construct boats, launch them on water, make bows and arrows, learn how to shoot birds, or into a target. When the son reaches 5 or 6 years the father takes him with him in his baidarka and teaches him how to behave with same.**”
+
+“**The girls are taught to sew, make designs, embroider bags, braid cords, weave hats, mats; make containers or buckets — in a word, everything belonging to their sex**. And one has to wonder at the art and taste of some of their productions. It is true that all this is done very slowly. Frequently on the making of a helmet for a festivity the woman spends several months — only afterwards to give it for a few leaves of tobacco."
+
 ### Chipewyans
 
 Irimoto, T. (1981). Chipewyan ecology: group structure and caribou hunting system. In Senri Ethnological Studies (Issue 8, pp. 1, 2, 12, 196 , plsyrd). National Museum of Ethnology. p.143. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=nd07-004
 
 "It is noteworthy that the time use for snowshoe frame making by individual no. 103 (*age 15*) was observed in season III. He tried to make a pair of small snowshoes for his younger brother. **Since it was his first attempt at making snowshoes, he watched individual no. 101 (adopted father of no. 103, age 71) and tried to follow his example. His first trial was not successful; he did not judge the flexibility of the material well, and it broke as he tried to bend it. He obtained more material and made a second attempt. Individual no. 101 was not observed giving much advice to him, but others, including individual no. 102 (adopted mother of no. 103, age 71), encouraged and advised him.** This account demonstrates the process of learning manufacturing techniques and skills. While snowshoe making is conducted by the more elderly Chipewyans, the younger Chipewyans also participate in the process of learning and training."
+
+Jarvenpa, R. (1980). The trappers of Patuanak: toward a spatial ecology of modern hunters. In Mercury series (Issue 67, pp. xv, 258). National Museums of Canada. p.146-147. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=nd07-021
+
+"**On the trapline itself the apprentice serves in an auxiliary capacity. He accompanies the experienced trapper on his rounds of inspections, but he does not construct or maintain sets himself. Rather, he learns by assisting his partner in these matters.** For example, he positions the canoe against a stream bank so that the other man can easily set a trap in the water. Also, he may be expected to quickly fetch the appropriate materials needed to construct a set. The boss will order his assistant to cut trap stakes or to gather twigs and brush to touch up a lynx pen among other things. Further, the apprentice normally carries a pack containing the traps, rope, bait, hatchet and other supplies needed for constructing sets. In general, the younger man's role is to make his partner's work easier and more efficient and to profit by observing.insert_drive_file147 Eventually he will experiment by constructing a few sets of his own.
+
+**While traveling between camps or while moving about on the trapline an experienced trapper expects his apprentice to build fires to warm and sustain him. This is one of the most important supportive responsibilities characterizing the apprentice role since it contributes directly to a boss' physical comfort and nourishment when he needs them most.** On days with extensive travel periodic fires give trappers the opportunity to renew their strength with tea, warm themselves and dry out wet clothing. The ability to construct suitable fires quickly under varying conditions requires a fairly extensive knowledge in selecting sites, wood and tinder. Often the apprentice is left to prepare such fires and to cook meals while the boss is occupied with other matters. For example, to save time a trapper will instruct his partner to remain behind while he leaves the main trail to inspect a short line of traps.
+
+In most cases the subservient role of the apprentice is easily adopted by the novice trapper. **The years of conditioning of a son to his father's directives serve as preparation. An apprentice-son is particularly deferential and respectful. An asymmetrical partnership of brothers may be marked by slight competitiveness, but generally the younger man accepts the decisions of his sibling.** Moreover, an apprentice is anxious to gain his boss' approval and to prove his maturity and resourcefulness. Gaining acceptance as a “man” is most important as illustrated by August Ptarmigan's concern about mastering fire building on the trail:"
 
 ### Kaska
 
@@ -327,6 +393,16 @@ Honigmann, J. J., & Bennett, W. C. (1949). Culture and ethos of Kaska society. I
 The girl's education is derived from her household duties and begins quite early. From the age of six or seven, she hauls water and packs wood. A few years later she learns to cut and sew moccasins, often practicing with scraps of moosehide; tends the rabbit snares; cuts wood; washes clothes, and helps with simple cooking—all by following the examples of her mother or older sisters and with a minimum of verbal instruction. A young girl may at first rebel at economic chores and seek to shirk them, but by the time she is nine or ten years old the rebellion has almost totally disappeared and she is only anxious to complete her duties quickly so as to have free time available. **Boys' education begins somewhat later, at the age of eight. Now they begin to accompany fathers or older brothers on short fishing, hunting, and trapping trips. The boy learns masculine skills by observing older men prepare snow-shoe frames, hew lumber, or manufacture implements, vehicles, buildings, and tools.** While the boy assists older men in these activities, by collecting firewood and handling tools, his real economic contribution begins much later than the girl's. Not until he is near puberty, does the boy begin to manufacture apparatus on his own or go out to hunt large game with an agemate.
 
 As early as the age of three, a child begins to try using snowshoes. Such learning is insert_drive_file186 gradual, but by six the child is already able to cover ten or more miles with these travel aids. Children begin to feed themselves at about three years of age."
+
+### Ojibwa
+
+Hilger, M. I. (Mary I. (1939). A social study of one hundred fifty Chippewa Indian families of the White Earth Reservation of Minnesota. The Catholic University of America Press. p.101-102. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=ng06-012
+
+"**After puberty rites, boys and girls were no longer considered children**; they had outgrown the first stage of Chippewa life, namely childhood, and had entered the second, that of “old man” and “old woman”. They were ready now to begin their vocational training.
+
+**Parents instructed them in the work expected of them as adults, and insisted that they learn by helping them at all times. Boys went on hunting expeditions, and, at times, on the war path with the father and older men. Boys, too, learnt to construct bows and arrows and canoes.**
+
+**The girl learnt** all the household duties, such as gathering and chopping wood, making maple sugar, gathering wild rice, preparing and cooking food, sewing, **making wigwams, mats, and birch-bark vessels and beadwork**. Some of the old women told how they stole away from work, whenever an opportunity presented itself, to play with their dolls, only to be laughed at or chided by the older women. Back to work they must go, doing things on a small scale first, and eventually receiving praise and recognition from elders for a piece of work begun and completed by their own personal efforts–efforts insert_drive_file102 which might have resulted in a tanned hide, a pair of moccasions, a wigwam, or some maple sugar."
 
 ## Eastern Woodlands
 
@@ -454,6 +530,15 @@ To sum up, in his apprenticeship the initiate learns to organize the graphic sig
 
 According to Tonori, Towitara and Siyakwakwa an initiate becomes a tokabitamu when he carves a life-size lagimu and/or tabuya, or a real kula canoe, i.e. **after fifteen to twenty years of apprenticeship**, during which he has followed the norms imposed on him by his teacher-initiator, including the respect of taboos. Siyakwakwa, answering the ethnographer, who had asked him when a pupil is insert_drive_file57 judged a carver, replies: ‘When you know how to carve two, three or four lagimu well, and know how to carve the canoe for the kula, only then will you be a real carver.’ (A.SS, 454).
 
+## Micronesia
+
+### Kiribati
+
+Koch, G. (1986). The material culture of Kiribati. Institute of Pacific Studies of the University of the South Pacific. p.25-26. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=or06-009
+
+"Traps (ū, Plate 5) for catching moray eels are widely used (cf. 31, film 7). However, in many of the settlements at any given time **there are only a few men who know how to construct an ū** or to bait it. The materials used for constructing such traps are shoots and branches of the salt bush Pemphis acidula Forst., (ngea), a heavy and tough ironwood, which are bound together with strong coconut fibre cord (kora). **Their construction is a well-kept insert_drive_file26 family secret, handed down from generation to generation, but it is certainly true that a person skilled in this will let a close friend know the secrets of the method of construction.**"
+
+
 ## Polynesia
 
 ### Maori
@@ -490,9 +575,20 @@ The equipment of the hunter is simple. Bow, arrow, and canoe are indispensable. 
 
 Leeds, A. (1962). Ecological determinants of chieftainship among the Yaruro Indians of Venezuela. In Akten des 34. Internationalen Amerikanistenkongresses (pp. 597–608). Verlag Ferdinand Berger. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=ss19-003
 
-**p. 606 (contexual information)**
+**p. 606** (contexual information)
 
 "One more point may be made regarding the ecology as limiter of chieftainship among the Yaruro. **The tools, techniques, and resources require no very extensive, highly specialized or esoteric knowledge. In fact any man or woman, and any child as well, has access to such knowledge, and it is easily acquired by all members of the society who thus have, at least potentially, equal access to control over the means of life. There is no specialized knowledge, at least with respect to technology and habitat, which requires a specialized repository in the form of a chief or learned person.** Yaruro knowledge, itself dependent upon the inventory of tools, techniques, and resources, inhibits any tendency towards the development of any sort of specialists in technical or managerial knowledge. As one might expect, there are no true specialists in Yaruro society. Here and there women make pots and certain women seem to have a special bent for making woven sacks but these are not properly specialities. Nor, from a technological or ecological point of view, is male or female shamanism in any way a speciality. They do not appear to be specialists even in esoteric knowledge. Knowledge of the general type described here might be called ‘dispersive’ or ‘egalitarian’ since it tends to become more or less uniformly distributed among the members of the society. A consequence of the existence of this type of knowledge, associated with the kind of technology described, is that there will be no specialised training of any specialists and, of course, no specialised personnel to do such training. This is the situation which obtains among the Yaruro both with respect to technical and managerial activities. Thus, in Yaruro knowledge, there is no source for the support of an institutionalized and strong chieftainship."
+
+### Shipibo
+
+Eakin, L., Lauriault, E., & Boonstra, H. (1986). People of the Ucayali, the Shipibo and Conibo of Peru. In Publication (pp. ix, 62). International Museum of Cultures. p.51. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=se26-025
+
+"At one time informal instruction formed an important part of a child's life. **Boys especially were given careful instruction by their father or grandfather in various practical skills. They learned how to fell a tree and shape a canoe, how to make bows and arrows, how to construct a house.** Today, when many of the children spend a large part of the day in school, and many men work away from home, this instruction is much less common. **Much learning, however, continues to be by informal observation and imitation. Girls learn how to string beads and make pottery by working alongside their mothers.** As they grow older, they are given more responsibility in cooking and working in the garden. Boys spend endless hours fishing, either from the shore or from a canoe, and **helping with men's chores. They begin to accompany the men on hunting trips at about age ten**.
+
+**Children's games are often imitations of typical adult activities.** Girls cook on small fires or play with homemade dolls; boys hunt lizards with bow and arrow. Hide-and-seek is popular, as are a number of games and toys introduced from western culture, including stilts and tops.
+
+In addition to traditional ways of educating children, the Shipibo have also had access to formal education for many years. Catholic missions have often had schools, conducted in Spanish, as did some Protestant missions; and patrones have occasionally hired teachers as well."
+
 
 ### Warao
 
