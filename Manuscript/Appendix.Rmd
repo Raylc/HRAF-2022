@@ -39,7 +39,7 @@ Hulstaert, G. E., & Vizedom, M. B. (1938). Marriage among the Nkundu. In MéIn-8
 
 "**Parents teach their children the trades that they themselves know: forging, wood sculpture, the weaving of mats and baskets, pottery making, etc.**"
 
-**p476(contexual information)**
+**p476**(contextual information)
 "In general one has the impression that the girls are far more active than the boys. But I think that this difference is due to the fact that **the boys are almost always in the forest, while the girls remain in the village and are therefore noticed more**. As a matter of fact in our missions it cannot be said that the boys work less well than the girls, quite the contrary."
 
 
@@ -51,13 +51,13 @@ Dundas Sir, C. (1924). Kilimanjaro and its people: a history of the Wachagga, th
 
 "**It seems to be the common rule with all smiths that apprentices are taught first to make knives, then sickles, next slashers, after that hoes, and finally arms. An apprentice who does not belong to the clan of his instructor must enter into blood brotherhood with him, and remains for all his life in the relation of a son to his master; nor may he in turn teach anyone the art without his master's consent. The course of instruction is said to last two to three years**, and having qualified, the pupil pays the fee mentioned before and receives in return a hammer, tongs and an anvil, for which a hard stone from the river bed is used. When insert_drive_file274 when a new forge is made, sacrifice is offered to the ancestors of the smith's clan."
 
-**p.272 (contexual information)**
+**p.272** (contextual information)
 
 "In general, the smiths believe that the spirits of their ancestors would be offended if one of their clan did not practise, or at least was not taught, the smiths' craft; among the Wako Makundi Tomono, when a male chil dis born the father gives it a hammer to lick, saying: “With this hammer you shall acquire blessing all your days.” **In the Malisa clan, however, the rule is that the eldest son becomes a smith, the next son a charcoal burner, the third again a smith, and so on. Now if the second son has sons, the eldest must become a smith again, but must pay a fee of a heifer and a goat, as is paid by all persons who wish to become smiths and who are not of the smith clans.** In Uru lives a clan Buka, a branch of Malisa, and its members are charcoal burners, having never paid the insert_drive_file273 fee for instruction in the smiths' art. There are a few such charcoal burners' clans, but mostly the fuel is made by any person who wishes to have something forged, and who supplies it to the smith. Likewise the metal must be supplied by the customer, the rule being that he must supply enough to make two of each article he requires, the second being for the smith himself, or if sufficient metal is not supplied, the second article must be redeemed by payment of one goat; but for the forging of arms, sufficient metal is given to furnish material for three of every one weapon ordered."
 
 Raum, O. F. (1940). Chaga childhood: a description of indigenous education in an East African tribe. Oxford University Press for the International Institute of African Languages and Cultures. p.373. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fn04-002
 
-**p.373 (contexual information)**
+**p.373** (contextual information)
 
 "In summing up this survey of professional training, three types can be distinguished. The practice of magic is transmitted when the elders feel they are approaching death. **The simpler vocations, such as bee-keeping and forging, admit the successor at the time of initiation and marriage**, because these occupations form the means of subsistence of the poorer families. The rites accompanying the training and the admission of youths to the professions are analogous to the agricultural education of the farmer's son, whose hoe and axe are blessed too. The heir to the realm receives a schooling, which, though adapted to his superior position, resembles that of his subjects. **Theoretical teaching, magical initiation, and social approval are in all walks of life necessary to admit the novice to his vocation.**"
 
@@ -99,6 +99,14 @@ Rattray, R. S. (Robert Sutherland). 1927. "Religion and Art in Ashanti." In . Ox
 
 "In Ashanti, a generation or so ago, every stool in use had its own particular significance and its own special name which denoted the sex, or social status, or clan of the owner. The village of Afwia, a few miles from Coomassie, was the centre, in olden days, of the stool-carving industry. **Sons and sisters' sons were equally allowed to learn the art of carving, from father or uncle respectively**. Many of the stools shown here were the 'copyright' of the Ashanti king, and might not, on any account, be sold in the open market; 2 they were first given to the king, who would then present them to chiefs whom he wished to honour. **A woman might not carve a stool---because of the ban against menstruation**. A woman in this state was formerly not even allowed to approach wood-carvers while at work, on pain of death or of a heavy fine. This fine was to pay for sacrifices to be made upon the ancestral stools of the dead kings, and also upon the wood-carver's tools. If any wood-carver's wife was unfaithful to her husband, and the latter, being unaware of this, went to work, then 'his tools would cut him severely'. A wood-carver might not go to work leaving unsettled any quarrel or grievance with his parents."
 
+**p.301-302**
+
+"It would hardly be correct to state that pottery-making in Ashanti is entirely in the hands of women. **While it is true that they everywhere appear to be the makers of pots, there is not any unwritten law or taboo to prevent a male from practising this trade. As a matter of fact, men do not fashion pots or pipes unless they represent anthropomorphic or zoomorphic forms, for women are forbidden to make these.** The reason given me for this was that the making of these requires greater skill. Another reason often forthcoming why women are the chief makers of pots also appears to be plausible. It is stated that in ancient times pots were invariably bartered in exchange for food, and that they were never sold for gold dust or whatever was the currency of the time. This caused their manufacture to lie in the hands of the women-folk—with the exception noted—‘as it was not worth the while of the men to make them.’
+
+There is a tradition that the first woman potter, at the village of Taffo, an important centre of this industry, was a woman called Osra Abogyo. ‘She learnt the art from Odomankoma, the Creator’; songs are still sung in her honour.
+
+**Pot-making is a hereditary craft, which is handed down from mother to daughter; whole families of girls are ‘potteresses’, having learnt the art from the time that they are quite small children**. Fig. 230 shows the old Queen Mother of Taffo and her family, all of whom are ‘potteresses’. I lived for some time at Taffo, making a study of the craft; many of the photographs shown here were taken on that occasion. The village of Taffo is famous for its pots; it was formerly one of a number of villages, Pankrono, Obuokurum, Sisirease, and Ekwea, which, under the insert_drive_file302 facing old Ashanti régime, were wholly engaged in fashioning earthen-ware vessels. Taffo pots are still exported to places as distant as Seccondee and Accra"
+
 ### Dogon
 
 Paulme, D., & Schütze, F. (1940). Social organization of the Dogon (French Sudan). éditions Domat-Montchrestien, F. Loviton et Cie. p.447. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fa16-002
@@ -134,7 +142,11 @@ Lancy, D. F. (1984). Work, play and learning in a Kpelle town. Xerox University 
 
 "**Certain tasks are quite complex and require training which could be called an apprenticeship**. These tasks include medicine making (Zo), leather-working, pottery, **blacksmithing**, and cloth weaving. Blacksmithing, at least, is learned during an apprenticeship. **Jawo-Gbala was apprenticed to his mother's brother. At first he only helped out on occasion by bringing wood for the forge and by operating the bellows. But even before this Jawo remembers sitting on a log at one end of the "shop" and watching his uncle work. At fourteen he began a formal apprenticeship which lasted three years.** His father "gave" him to his uncle, then, at the end of the apprenticeship, he "gave" him back to his parents. Jawo-Gbala first learned to make a knife blade, then a machete, later still ho learned to carve wooden handles and to forge the hoe and the adze. These latter two require bending the hot iron which must be done with care to avoid breaking it. His uncle made few comments while Jawo-Gbala was working, only when he had finished a tool would he give a critique. He wasn't allowed to keep a piece until it was perfect, nor could he make a machete until he'd mastered the knife, a hoe until he'd mastered the machete and so on. When he did make a mistake, or did sloppy work, his teacher would beat and berate him and order him to destroy what he'd made. During the apprenticeship, he paid his uncle through his work. He would make tools for people who would, in turn, agree to work on Kuu on his uncle's farm. The apprenticeship terminated when Jawo-Gbala had mastered all the tools including these needed in the actual blacksmithing and he set up his own forge."
 
-**p177-178** (contexual information)
+**p159**
+
+"Yeleke has been crippled since he was very young, probably from polio. **As a child he had enjoyed watching his father's brother doing leather-work, but his uncle died before passing on his skill**. Yeleke realized that he would not be able to support a family through rice-farming and he did not want to be dependent on hand outs so he begged his father to find someone who would teach him leather working. **His father traveled to Guinea where the skill is more common and brought back a teacher who lived in the family for three years. Yeleke was then in his mid-teens and he had to struggle to learn his trade.** For one thing his fingers are also partially paralyzed and his general lack of mobility slowed down and hampered his work. Leather-working breaks down into many subtasks and some of these, such as sewing and tooling the leather require strength and finesse. Yeleke learned the easier and more basic tasks first, such as working the leather by hand to soften it, scraping it clean, shaping and cutting it, etc. Today ho makes a wide variety of items including several things such as fur hats that he invented on his own. (see Plate XII)"
+
+**p177-178** (contextual information)
 
 "**If one had a lot of time (say two years) to spend observing young children at Neé-pele, one would, I believe, record instances of all the important adult activities of the society**. Some other examples of Neé-pele that I did observe:
 
@@ -161,11 +173,11 @@ The "blacksmith" and his co-actors use the appropriate language in carrying out 
 
 The blacksmith possesses complex technical skills, the most important insert_drive_file90 of which is a basic understanding of metals and their reaction to various temperatures and stresses. **Clearly, these technical skills are not acquired to any appreciable degree during make-believe play. The blacksmith is also an important ritual figure and will be called on to assist in administering oaths. I found no evidence to indicate that children were learning the ideological aspects of being a blacksmith through their play.**"
 
-**p61** (contexual information)
+**p61** (contextual information)
 
 "**The blacksmith is the only skilled worker with a permanent workshop**. This is an open-walled building with a sharply pitched thatched roof. Inside, is a forge that consists of two earthen mounds separated by a narrow trough in which a fire of woodchips is laid. An assistant works two leather bags which force air through bamboo tubes down and out a small opening at the base of the fire. A large and smaller rock serve as anvils and the blacksmith uses a variety of hammers, punches, and tongs in his work. A customer brings both the iron and the wood to be made into the requested tool---a blacksmith does only bespoke work. **Formerly, iron, which is plentiful in the region, was smelted in local furnaces (Thomasson, 1987), but this practice has died out. Scrap iron is presently used**. Only old men knew the secrets of iron smelting and one had to be initiated into these secrets, as in the Poro."
 
-**p168** (contexual information)
+**p168** (contextual information)
 
 "As illustrated in an earlier analysis (Lancy, 1980a), becoming a Kpelle blacksmith involves mastery of three distinct spheres. **First, one needs to learn how to turn iron and wood into useful products. Second, because of his very public persona, his “extra” income, and the heavily symbolic nature of his craft, the blacksmith will inevitably assume the trappings of a “big man.”** The blacksmith's forge is one of the most popular male gathering points in town and the blacskmith is privy to a great deal of gossip and often consulted on legal, government, and social affairs. This is an awesome and dangerous responsibility, akin to that assumed by the town chief. **Third, the blacksmith must also master the intricacies of the magicoreligious role of Zò**, as he is often called on to conduct purifying rituals. The apprenticeship, per se, is straightforward, as we shall see. It is the other two spheres that involve many other cultural routines—including make-believe play—(Lancy, 1980a)."
 
@@ -181,19 +193,19 @@ Westerman, D. H., & Schütze, F. (1921). The Kpelle: a negro tribe in Liberia. V
 
 "**The technical teaching covers all skills: plaiting mats, weaving, basketry; making sieves, traps, fish nets, weirs; roofing, blacksmithing, hunting; carving dugouts, mortars and drums; making game boards**. Other requirements are: proficiency in games, in drumming and dancing, learning songs and folktales. Certain equipment, such as blacksmith tools and game boards, is made only in the bush and may therefore not be sold. A large part of the training period is taken up with sex education: "to handle women, to find the secret parts of women" [cited in English]; how to make women well disposed toward one, how to force them to obey, how to get behind their wiles and dodges and keep oneself unscathed. The pupils of the chieftain class are initiated into tribal life, its structure, the regulations about inheritance and the election of a new chief, the ceremonial at the king's court, the tribal traditions, relationships with neighboring tribes, warfare. The pupils in the class of religion are taught chiefly about medicine, magic and counter-magic, offerings, ordeals, sand-beating and other fortune-telling, about spirits, water-people and hill-people, forest devils, totem animals and plants and their treatment, about God. Naturally, everything worth knowing about the Poro Society itself and other secret societies is taught, especially the duties toward members and strangers. The pupils learn the secret characteristics and signs by which initiates recognize each other and can communicate unobtrusively, "and all kinds of tricks and rascality" [cited in English]. Instruction about sex is postponed until the later years when the boys reach maturity."
 
-**p288** (contexual information)
+**p288** (contextual information)
 
 "**Entrance to the Poro school takes place between the ages of seven and fifteen, rarely later. The complete course lasts four years.** During this time the pupils can learn everything that is taught in the Poro and reach the upper grades. Many, however, enter during the course and remain two or three years, one year, or even only a few months. Well-to-do people can shorten the training period of their children at will by means of gifts to the ˙namũ. Private lessons with a zō can also replace part of the stay in the bush, if one can prove, according to certain criteria, that one is an accepted member. It may even happen that a young man takes part only in the entrance ceremonies and is thus regarded as a member. This happens, for example, if a man, for some reason, has not attended the Poro, perhaps because he was away from home, but then wishes to get married and for this purpose must become a member.
 
 A new Poro-bush is opened up at the beginning of the dry season, that is, from November on, when the field work of the year is completed. Entrance in the school and thus in the Society is nominally voluntary, but actually reluctant candidates are forced. Parents, with happy anticipation, wait for the time when their son can become a member of the Poro, and they gladly bear the trouble and costs involved, the long separation that is also painful for Negro mothers, and the dangers threatening their children in the bush. They will describe to their children, in harsh colors, the experiences awaiting them in the **bush**, the demands that will be made on them, and their privations, and will prepare them for dreadful things. At this time the ˙namũ with his retinue scours the villages and roads and where he finds an uninitiated one at the proper age he will take him along without further ado. His parents will later on find out only that the ˙namũ devoured him. If the ˙namũ happens to know that the women are absent, he will himself enter a hut and drag out potential shirkers. Often, the father, after arranging with the grand master, will send his boy on an errand and will let the unsuspecting one be caught along the way."
 
-**p37** (contexual information)
+**p37** (contextual information)
 
 "In southern Kpelleland, instead of earthen bowls and plates, wooden ones are used of various shapes and sizes. Imported brass bowls and iron pots are also used everywhere; vessels bartered in the North are also common. Other kitchenware to be mentioned are wooden spoons, most of them very artistically carved; gourd shells used for eating and drinking, for storing flour, rice, pepper; the long-stemmed ones are also used as spoons and as enema syringes. Likewise carved of wood are combs, sandals with leather straps, trumpets in the shape of elephant tusks, sword sheaths covered with leather, large mortars for rice and tubers, small ones for snuff, drums, game boards, masks, and dugouts. **It is difficult to find out exactly how these objects are made because they are produced in the schools of the secret societies,34 or at any rate the art is taught there and must therefore be kept secret.**"
 
 Erchak, G. M. (1977). Full respect: Kpelle children in adaptation. In HRAFlex books, ethnography series (pp. 9, 225 l.). Human Relations Area Files, Inc. p.149. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fd06-014
 
-**p.149** (contexual information)
+**p.149** (contextual information)
 
 "Many basic skills are acquired through direct investigation, observation, and trial-and-error experimentation. A young boy will watch carefully while an older boy assembles a toy wagon from odds and ends. Scenes of the following sort insert_drive_file150 were observed throughout the year: Three boys were seen carefully and deliberately unweaving the rattan of an old chairseat. While unweaving, the oldest boy continually commented on how the chair was put together. The two younger boys watched carefully."
 
@@ -264,7 +276,7 @@ Nimmo, H. (2000). Magosaha: an ethnology of the Tawi-Tawi Sama Dilaut. Ateneo de
 
 "**All boatbuilders I interviewed said they learned their craft by working with others, usually their fathers, when young. And expectedly, many of these men were assisted by their sons who would become boatbuilders themselves. Thus, it is very much a family skill passed through the generations.** Men tend to specialize in one type of houseboat (always the one used by their kin group), but are usually able to construct several types of fishing boats. Among the Sama Dilaut men recognized as master boatbuilders in Tawi-Tawi during the 1960s were Hadjulani, Maisahani, Kaiyani, Suarani, Saraban, Amileludden, Lajahulan, and Salbaiyani. All had sons of varying ages who assisted them. During my stay, two of the sons made their first small dugouts and burst with pride as they paddled them through the moorage for the first time."
 
-**p.28** (contexual information)
+**p.28** (contextual information)
 
 "**Boat-building is normally an individual project, but occasionally a man needs assistance to help him over a difficult stage of construction or to provide skills, such as carving, which he does not have. At such times, he calls upon members of the family-alliance unit to form a work team**; unless their assistance is needed for a long time, these members expect no payment for their services beyond reciprocal favors. A man with little talent for boat-building, or a young, inexperienced man, sometimes must depend upon members of his alliance unit to construct his entire boat. In this case, the owner provides all materials for the boat and does whatever work he can under the direction of the master boat-builder; in addition, he may be expected to provide sustenance for some of the workers during this period. All depends upon the closeness of the relationship between the men. Most men closely related to the boat-owner would demand no payment, but would certainly feel no qualms about seeking reciprocity from him in a time of their own need. He would, of course, be obligated to give such assistance. On rare occasions, two or three men of an alliance unit may form a work team to construct a boat to sell, in which case profits are equally divided."
 
@@ -311,13 +323,13 @@ And after I was able to make metates, we would meet on the corner to finish them
 
 What are the principal aspects of this process? **During his period of apprenticeship the apprentice is economically dependent on his maestro-patrón; he helps the latter in those quarry tasks which require a minimum of skill but much effort (e.g., carrying waste stone out of the quarry) and is rewarded by an occasional piece of stone, access to his maestro's tools, and with advice or informal instruction.** The insert_drive_file191 only source of remuneration for the apprentice is the revenue from the sale of his output — which is usually small in quantity and poor in quality. Inevitably, then, for a period of several weeks or months the pecuniary reward for the apprentice's efforts is minimal and he must rely on patience and perseverance (and deferral of gratification) to get him through his apprenticeship."
 
-**p183-184** (contexual information)
+**p183-184** (contextual information)
 
 "The informal organizational structure of the Teitipac metateros consists of three functionally differentiated and ranked sets of status whose internal relationships are schematized in Figure 13. The maestros (masters or teachers) or dirigentes (directors) are capable of organizing and directing quarry operations, of instructing, and are the most skilled insert_drive_file184 quarrymen and metate makers. The mozos metateros are those members of the occupation who lack the knowledge and experience to organize and direct quarry operations but are competent makers of metates and manos. **Apprentices, who are mostly boys and young men under the age of 25, can neither organize and direct quarry operations nor make metates. They are teaching themselves by trial and error and by imitation, or are being taught by more skilled workmen, to make metate products.**
 
 Since it is very difficult for a neophyte to learn to make metates on his own, he must undergo a period of ‘on the job’ training. Consequently, the informal status hierarchy represented in Figure 13, looked at diachronically, indicates developmental stages in the metatero's career. This is not to imply that all apprentices become full-fledged metateros nor that all metateros become maestros but, rather, that those who do attain higher ranks passed through the lower ones."
 
-**p185-188** (contexual information)
+**p185-188** (contextual information)
 
 "As the highest status in metatero organization, that of maestro merits further discussion. Table 8 contains a tabulation of the traits most emphasized in 15 metatero definitions of maestro. Below is a sampling of some of these definitions:
 
@@ -338,7 +350,7 @@ Certain families in the Teitipac villages are known as metatero families. For ex
 As it turns out, all 14 of the direct male descendants of Jose were or are metateros. Since Jose was himself a metatero his occupation has been transmitted through a total of 3 descending generations. Between the Cruz and three other patrilines in San Sebastian society, the metatero population has a deep and extensive kinship base."
 
 
-**p192-193** (contexual information)
+**p192-193** (contextual information)
 
 "There are variations in the recruitment and enculturation process as can be inferred from the following account by a San Juanero of how he became a metatero:
 
@@ -349,6 +361,18 @@ Little by little I began to make 1 mano daily, then, 3 ever 2 days. Afterwards I
 I began to make metates without a maestro; I observed how others did the work and then I made some wooden models — tracing the form from an old metate. Then, I began to cut stones using a ruler and a pencil to mark the cuts. I started using a little chisel — about 15 centimeters long — and slowly but surely I perfected my finishing techniques. In 1939 I began to make specially decorated metates (carved in bas relief) — those that sell for 200 pesos each now and then were worth only 8 pesos.
 
 In San Juan one observes more young boys working in the metate industry than in San Sebastian. Many young San Juaneros (some as young as 8–10 years) wander through the quarries picking up discarded pieces of stone (“pepenando la piedra”) unsuited for making full-size metate products but which are suitable for making small metates and manos which are sold as toys. Many of these boys have made agreements with village traders for the sale of their products. By the time they reach their teens, many of these San Juan youths are skilled stone cutters and have only to gain experience in the quarries to qualify as full-fledged metateros."
+
+## Maya Area
+
+### Tzeltal
+
+Nash, J. C. (1970). In the eyes of the ancestors: belief and behavior in a Mayan community. Yale University Press. p.55-56. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=nv09-007
+
+"Learning to make pottery. **A girl begins to make pottery about the age of eleven. First she makes small replicas of the articles her mother produces. Then, under her mother's direction, she learns to prepare the clay.** The mother feels the clay with her fingers, telling her daughter to add more sand if this is lacking. She is taught to knead the clay three times. In making the most difficult phases are mixing the clay, forming the base, and rounding out the walls of the vessel as it is raised. The child is expected to learn slowly and is encouraged gently to improve each step. While the child works on her first pot, the mother makes a similar one; **three or four times they exchange vessels, and the mother shapes her daughter's pot into a better form**.
+
+About two generations ago, marriages at the age of eleven or twelve were the rule. Since most of the intensive learning of pottery techniques begins at that age, **pottery was taught to the bride by her mother-in-law if she resided in her husband's house** (Blom and La Farge 1927). Most marriages now are contracted for girls from fourteen to seventeen years of age. By this time they are already proficient potters and accustomed to working with their mothers. Therefore there is greater stress on their remaining in or near the parental home after marriage.
+
+**The pottery is fired in the streets of the town outside the house, usually after the women have made four or five dozen items.** The pots are set on planks forming a rough square around the fire in the center. Charcoal is added to the fire as the brush or corn husks set between the pots begin to burn. The women tend the pots, turning them every five minutes until the surface is well dried and hardened. Wood is added to the fire, and then the jugs are stacked in a pyramid, each one protected from the one it touches with a broken piece of pottery. The stacking is crucial to permit even firing and must be done carefully so that none are broken. Once the insert_drive_file56 pyramid is complete, wood is laid against the pots in a tepee formation. When the sawmill in the vicinity was in operation, flat boards--scraps of cut lengths--were used, but now only logs are available. Corn husks or dry straw are stuffed between the planks or logs. When a large number of puts are being fired, the men usually help at the final stages to remove the charred planks with poles. If men are not available, the women of the household often call upon their neighbors for help. In this operation, the women wear sandals and hats for protection from the heat. When the pots are cooled, the women, sometimes with the help of the men, stack them in net bags, six to a net with straw protecting the pots."
 
 # North America
 
@@ -394,6 +418,14 @@ The girl's education is derived from her household duties and begins quite early
 
 As early as the age of three, a child begins to try using snowshoes. Such learning is insert_drive_file186 gradual, but by six the child is already able to cover ten or more miles with these travel aids. Children begin to feed themselves at about three years of age."
 
+Teit, J. A., & Helm, J. (1956). Field notes on the Tahltan and Kaska Indians: 1912-15. Anthropologica, No. 3, 39–171. p.115-119. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=nd12-005
+
+"The attainment of puberty was considered the most critical and important period in a girl's life. What she did at this period would effect her future life and ensure her good luck or the reverse. She therefore at this time had to undergo a period of careful training to make her lucky and fit her to become a useful woman and esteemed member of the tribe.
+
+Pubescence was considered a “great mystery”. At this first budding out of womanhood girls were believed to be endowed with certain supernatural powers over persons and things the misuse of which might do very great harm both to themselves and people in general.insert_drive_file116 A girl could unwittingly cast spells on people if not prevented. She was also unclean and therefore was capable of giving offence to game animals or of making them afraid. For these reasons, her powers had to be directed and controlled. Thus girls were isolated etc. and many restrictions and taboos were enjoined on them. Certain of these restrictions extended to beyond the period of the girl's training and isolation.
+
+On the first appearance of catamienia a lodge was at once erected for the girl and to this she had to retire. Girls' lodges were constructed of the same materials and were of the same shapes as other lodges of the tribe. All were small in size or generally just large enough to accommodate the girl for sleeping, sitting and shelter. Lodges used by rich people's daughters were of the ordinary lean-to-types and covered with skin instead of brush etc. The lodge was first pitched about five hundred yards away from the main lodge or lodges of the people or sufficiently far away to be beyond the general noises of the camp. After three or four months the lodge was shifted closer to the people's camp and at the same time the brush or other floor covering of the lodge was renewed. After a time (perhaps another three months) the lodge was shifted again closer and the shifting occurred at intervals until at last just before the girl's period of isolationinsert_drive_file117 ended her lodge was so close to the camp it almost formed a part of same. **As soon as the girl was isolated, her mother, aunt or some elderly relative took charge of her and became her attendant and instructor.** The girl was robed in a blanket of dressed caribou skin, which covered her almost down to her feet. The upper part reached above her head over which it was drawn so as to extend beyond her face on both sides. Some of these robes had the upper part sewed into a rude hood which covered her head and extended forward about two feet beyond her face, precluding her seeing on each side. The robe was held in place by a leather belt around the waist. She used the ample hood part of the robe to hide her face when she was aware of anything being near which should not see her face or which she herself should not see. It was believed her glance was harmful to men and to game etc. Men should not see her face nor be seen by her. For this reason all males, including her nearest relatives, kept away from her for several months and she kept out of their sight. Only females were allowed to visit her. **Female relatives and neighboring women sometimes came to chat with her and give her instruction.** They continued to visit her during the whole time of her training. During this period the girl had to learn something of all the work and duties which would devolve on her in future years.insert_drive_file118 She had to acquaint herself with and, as much as possible, perfect herself in all kinds of women's work. This was done under the guidance of her attendant and the women who visited her from time to time. Her work was examined and criticised by these women, who also related her progress and always encouraged her to persevere and do better. **Thus she commenced to do all kinds of sewing and embroidery, to make moccasins, do netting, fill snowshoes, etc.** It was considered right that she should be industrious at this period so she would in after years have this virtue. Therefore, /in order/ that she be kept busy, and to ensure sufficient practice, many women brought moccasins for her to make or to mend, and sewing to do for them. She had to finish properly all the work brought to her and received no payment of any kind for her work. **The girl had to work diligently at making robes, clothes and all kinds of things made by women, and thus also learned all kinds of cutting, shaping, and sewing.** Girls had to keep out of sight of people generally and men in particular and therefore spent by far the greater part of their time in their lodges. Girls wore no head bands, but tall caps of leather were used by some. Of late years these have been made of red or blue cloth. Garters of twisted skin enclosing birds down were used. Each girl used a drinking tube and scratcher of bone susponded around theinsert_drive_file119 neck by a leather string. If a girl drank water without the tube, the water would hurt her stomach and cause her internal sickness of some kind. Tubes were made of the long wing bones of swans and geese. Eagle wing bones and lynx bones were not used. As a rule they were entirely unornamented in any way. They were generally carried in tube carriers made of square and oblong pieces of skin varying in size and worn with a string around the neck. The piece of skin was folded in two and the middle sewed across a little below the fold making a pocket to fit the circumference of the tube. The skin below formed two flaps which were often ornamented with fringes and pendants as well."
+
 ### Ojibwa
 
 Hilger, M. I. (Mary I. (1939). A social study of one hundred fifty Chippewa Indian families of the White Earth Reservation of Minnesota. The Catholic University of America Press. p.101-102. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=ng06-012
@@ -403,6 +435,18 @@ Hilger, M. I. (Mary I. (1939). A social study of one hundred fifty Chippewa Indi
 **Parents instructed them in the work expected of them as adults, and insisted that they learn by helping them at all times. Boys went on hunting expeditions, and, at times, on the war path with the father and older men. Boys, too, learnt to construct bows and arrows and canoes.**
 
 **The girl learnt** all the household duties, such as gathering and chopping wood, making maple sugar, gathering wild rice, preparing and cooking food, sewing, **making wigwams, mats, and birch-bark vessels and beadwork**. Some of the old women told how they stole away from work, whenever an opportunity presented itself, to play with their dolls, only to be laughed at or chided by the older women. Back to work they must go, doing things on a small scale first, and eventually receiving praise and recognition from elders for a piece of work begun and completed by their own personal efforts–efforts insert_drive_file102 which might have resulted in a tanned hide, a pair of moccasions, a wigwam, or some maple sugar."
+
+Densmore, F. (1929). Chippewa customs. In Bulletin (Issue 86, pp. xii, 209 , plates). U.S. Govt. print. off. p.60-61 https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=ng06-005
+
+"Nodinens said, “I had four brothers and two sisters. My father gave counsel to the boys and taught them the best way to live, and insert_drive_file61 my mother told the girls how to conduct themselves. The first thing I can remember was my mother's saying ‘always be industrious. Get up early and do your work. Do you hear me? Do you hear me? Do you understand?’ She took hold of my ear and pulled it hard as she said this, and she kept on until I said that I understood. She told me that I must live a quiet life and be kind to all, especially the old, and listen to the advice of the old. She said that people would respect me if I did this and would be kind to me. She said, ‘Do not run after a boy. If a young man wants to marry you, let him come here to see you and come here to live with you. This is the reason I am always telling you to be industrious and how to live, so when you have a home of your own you will be industrious and do right to the people around you.’ **She taught me to make mats and bags, to make belts and moccasins, leggings, and coats for my brothers**, so they would never lack for these things.”
+
+**p. 61-62** (contextual information)
+The companionship of a Chippewa girl and her mother was very close and the child learned many household tasks by watching and helping her mother. **Thus a little girl was early taught to chop wood and carry it on her back, and as she grew older she carried larger and larger bundles of wood until she could carry enough into the wigwam for the night's use. A girl was taught to make little birch-bark rolls like those which covered the wigwam**, her mother saying “you must not grow up to live outdoors and be made fun of because you do not know how to make a good wigwam.” She insert_drive_file62 was also taught to make maple sugar, gather wild rice, and do all a woman's tasks. Odinigun said that “a man had no bother thinking he must go home and do this or that, for he knew that his wife would attend to it.” He said that if a girl was well brought up and was capable she usually got a good husband. Her reputation often went to other villages, and a young man would seek her out because he had heard that she was quiet and industrious. Such a couple usually had a fine family, the children were well governed and did not quarrel. In concluding this subject Odinigun said that in his old age he noticed that those who had kept the advice of the old people had lived long and led a quiet life, but those who did not regard their advice had had much trouble and died."
+
+**p.65** (contextual information)
+
+"**The little girls made miniature mats from rushes and were encouraged to take the bark from small birch-bark trees and make rolls similar to those used for wigwam covers; they also made little birch-bark utensils similar to those made by their mothers.**"
+
 
 ## Eastern Woodlands
 
@@ -454,7 +498,17 @@ Ewers, J. C. (1945). Blackfeet crafts. In Indian handcrafts (Issue 9, p. 66). Un
 
 "Elderly Blackfeet say that quillwork was regarded as a sacred craft by their people. **Girls or young women were taught the craft by the older women. First the younger women were initiated ceremonially into the art of handling the sharp-pointed quills. It was claimed that women who attempted to do quillwork without having first experienced this ceremony would surely “go blind” or suffer from a swelling of the finger joints. Then they were taught how to use the tools of the quillworker’s craft and how to employ the various methods of quill sewing, plaiting and wrapping known to their elders.** Quills of the same size in assorted colors were kept in long, cigar shaped, bladder containers until ready for use. The quillworker’s kit also included one or more bone or metal awls for making holes in the skin, a quantity of sinew thread for passing through these holes in attaching the quills to the surface of the skin, and a bone or horn instrument for pressing and flattening the quills after they had been sewn to a flat surface. The Blackfeet quillworker held quills in her mouth to soften them, then flattened them between her teeth and put them in place at once. It was customary for a beginner to give her first piece of quillwork as an offering to the sun."
 
+Ewers, J. C. (John C. (1963). Blackfoot Indian pipes and pipemaking. In Anthropological Papers (Issue No. 63-67, pp. 29–60). U.S. Government Printing Office. p.49. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=nf06-025
+
+“Running Crane's daughter, Deathly-Woman-Cree-Medicine (born ca. 1868), was the only woman living on the Blackfeet Reservation in the decade of the 1940's who had made pipes. **She told me that she had learned the craft by watching her father and her mother, Crane-Old-Woman (who also was a pipemaker), at work. She followed their example in using stone from the Running Crane quarry site for her pipe bowls. She followed her father's example in employing a sharpened piece of hoop-iron to drill the bowl and stem holes, in shaping the exterior of the bowl with a file and removing the file marks with sandrock.** Mrs. Cree Medicine preferred a sage fire for blackening the surface of a pipe bowl. She also greased the bowl before placing it over the smoke of the fire. She knew that other pipemakers used a buckbrush fire for blackening pipe bowls, but she thought buckbrush made too hot a fire and might crack the stone.”
+
 ## Southwest and Basin
+
+### Hopi
+
+Dennis, W. (1940). The Hopi child. D. Appleton-Century Company, Incorporated, for the Institute for Research in the Social Sciences, University of Virginia. p.50. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=nt09-031
+
+"**Girls also play at pottery-making, shaping small pots and actually firing them out of doors. This sometimes accompanies the pottery-making of a mature woman**, but as the shaping and firing of pottery is only an occasional activity at Hotavila, the girls frequently perform the sham pot-making by themselves."
 
 ### Navajo
 
@@ -468,7 +522,7 @@ Adair, J. (1944). The Navajo and Pueblo silversmiths. In Civilization of the Ame
 
 “Many silversmiths have learned the craft just by watching other smiths at their work. When I asked Charlie Houck from whom he had learned the art, he replied: ‘No one taught me, I just learned myself. I watched other fellows make silver, then I went [91] ahead and made some myself. I was able to do everything but solder and I learned how to do that from Red Mexican.’ **Many smiths have learned the art in just that way, with no formal instruction of any sort, but it is considered dishonest if one smith watches another without telling him that he wants to learn.** I asked Atsidi Yazzie how he learned. He said: ‘I didn't learn from any one person. I just picked it up by watching different smiths at work. I stole the art from some of those smiths. I watched Atsidi Chon make silver, but he didn't know that I was learning while I was watching him. Then when he went away for a day or so I would go over to his hogan near Klagetoh and use his tools and solder to make some buttons and other things out of my own dimes and quarters.’”
 
-**p73-76** (contexual information)
+**p73-76** (contextual information)
 
 "After the silver had cooled for about ten minutes, Tom told me that it was ready to pound. Gripping one end of the bar with pliers, I held the bar over the anvil and pounded down on the metal. I had given it just two blows with the hammer when the silver flew out from the pliers and landed three feet away. Tom laughed. I hammered once more. Tom instructed me to strike the blows at an angle so that the edge, and not the flat end of the hammer head, would hit the metal. After half a dozen blows, the silver again flew out from the pliers, this time hitting me in the head. Hammering had always looked very easy. As I had watched smiths at work, I had realized that it was tiring work and that it took a certain amount of strength, but I thought there was no trick to it. One just pounded.
 
@@ -476,7 +530,7 @@ Before that first day was over, I learned that **there is a great deal of skill 
 
 "Tom Burnsides had agreed to teach me how to work silver, so one morning I arrived at his hogan ready to start work. When he wanted to know what I would like to make, I asked him what would be best for a beginner, and he advised me to make a bracelet. Then he asked me whether I wanted to begin with silver or learn first how to work copper or lead. **He said that many Navajo smiths worked at copper or lead before they started on silver, because those metals were cheaper and easier to work.** When I told him that I wanted the feel of working silver, he gave me one and one-half slugs and told me to melt them. I placed the silver in the crucible and lighted the torch. Tom said that a small amount of silver may be melted with the torch; the forge is usually used only when melting three or more slugs at a time. I held the muzzle of the torch, slanting at an angle, to one side of the crucible; but Tom told me that the torch should be held above the crucible so that the heat would spread evenly over the whole surface of the silver. Then he placed the ingot mold near the crucible, propping it up against a tool, explaining again that the mold must be hot when the silver is poured in, or the metal will cool too rapidly, and crack when it is pounded."
 
-**p79-80** (contexual information)
+**p79-80** (contextual information)
 
 “There are **individual differences** in the way silversmiths work. In many respects Charlie's work differs from Tom's. While the finished pieces that each makes conform to Navajo traditional patterns, there are differences in their technique. There are differences in the way they handle their tools, in the way they pound the silver, and in the way they melt it. These variations are due to differences in the way the smiths originally learned from their Navajo teachers. Each smith developed his own style of working, and once a pattern was formed, it was adhered to. Muscular co-ordinations became fixed as habits. When Charlie wrapped a piece of wire around two pieces of silver which were to be [80] soldered together, he always held one end of the wire in his mouth, leaving one hand free to hold the silver. Tom never used his mouth, but rested the silver against something while he tried the wire. This is only one of many differences in their working methods. There are probably as many differences in the muscular habits of silversmiths as there are individuals who follow the craft.”
 
@@ -484,7 +538,37 @@ Mitchell, approximately, Rose, & Frisbie, C. J. (2001). Tall woman: the life sto
 
 "Of course, **my mother and I were always weaving when we weren't busy doing other things, and we'd tell the girls to sit and watch us. We'd show them how and let them try, too. My mother helped teach Ruth to weave and to respect the loom and all the weaving tools; she taught her to take care of those things properly because that was part of learning to weave, too.**"
 
+Bailey, F. L. (1942). Navaho motor habits. In American anthropologist, n.s.: Vol. Vol. 44 (pp. 210–234). American Anthropological Association, etc. p.232-233. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=nt13-033
+
+“**Children have been observed learning motor habits in two ways: by unconscious imitation, and by the definite effort of an adult to teach them a specific skill. One informant says that she is teaching her seven year old daughter to weave. She has already shown her how to card and she does it fairly well. She adds that some girls don't need to be taught because they learn by watching, but her daughter had to be taught. One man said that when boys are old enought [sic] to handle the equipment properly, they are taught silversmithing and moccasin making**.
+
+A two year old boy was being taught by his father to shake a rattle in this manner. The man crossed his legs, tailor-fashion, and placed the boy in his lap in the same position. Reaching around him, he put the rattle in the boy's hand in the proper position and made the shaking movement several times with the boy's hand. He sang as he did this. At the same time across the room the boy's grandmother made shaking motions calling to him to imitate them. After much encouragement he finally did shake the rattle a few times by himself, and was praised.
+
+A two year old girl was being taught to grind flour by an older sister, who placed the child in front of her at the metate with the child's hands between her own on the mano. As the older girl ground, the child's hand moved with hers.
+
+Frequently a child is given a piece of dough to play with while the woman is kneading the bread. The child tries to imitate the motions of the woman in shaping the tortilla.insert_drive_file232-233 Usually there is some slight evidence of success, but the attempt ends by the child eating the dough raw, or throwing it away."
+
+
+
+### Tewa Pueblos
+
+Jacobs, S.-E. (1995). Being a grandmother in the Tewa world. American Indian Culture and Research Journal, Vol. 19(2), 67–83. p.73. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=nt18-018
+
+"Red Clay Basket stopped working on pottery in about 1982. Prior to that time, **she had taught her techniques to her daughters and some of her granddaughters. Two daughters became potters; no granddaughters have become potters. I have observed Red Clay Basket's grandchildren and great-grandchildren of both sexes forming pottery pieces while in their sayaa's care.** When their pottery pieces were finished, they were included among the bowls, plates, and other items she either took to the Santa Fe Indian Market or sold to the traders who used to come to the house to buy pottery and carvings. The money was given to the children."
+
 # Oceania
+
+## Australia
+
+### Aranda
+
+Basedow, H. (1925). The Australian aboriginal. F. W. Preece and sons. p.85-86. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=oi08-007
+
+“**The boys are early in life schooled in the practices of carpentry, so far as they are applied to the making and shaping of domestic utensils and weapons with the few crude implements at their disposal**.
+
+Further, they are instructed in the knacks and arts of [86] handling and throwing weapons of chase, attack, and defence. The lads take to this instruction enthusiastically. For instance, whilst being taught the art of boomerang-throwing, one might daily see a youngster, even in the absence of his master, posing in the attitude demonstrated to him, without actually letting the piece of wood, which answers the purpose of a weapon, go out of his hand (PlateXIV, 1).
+
+Boys are not allowed to handle real boomerangs, spears, or shields before they have undergone the first initiation ceremony. If they did so, the offence would be looked upon as an insult to the dignity of the men who have qualified and are thus entitled to the privilege of carrying such weapons on parade. The offence is in fact, on a point of decorum, similar to the case of a fellow in the ‘rank and file’ wearing the sword or insignia of his superior officer.”
 
 ## Melanesia
 
@@ -522,11 +606,11 @@ During the first years of the apprenticeship the parents of the initiate continu
 
 **In short, during the first years of his apprenticeship an initiate learns the basic insert_drive_file48 rules of carving, as well as the terminology of the tools of the profession, and he does all the small jobs which in a medieval workshop were done by the helper of a Maestro d'arte.**"
 
-**p52** (contexual information)
+**p52** (contextual information)
 
 To sum up, in his apprenticeship the initiate learns to organize the graphic signs on a wood surface which has been cut in a given shape, while the symbolic meaning, that is, the content of the entire surface as well as of the single graphic sign, is not the focus of his training. And this confirms that what an apprentice should learn is the control of the ‘grammar’ of the abstract composition only. In fact few initiates or carvers know precisely what lagimu means, and all the carvers of Kitawa recognize that when we talk about that subject we enter into the field of suppositions and probabilities (cf. Siyakwakwa's statements C.SS, 75 -- C.SS, 77. -- C.SS, 83). A good carver is judged on the basis of his technical and aesthetic ability.
 
-**p56** (contexual information)
+**p56** (contextual information)
 
 According to Tonori, Towitara and Siyakwakwa an initiate becomes a tokabitamu when he carves a life-size lagimu and/or tabuya, or a real kula canoe, i.e. **after fifteen to twenty years of apprenticeship**, during which he has followed the norms imposed on him by his teacher-initiator, including the respect of taboos. Siyakwakwa, answering the ethnographer, who had asked him when a pupil is insert_drive_file57 judged a carver, replies: ‘When you know how to carve two, three or four lagimu well, and know how to carve the canoe for the kula, only then will you be a real carver.’ (A.SS, 454).
 
@@ -537,6 +621,12 @@ According to Tonori, Towitara and Siyakwakwa an initiate becomes a tokabitamu wh
 Koch, G. (1986). The material culture of Kiribati. Institute of Pacific Studies of the University of the South Pacific. p.25-26. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=or06-009
 
 "Traps (ū, Plate 5) for catching moray eels are widely used (cf. 31, film 7). However, in many of the settlements at any given time **there are only a few men who know how to construct an ū** or to bait it. The materials used for constructing such traps are shoots and branches of the salt bush Pemphis acidula Forst., (ngea), a heavy and tough ironwood, which are bound together with strong coconut fibre cord (kora). **Their construction is a well-kept insert_drive_file26 family secret, handed down from generation to generation, but it is certainly true that a person skilled in this will let a close friend know the secrets of the method of construction.**"
+
+### Marshallese
+
+Carucci, L. M. (1987). JEKERO: symbolizing the transition to manhood in the Marshall Islands. Micronesica, Vol. 20(nos. 1-2), 1–17. p.2-3. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=or11-026
+
+"Certain attainments are central to becoming an adult male or female; they are the symbolic foci which define in vivid detail what it is like to be a particular kind of person in Marshallese culture. In one such event, a young boy goes through the training necessary to make coconut toddy. **Ujelang girls learn a corresponding set of skills—weaving mats and shaping other prized female goods.** They also begin to receive the knowledge needed to use and interpret the supernatural. **A second core aspect of male maturity apprenticed a young boy to a canoe making specialist where skills critical to becoming a man were insert_drive_file3 learned. The boy joined the sailing group headed by his mentor and acquired all skills to build and sail outrigger canoes.** Within the past 25 years, however, canoe building has been replaced by the manufacture of plywood motor boats. Outrigger canoe construction became a specialized art, known only to middle-aged and senior men. Thus, in the late 1970s, making coconut toddy was the central event marking the incorporation of male children into the man's domain. The next section explores the structure of this event, while the final comments situate toddy drinking in the more recently emerging framework of alcohol consumption."
 
 
 ## Polynesia
@@ -565,6 +655,20 @@ Buck, P. H. (1952). The coming of the Maori. Maori Purposes Fund Board; [distrib
 
 ## Amazon and Orinoco
 
+### Ndyuka
+
+Hurault, J., & Winchell, J. (1961). The Boni refugee Blacks of French Guiana. In Mémoires (Issue 63, p. HRAF MS: xi, 583  [Original: xii, 356 ]). IFAN. p.192. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=sr14-006
+
+"Education of children. If the education of girls does not necessitate a difficult apprenticeship, it is not the same for boys; the sum of knowledge that /132/ a Refugee Black must possess to carry out effectively the techniques of his group is considerable. In particular, he must:
+
+--Know more than 200 kinds of trees with their uses, the way to fell them, the way to work their wood;
+
+--**Be capable of constructing boats of at least 10 kegs (1,000 kilograms of load). This technique alone requires several years of apprenticeship**;
+
+--Acquire sufficient knowledge of carpenter work to build his house and that of his wife;
+
+--Learn how to handle boats on the river and the techniques of transport boating."
+
 ### Pume
 
 Petrullo, V. (1939). The Yaruros of the Capanaparo River, Venezuela. In Bulletin (pp. 161-290 , 14 plates). U.S. Govt Print. Off. p.202. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=ss19-001
@@ -575,7 +679,7 @@ The equipment of the hunter is simple. Bow, arrow, and canoe are indispensable. 
 
 Leeds, A. (1962). Ecological determinants of chieftainship among the Yaruro Indians of Venezuela. In Akten des 34. Internationalen Amerikanistenkongresses (pp. 597–608). Verlag Ferdinand Berger. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=ss19-003
 
-**p. 606** (contexual information)
+**p. 606** (contextual information)
 
 "One more point may be made regarding the ecology as limiter of chieftainship among the Yaruro. **The tools, techniques, and resources require no very extensive, highly specialized or esoteric knowledge. In fact any man or woman, and any child as well, has access to such knowledge, and it is easily acquired by all members of the society who thus have, at least potentially, equal access to control over the means of life. There is no specialized knowledge, at least with respect to technology and habitat, which requires a specialized repository in the form of a chief or learned person.** Yaruro knowledge, itself dependent upon the inventory of tools, techniques, and resources, inhibits any tendency towards the development of any sort of specialists in technical or managerial knowledge. As one might expect, there are no true specialists in Yaruro society. Here and there women make pots and certain women seem to have a special bent for making woven sacks but these are not properly specialities. Nor, from a technological or ecological point of view, is male or female shamanism in any way a speciality. They do not appear to be specialists even in esoteric knowledge. Knowledge of the general type described here might be called ‘dispersive’ or ‘egalitarian’ since it tends to become more or less uniformly distributed among the members of the society. A consequence of the existence of this type of knowledge, associated with the kind of technology described, is that there will be no specialised training of any specialists and, of course, no specialised personnel to do such training. This is the situation which obtains among the Yaruro both with respect to technical and managerial activities. Thus, in Yaruro knowledge, there is no source for the support of an institutionalized and strong chieftainship."
 
@@ -610,6 +714,19 @@ Wilbert, J. (1976). To become a maker of canoes: an essay in Warao enculturation
 Wagley, C. (1977). Welcome of tears: the Tapirapé Indians of central Brazil. Oxford University Press. p.150. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=sp22-016
 
 “**During the time that a boy lived in the takana, he was supposed to learn the male manual arts—how to weave baskets, how to make a bow and straight arrows, how to fabricate the spirit masks that the men wore in different ceremonies, and other handicrafts. However, I never witnessed any express attempt on the part of an older man to teach a young boy such pursuits.** On the other hand, the takana was the place where adult men generally worked, and a boy had ample chance to watch them at it. In addition, boys were supposed to learn songs of the Bird Societies and of the various masked dancers during this period. Again, I cannot remember that they were consciously taught such songs, but it was in the takana where older men sang, often not for ceremonial reasons, but just for their own pleasure. Older men found boys of this age rather amusing in their attempts to carry out adult activities. Wearing the penis band could be rather painful until the prepuce stretched. Adult men laughed when such boys tended to finger their sexual organs repeatedly, and especially when the irritation caused an erection.”
+
+## Northwestern South America
+
+### Goajiro
+
+Watson-Franke, M.-B., & Watson, L. C. (1986). Conflicting images of women and female enculturation among Urban Guajiro. Journal of Latin American Lore, Vol. 12(2), 141–159. p.146-147. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=sc13-017
+
+"Central to the inculcation of the ideal image of woman is the encierro, a seclusion period for the girl ( majayüráá) beginning with her first menses. The encierro, we argue, is the central identity-forming mechanism for females in this culture. The image of the ideal woman is directly associated with successful seclusion. The mother or female caretaker isolates the girl immediately from the rest of the family as soon as she has been informed of her condition. **This isolation may last from one to five years under traditional circumstances. During the encierro she is expected to learn two things. For one, she should learn to achieve control in the sphere of production; this is done by instructing her in weaving** and reminding her that she must now be responsible and considerate, as an adult is expected to be. For another, she should learn to achieve control in the sphere of reproduction, which is accomplished by instructing her in the preparation and administration of contraceptive medicines.
+
+She is encouraged to excel, expected to achieve, and, if she has been properly socialized, she should be prepared to take on responsibility. As mother, sister, wife, and niece, the Guajiro woman takes control of economic resources, plays a crucial role in the socialization and future destiny of her children, and performs a vital function in keeping up harmony and balance in the lineage and the larger society.
+
+The enclosure is a process which is designed to ensure the young woman's safe and successful passage from childhood to adulthood. Magical procedures play an important role in this: her old hair is cut, for example, so that the new hair of an adult woman will grow; she is given several baths a day to enhance her beauty and to cleanse her of childish thoughts; she is dressed in new clothes, made especially for enclosed girls (simple colors, short); and she lies in a new hammock and uses new utensils when eating. There is a basic understanding that the biological changesinsert_drive_file147 have to be accompanied by well-defined and well-executed cultural measures to assure her attainment of adulthood. **While she is enclosed, the girl receives instructions in spinning, weaving, sex education, and contraceptive control. At the end there is a big party to celebrate her coming out.**"
+
 
 ## Southern South America
 
