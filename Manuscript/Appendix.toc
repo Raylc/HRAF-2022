@@ -86,18 +86,25 @@
 \contentsline {subsubsection}{\numberline {6.3.1}Chuuk}{73}{subsubsection.6.3.1}%
 \contentsline {subsubsection}{\numberline {6.3.2}Kiribati}{74}{subsubsection.6.3.2}%
 \contentsline {subsubsection}{\numberline {6.3.3}Marshallese}{74}{subsubsection.6.3.3}%
-\contentsline {subsection}{\numberline {6.4}Polynesia}{75}{subsection.6.4}%
-\contentsline {subsubsection}{\numberline {6.4.1}Maori}{75}{subsubsection.6.4.1}%
-\contentsline {section}{\numberline {7}South America}{78}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Amazon and Orinoco}{78}{subsection.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.1}Ndyuka}{78}{subsubsection.7.1.1}%
-\contentsline {subsubsection}{\numberline {7.1.2}Pume}{79}{subsubsection.7.1.2}%
-\contentsline {subsubsection}{\numberline {7.1.3}Shipibo}{80}{subsubsection.7.1.3}%
-\contentsline {subsubsection}{\numberline {7.1.4}Warao}{81}{subsubsection.7.1.4}%
-\contentsline {subsection}{\numberline {7.2}Eastern South America}{82}{subsection.7.2}%
-\contentsline {subsubsection}{\numberline {7.2.1}Tapirapé}{82}{subsubsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.3}Northwestern South America}{83}{subsection.7.3}%
-\contentsline {subsubsection}{\numberline {7.3.1}Goajiro}{83}{subsubsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.4}Southern South America}{84}{subsection.7.4}%
-\contentsline {subsubsection}{\numberline {7.4.1}Tehuelche}{84}{subsubsection.7.4.1}%
-\contentsline {subsubsection}{\numberline {7.4.2}Yahgan}{85}{subsubsection.7.4.2}%
+\contentsline {subsubsection}{\numberline {6.3.4}Ulithi}{75}{subsubsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.4}Polynesia}{76}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Bau Fijians}{76}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Marquesas}{77}{subsubsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.3}Maori}{77}{subsubsection.6.4.3}%
+\contentsline {subsubsection}{\numberline {6.4.4}Tongans}{80}{subsubsection.6.4.4}%
+\contentsline {section}{\numberline {7}South America}{82}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Amazon and Orinoco}{82}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Ndyuka}{82}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Pume}{82}{subsubsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.3}Shipibo}{83}{subsubsection.7.1.3}%
+\contentsline {subsubsection}{\numberline {7.1.4}Warao}{84}{subsubsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.2}Eastern South America}{86}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Guarani}{86}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}Tapirapé}{87}{subsubsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.3}Northwestern South America}{88}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Chachi}{88}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}Goajiro}{88}{subsubsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.3}Kogi}{90}{subsubsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.4}Southern South America}{90}{subsection.7.4}%
+\contentsline {subsubsection}{\numberline {7.4.1}Tehuelche}{90}{subsubsection.7.4.1}%
+\contentsline {subsubsection}{\numberline {7.4.2}Yahgan}{91}{subsubsection.7.4.2}%
