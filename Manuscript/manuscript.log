@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  15 AUG 2022 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  16 AUG 2022 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -640,7 +640,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 206.
 Here is how much of TeX's memory you used:
  15228 strings out of 492162
  223072 string characters out of 6129062
- 368171 words of memory out of 5000000
+ 369171 words of memory out of 5000000
  19189 multiletter control sequences out of 15000+600000
  74139 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -649,7 +649,7 @@ Here is how much of TeX's memory you used:
 f-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopi
 a/putri8a.pfb>
-Output written on manuscript.pdf (5 pages, 69415 bytes).
+Output written on manuscript.pdf (5 pages, 69616 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  103 compressed objects within 2 object streams
