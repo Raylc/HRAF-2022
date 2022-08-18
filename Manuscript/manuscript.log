@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  17 AUG 2022 17:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  18 AUG 2022 17:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -616,12 +616,12 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 [1
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Underfull \hbox (badness 2088) in paragraph at lines 183--185
+Underfull \hbox (badness 2088) in paragraph at lines 185--187
 []\T1/put/b/n/10.95 Transmission modes\T1/put/m/n/10.95 (+20) : |   []   |   []
 : so-cial learn-ing from in-di-vid-u-als
  []
 
-[4]
+[4] [5]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 74.
 See the caption package documentation for explanation.
@@ -630,17 +630,17 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 75.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+[6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
 (./manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 206.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 208.
  ) 
 Here is how much of TeX's memory you used:
- 15228 strings out of 492162
- 223072 string characters out of 6129062
- 370171 words of memory out of 5000000
+ 15230 strings out of 492162
+ 223085 string characters out of 6129062
+ 369171 words of memory out of 5000000
  19189 multiletter control sequences out of 15000+600000
  74139 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -649,10 +649,10 @@ Here is how much of TeX's memory you used:
 f-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopi
 a/putri8a.pfb>
-Output written on manuscript.pdf (5 pages, 69763 bytes).
+Output written on manuscript.pdf (6 pages, 70260 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 50 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 52 named destinations out of 1000 (max. 500000)
  12321 words of extra memory for PDF output out of 14400 (max. 10000000)
 
