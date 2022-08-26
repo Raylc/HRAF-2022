@@ -33,107 +33,108 @@
 \contentsline {subsubsection}{\numberline {1.5.4}Fulani}{34}{subsubsection.1.5.4}%
 \contentsline {subsubsection}{\numberline {1.5.5}Igbo}{35}{subsubsection.1.5.5}%
 \contentsline {subsubsection}{\numberline {1.5.6}Kpelle}{39}{subsubsection.1.5.6}%
-\contentsline {subsubsection}{\numberline {1.5.7}Mende}{48}{subsubsection.1.5.7}%
-\contentsline {subsubsection}{\numberline {1.5.8}Mossi}{50}{subsubsection.1.5.8}%
-\contentsline {subsubsection}{\numberline {1.5.9}Tallensi}{51}{subsubsection.1.5.9}%
-\contentsline {subsubsection}{\numberline {1.5.10}Yoruba}{52}{subsubsection.1.5.10}%
-\contentsline {section}{\numberline {2}Asia}{53}{section.2}%
-\contentsline {subsection}{\numberline {2.1}East Asia}{53}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Okayama}{53}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Okinawans}{55}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Yi}{56}{subsubsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.2}North Asia}{57}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Yukaghir}{57}{subsubsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.3}South Asia}{57}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Bengali}{57}{subsubsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.4}Southeast Asia}{58}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Eastern Toraja}{58}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Ifugao}{59}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Javanese}{60}{subsubsection.2.4.3}%
-\contentsline {subsubsection}{\numberline {2.4.4}Sama-Bajau}{60}{subsubsection.2.4.4}%
-\contentsline {subsubsection}{\numberline {2.4.5}Semai}{62}{subsubsection.2.4.5}%
-\contentsline {subsubsection}{\numberline {2.4.6}Vietnamese}{62}{subsubsection.2.4.6}%
-\contentsline {section}{\numberline {3}Europe}{64}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Scandinavia}{64}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Saami}{64}{subsubsection.3.1.1}%
-\contentsline {section}{\numberline {4}Middle America and the Caribbean}{65}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Central America}{65}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Garifuna}{65}{subsubsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.2}Central Mexico}{65}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Nahua}{65}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Zapotec}{66}{subsubsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.3}Maya Area}{71}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Maya (Yucatan Peninsula)}{71}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Tzeltal}{72}{subsubsection.4.3.2}%
-\contentsline {section}{\numberline {5}North America}{74}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Arctic and Subarctic}{74}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}Aleut}{74}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}Alutiq}{76}{subsubsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.3}Chipewyans}{76}{subsubsection.5.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.4}Innu}{78}{subsubsection.5.1.4}%
-\contentsline {subsubsection}{\numberline {5.1.5}Kaska}{80}{subsubsection.5.1.5}%
-\contentsline {subsubsection}{\numberline {5.1.6}Ojibwa}{83}{subsubsection.5.1.6}%
-\contentsline {subsection}{\numberline {5.2}Eastern Woodlands}{85}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Cherokee}{85}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}Fox}{86}{subsubsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.3}Natchez}{87}{subsubsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.3}Northwest Coast and California}{87}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}Chinookans Of The Lower Columbia River}{87}{subsubsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.2}Nuu-Chah-Nulth}{88}{subsubsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.3}Quinault}{88}{subsubsection.5.3.3}%
-\contentsline {subsubsection}{\numberline {5.3.4}Tillamook}{89}{subsubsection.5.3.4}%
-\contentsline {subsubsection}{\numberline {5.3.5}Tlingit}{90}{subsubsection.5.3.5}%
-\contentsline {subsection}{\numberline {5.4}Plains and Plateau}{91}{subsection.5.4}%
-\contentsline {subsubsection}{\numberline {5.4.1}Assiniboine}{91}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.2}Blackfoot}{91}{subsubsection.5.4.2}%
-\contentsline {subsubsection}{\numberline {5.4.3}Comanche}{93}{subsubsection.5.4.3}%
-\contentsline {subsubsection}{\numberline {5.4.4}Klamath}{94}{subsubsection.5.4.4}%
-\contentsline {subsection}{\numberline {5.5}Southwest and Basin}{95}{subsection.5.5}%
-\contentsline {subsubsection}{\numberline {5.5.1}Havasupai}{95}{subsubsection.5.5.1}%
-\contentsline {subsubsection}{\numberline {5.5.2}Hopi}{95}{subsubsection.5.5.2}%
-\contentsline {subsubsection}{\numberline {5.5.3}Maricopa}{96}{subsubsection.5.5.3}%
-\contentsline {subsubsection}{\numberline {5.5.4}Navajo}{97}{subsubsection.5.5.4}%
-\contentsline {subsubsection}{\numberline {5.5.5}Tewa Pueblos}{107}{subsubsection.5.5.5}%
-\contentsline {subsubsection}{\numberline {5.5.6}Western Apache}{108}{subsubsection.5.5.6}%
-\contentsline {subsubsection}{\numberline {5.5.7}Zuni}{109}{subsubsection.5.5.7}%
-\contentsline {section}{\numberline {6}Oceania}{110}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Australia}{110}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1}Aranda}{110}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}Tiwi}{110}{subsubsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.2}Melanesia}{111}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Kapauku}{111}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}Kwoma}{113}{subsubsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.3}Malekula}{114}{subsubsection.6.2.3}%
-\contentsline {subsubsection}{\numberline {6.2.4}Manus}{116}{subsubsection.6.2.4}%
-\contentsline {subsubsection}{\numberline {6.2.5}Trobriands}{117}{subsubsection.6.2.5}%
-\contentsline {subsection}{\numberline {6.3}Micronesia}{124}{subsection.6.3}%
-\contentsline {subsubsection}{\numberline {6.3.1}Chuuk}{124}{subsubsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.2}Kiribati}{126}{subsubsection.6.3.2}%
-\contentsline {subsubsection}{\numberline {6.3.3}Marshallese}{126}{subsubsection.6.3.3}%
-\contentsline {subsubsection}{\numberline {6.3.4}Ulithi}{129}{subsubsection.6.3.4}%
-\contentsline {subsection}{\numberline {6.4}Polynesia}{129}{subsection.6.4}%
-\contentsline {subsubsection}{\numberline {6.4.1}Bau Fijians}{129}{subsubsection.6.4.1}%
-\contentsline {subsubsection}{\numberline {6.4.2}Marquesas}{130}{subsubsection.6.4.2}%
-\contentsline {subsubsection}{\numberline {6.4.3}Maori}{131}{subsubsection.6.4.3}%
-\contentsline {subsubsection}{\numberline {6.4.4}Samoans}{134}{subsubsection.6.4.4}%
-\contentsline {subsubsection}{\numberline {6.4.5}Tongans}{135}{subsubsection.6.4.5}%
-\contentsline {section}{\numberline {7}South America}{136}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Amazon and Orinoco}{136}{subsection.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.1}Jivaro}{136}{subsubsection.7.1.1}%
-\contentsline {subsubsection}{\numberline {7.1.2}Ndyuka}{137}{subsubsection.7.1.2}%
-\contentsline {subsubsection}{\numberline {7.1.3}Pume}{137}{subsubsection.7.1.3}%
-\contentsline {subsubsection}{\numberline {7.1.4}Shipibo}{139}{subsubsection.7.1.4}%
-\contentsline {subsubsection}{\numberline {7.1.5}Tukano}{140}{subsubsection.7.1.5}%
-\contentsline {subsubsection}{\numberline {7.1.6}Warao}{142}{subsubsection.7.1.6}%
-\contentsline {subsection}{\numberline {7.2}Central Andes}{144}{subsection.7.2}%
-\contentsline {subsubsection}{\numberline {7.2.1}Aymara}{144}{subsubsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.3}Eastern South America}{145}{subsection.7.3}%
-\contentsline {subsubsection}{\numberline {7.3.1}Guarani}{145}{subsubsection.7.3.1}%
-\contentsline {subsubsection}{\numberline {7.3.2}Tapirapé}{147}{subsubsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.4}Northwestern South America}{148}{subsection.7.4}%
-\contentsline {subsubsection}{\numberline {7.4.1}Chachi}{148}{subsubsection.7.4.1}%
-\contentsline {subsubsection}{\numberline {7.4.2}Goajiro}{148}{subsubsection.7.4.2}%
-\contentsline {subsubsection}{\numberline {7.4.3}Kogi}{150}{subsubsection.7.4.3}%
-\contentsline {subsection}{\numberline {7.5}Southern South America}{151}{subsection.7.5}%
-\contentsline {subsubsection}{\numberline {7.5.1}Tehuelche}{151}{subsubsection.7.5.1}%
-\contentsline {subsubsection}{\numberline {7.5.2}Yahgan}{151}{subsubsection.7.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.7}Mende}{52}{subsubsection.1.5.7}%
+\contentsline {subsubsection}{\numberline {1.5.8}Mossi}{54}{subsubsection.1.5.8}%
+\contentsline {subsubsection}{\numberline {1.5.9}Tallensi}{55}{subsubsection.1.5.9}%
+\contentsline {subsubsection}{\numberline {1.5.10}Tiv}{56}{subsubsection.1.5.10}%
+\contentsline {subsubsection}{\numberline {1.5.11}Yoruba}{57}{subsubsection.1.5.11}%
+\contentsline {section}{\numberline {2}Asia}{58}{section.2}%
+\contentsline {subsection}{\numberline {2.1}East Asia}{58}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Okayama}{58}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Okinawans}{60}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Yi}{61}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}North Asia}{61}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Yukaghir}{61}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}South Asia}{62}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Bengali}{62}{subsubsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.4}Southeast Asia}{63}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Eastern Toraja}{63}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Ifugao}{63}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Javanese}{64}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Sama-Bajau}{65}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}Semai}{66}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}Vietnamese}{67}{subsubsection.2.4.6}%
+\contentsline {section}{\numberline {3}Europe}{68}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Scandinavia}{68}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Saami}{68}{subsubsection.3.1.1}%
+\contentsline {section}{\numberline {4}Middle America and the Caribbean}{69}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Central America}{69}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Garifuna}{69}{subsubsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.2}Central Mexico}{69}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Nahua}{69}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Zapotec}{70}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Maya Area}{75}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Maya (Yucatan Peninsula)}{75}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Tzeltal}{76}{subsubsection.4.3.2}%
+\contentsline {section}{\numberline {5}North America}{78}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Arctic and Subarctic}{78}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Aleut}{78}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Alutiq}{80}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}Chipewyans}{81}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}Innu}{83}{subsubsection.5.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.5}Kaska}{84}{subsubsection.5.1.5}%
+\contentsline {subsubsection}{\numberline {5.1.6}Ojibwa}{87}{subsubsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.2}Eastern Woodlands}{89}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Cherokee}{89}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Fox}{90}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Natchez}{91}{subsubsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.3}Northwest Coast and California}{92}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Chinookans Of The Lower Columbia River}{92}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Nuu-Chah-Nulth}{92}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Quinault}{93}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}Tillamook}{93}{subsubsection.5.3.4}%
+\contentsline {subsubsection}{\numberline {5.3.5}Tlingit}{94}{subsubsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.4}Plains and Plateau}{95}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Assiniboine}{95}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Blackfoot}{96}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Comanche}{97}{subsubsection.5.4.3}%
+\contentsline {subsubsection}{\numberline {5.4.4}Klamath}{98}{subsubsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.5}Southwest and Basin}{99}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Havasupai}{99}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.2}Hopi}{100}{subsubsection.5.5.2}%
+\contentsline {subsubsection}{\numberline {5.5.3}Maricopa}{100}{subsubsection.5.5.3}%
+\contentsline {subsubsection}{\numberline {5.5.4}Navajo}{101}{subsubsection.5.5.4}%
+\contentsline {subsubsection}{\numberline {5.5.5}Tewa Pueblos}{111}{subsubsection.5.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.6}Western Apache}{112}{subsubsection.5.5.6}%
+\contentsline {subsubsection}{\numberline {5.5.7}Zuni}{114}{subsubsection.5.5.7}%
+\contentsline {section}{\numberline {6}Oceania}{114}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Australia}{114}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Aranda}{114}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Tiwi}{115}{subsubsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.2}Melanesia}{116}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Kapauku}{116}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Kwoma}{117}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Malekula}{118}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}Manus}{120}{subsubsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.5}Trobriands}{121}{subsubsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.3}Micronesia}{128}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Chuuk}{128}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Kiribati}{130}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Marshallese}{131}{subsubsection.6.3.3}%
+\contentsline {subsubsection}{\numberline {6.3.4}Ulithi}{133}{subsubsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.4}Polynesia}{133}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Bau Fijians}{133}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Marquesas}{135}{subsubsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.3}Maori}{135}{subsubsection.6.4.3}%
+\contentsline {subsubsection}{\numberline {6.4.4}Samoans}{138}{subsubsection.6.4.4}%
+\contentsline {subsubsection}{\numberline {6.4.5}Tongans}{139}{subsubsection.6.4.5}%
+\contentsline {section}{\numberline {7}South America}{140}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Amazon and Orinoco}{140}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Jivaro}{140}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Ndyuka}{141}{subsubsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.3}Pume}{142}{subsubsection.7.1.3}%
+\contentsline {subsubsection}{\numberline {7.1.4}Shipibo}{144}{subsubsection.7.1.4}%
+\contentsline {subsubsection}{\numberline {7.1.5}Tukano}{145}{subsubsection.7.1.5}%
+\contentsline {subsubsection}{\numberline {7.1.6}Warao}{146}{subsubsection.7.1.6}%
+\contentsline {subsection}{\numberline {7.2}Central Andes}{148}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Aymara}{148}{subsubsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.3}Eastern South America}{149}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Guarani}{149}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}Tapirapé}{151}{subsubsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.4}Northwestern South America}{152}{subsection.7.4}%
+\contentsline {subsubsection}{\numberline {7.4.1}Chachi}{152}{subsubsection.7.4.1}%
+\contentsline {subsubsection}{\numberline {7.4.2}Goajiro}{152}{subsubsection.7.4.2}%
+\contentsline {subsubsection}{\numberline {7.4.3}Kogi}{154}{subsubsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.5}Southern South America}{155}{subsection.7.5}%
+\contentsline {subsubsection}{\numberline {7.5.1}Tehuelche}{155}{subsubsection.7.5.1}%
+\contentsline {subsubsection}{\numberline {7.5.2}Yahgan}{155}{subsubsection.7.5.2}%
