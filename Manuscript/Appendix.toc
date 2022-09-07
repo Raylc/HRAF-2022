@@ -20,7 +20,7 @@
 \contentsline {subsubsection}{\numberline {1.4.1}Khoi}{19}{subsubsection.1.4.1}%
 \contentsline {subsubsection}{\numberline {1.4.2}Ovambo}{20}{subsubsection.1.4.2}%
 \contentsline {subsubsection}{\numberline {1.4.3}Ovimbundu}{21}{subsubsection.1.4.3}%
-\contentsline {subsubsection}{\numberline {1.4.4}San}{21}{subsubsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.4}San}{22}{subsubsection.1.4.4}%
 \contentsline {subsubsection}{\numberline {1.4.5}Shona}{25}{subsubsection.1.4.5}%
 \contentsline {subsubsection}{\numberline {1.4.6}Tanala}{29}{subsubsection.1.4.6}%
 \contentsline {subsubsection}{\numberline {1.4.7}Tonga}{29}{subsubsection.1.4.7}%
@@ -31,7 +31,7 @@
 \contentsline {subsubsection}{\numberline {1.5.2}Dogon}{33}{subsubsection.1.5.2}%
 \contentsline {subsubsection}{\numberline {1.5.3}Fon}{34}{subsubsection.1.5.3}%
 \contentsline {subsubsection}{\numberline {1.5.4}Fulani}{35}{subsubsection.1.5.4}%
-\contentsline {subsubsection}{\numberline {1.5.5}Igbo}{35}{subsubsection.1.5.5}%
+\contentsline {subsubsection}{\numberline {1.5.5}Igbo}{36}{subsubsection.1.5.5}%
 \contentsline {subsubsection}{\numberline {1.5.6}Kpelle}{40}{subsubsection.1.5.6}%
 \contentsline {subsubsection}{\numberline {1.5.7}Mende}{53}{subsubsection.1.5.7}%
 \contentsline {subsubsection}{\numberline {1.5.8}Mossi}{55}{subsubsection.1.5.8}%
@@ -53,7 +53,7 @@
 \contentsline {subsection}{\numberline {2.5}South Asia}{65}{subsection.2.5}%
 \contentsline {subsubsection}{\numberline {2.5.1}Bengali}{65}{subsubsection.2.5.1}%
 \contentsline {subsubsection}{\numberline {2.5.2}Garo}{66}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Mara}{66}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.3}Mara}{67}{subsubsection.2.5.3}%
 \contentsline {subsubsection}{\numberline {2.5.4}Santal}{68}{subsubsection.2.5.4}%
 \contentsline {subsection}{\numberline {2.6}Southeast Asia}{69}{subsection.2.6}%
 \contentsline {subsubsection}{\numberline {2.6.1}Alorese}{69}{subsubsection.2.6.1}%
@@ -169,12 +169,16 @@
 \contentsline {subsection}{\numberline {8.2}Central Andes}{206}{subsection.8.2}%
 \contentsline {subsubsection}{\numberline {8.2.1}Aymara}{206}{subsubsection.8.2.1}%
 \contentsline {subsection}{\numberline {8.3}Eastern South America}{207}{subsection.8.3}%
-\contentsline {subsubsection}{\numberline {8.3.1}Guarani}{207}{subsubsection.8.3.1}%
-\contentsline {subsubsection}{\numberline {8.3.2}Tapirapé}{209}{subsubsection.8.3.2}%
-\contentsline {subsection}{\numberline {8.4}Northwestern South America}{210}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}Chachi}{210}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{210}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Kogi}{212}{subsubsection.8.4.3}%
-\contentsline {subsection}{\numberline {8.5}Southern South America}{213}{subsection.8.5}%
-\contentsline {subsubsection}{\numberline {8.5.1}Tehuelche}{213}{subsubsection.8.5.1}%
-\contentsline {subsubsection}{\numberline {8.5.2}Yahgan}{213}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.3.1}Bororo}{207}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}Guaraní}{208}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}Tapirapé}{210}{subsubsection.8.3.3}%
+\contentsline {subsubsection}{\numberline {8.3.4}Xavante}{210}{subsubsection.8.3.4}%
+\contentsline {subsection}{\numberline {8.4}Northwestern South America}{211}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}Chachi}{211}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{213}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Kogi}{215}{subsubsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.5}Southern South America}{217}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}Chorote}{217}{subsubsection.8.5.1}%
+\contentsline {subsubsection}{\numberline {8.5.2}Ona}{217}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.3}Tehuelche}{218}{subsubsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{219}{subsubsection.8.5.4}%
