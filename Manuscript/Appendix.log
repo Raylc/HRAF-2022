@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  18 SEP 2022 23:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  19 SEP 2022 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -835,12 +835,12 @@ Overfull \hbox (0.43774pt too wide) detected at line 138
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 140
- []\T1/put/m/n/10.95 170
+ []\T1/put/m/n/10.95 171
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 141
- []\T1/put/m/n/10.95 170
+ []\T1/put/m/n/10.95 171
  []
 
 
@@ -880,17 +880,17 @@ Overfull \hbox (0.43774pt too wide) detected at line 148
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 149
- []\T1/put/m/n/10.95 187
+ []\T1/put/m/n/10.95 188
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 150
- []\T1/put/m/n/10.95 188
+ []\T1/put/m/n/10.95 189
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 151
- []\T1/put/m/n/10.95 188
+ []\T1/put/m/n/10.95 189
  []
 
 
@@ -900,12 +900,12 @@ Overfull \hbox (0.43774pt too wide) detected at line 152
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 153
- []\T1/put/m/n/10.95 192
+ []\T1/put/m/n/10.95 193
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 154
- []\T1/put/m/n/10.95 195
+ []\T1/put/m/n/10.95 196
  []
 
 
@@ -915,12 +915,12 @@ Overfull \hbox (0.43774pt too wide) detected at line 155
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 156
- []\T1/put/m/n/10.95 196
+ []\T1/put/m/n/10.95 197
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 157
- []\T1/put/m/n/10.95 196
+ []\T1/put/m/n/10.95 197
  []
 
 
@@ -950,42 +950,42 @@ Overfull \hbox (0.43774pt too wide) detected at line 162
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 164
- []\T1/put/m/n/10.95 206
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 165
- []\T1/put/m/n/10.95 206
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 166
  []\T1/put/m/n/10.95 207
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 167
+Overfull \hbox (0.43774pt too wide) detected at line 165
+ []\T1/put/m/n/10.95 207
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 166
  []\T1/put/m/n/10.95 208
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 168
+Overfull \hbox (0.43774pt too wide) detected at line 167
  []\T1/put/m/n/10.95 209
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 169
- []\T1/put/m/n/10.95 211
+Overfull \hbox (0.43774pt too wide) detected at line 168
+ []\T1/put/m/n/10.95 210
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 170
+Overfull \hbox (0.43774pt too wide) detected at line 169
  []\T1/put/m/n/10.95 212
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 171
+Overfull \hbox (0.43774pt too wide) detected at line 170
  []\T1/put/m/n/10.95 213
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 171
+ []\T1/put/m/n/10.95 214
  []
 
 
@@ -1020,17 +1020,17 @@ Overfull \hbox (0.43774pt too wide) detected at line 177
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 178
- []\T1/put/m/n/10.95 222
+ []\T1/put/m/n/10.95 223
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 179
- []\T1/put/m/n/10.95 224
+ []\T1/put/m/n/10.95 225
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 180
- []\T1/put/m/n/10.95 225
+ []\T1/put/m/n/10.95 226
  []
 
 
@@ -1045,12 +1045,12 @@ Overfull \hbox (0.43774pt too wide) detected at line 182
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 183
- []\T1/put/m/n/10.95 227
+ []\T1/put/m/n/10.95 228
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 184
- []\T1/put/m/n/10.95 229
+ []\T1/put/m/n/10.95 230
  []
 
 
@@ -1065,7 +1065,7 @@ Overfull \hbox (0.43774pt too wide) detected at line 186
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 187
- []\T1/put/m/n/10.95 232
+ []\T1/put/m/n/10.95 233
  []
 
 
@@ -1105,26 +1105,26 @@ ex than the weav-ing ac-tiv-i-ties de-scribed in the pre-vi-ous chap-
 9] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152
 ] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165]
 [166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [
-179]
-Underfull \hbox (badness 2343) in paragraph at lines 2162--2163
+179] [180]
+Underfull \hbox (badness 2343) in paragraph at lines 2170--2171
 []\T1/put/b/n/10.95 The ve-randa of the carver's hut is one of the points where
  the in-hab-i-tants of a in-
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 2162--2163
+Underfull \hbox (badness 2343) in paragraph at lines 2170--2171
 \T1/put/b/n/10.95 sert_drive_file47 vil-lage gather when they come back from th
 e gar-dens to watch the
  []
 
-[180]
-Underfull \hbox (badness 2165) in paragraph at lines 2168--2169
+[181]
+Underfull \hbox (badness 2165) in paragraph at lines 2176--2177
 []\T1/put/b/n/10.95 In short, dur-ing the first years of his ap-pren-tice-ship 
 an ini-ti-ate learns the ba-sic in-
  []
 
-[181] [182] [183] [184] [185] [186] [187] [188]
-Underfull \hbox (badness 1394) in paragraph at lines 2240--2241
+[182] [183] [184] [185] [186] [187] [188]
+Underfull \hbox (badness 1394) in paragraph at lines 2248--2249
 []\T1/put/m/n/10.95 (+20) ``Fighting skills in abo-rig-i-nal times in-cluded kn
 owl-edge of \T1/put/b/n/10.95 the man-u-fac-ture as well in-
  []
@@ -1132,7 +1132,7 @@ owl-edge of \T1/put/b/n/10.95 the man-u-fac-ture as well in-
 [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [
 202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [2
 15] [216] [217] [218] [219] [220] [221] [222] [223] [224] [225] [226] [227] [22
-8] [229] [230] [231] [232] [233]
+8] [229] [230] [231] [232] [233] [234]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 73.
 See the caption package documentation for explanation.
@@ -1141,17 +1141,17 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 74.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2748.
-[234]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2748.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2756.
+[235]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2756.
 (./Appendix.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2748.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2748.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2756.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2756.
  ) 
 Here is how much of TeX's memory you used:
- 16176 strings out of 492162
- 232738 string characters out of 6129062
- 468570 words of memory out of 5000000
+ 16177 strings out of 492162
+ 232746 string characters out of 6129062
+ 467199 words of memory out of 5000000
  19504 multiletter control sequences out of 15000+600000
  89337 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1160,10 +1160,10 @@ Here is how much of TeX's memory you used:
 f-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopi
 a/putri8a.pfb>
-Output written on Appendix.pdf (234 pages, 747797 bytes).
+Output written on Appendix.pdf (235 pages, 750125 bytes).
 PDF statistics:
- 2779 PDF objects out of 2984 (max. 8388607)
- 2514 compressed objects within 26 object streams
- 641 named destinations out of 1000 (max. 500000)
+ 2782 PDF objects out of 2984 (max. 8388607)
+ 2516 compressed objects within 26 object streams
+ 642 named destinations out of 1000 (max. 500000)
  13801 words of extra memory for PDF output out of 14400 (max. 10000000)
 
