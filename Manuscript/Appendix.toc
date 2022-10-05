@@ -174,17 +174,17 @@
 \contentsline {subsubsection}{\numberline {8.1.9}Warao}{222}{subsubsection.8.1.9}%
 \contentsline {subsection}{\numberline {8.2}Central Andes}{227}{subsection.8.2}%
 \contentsline {subsubsection}{\numberline {8.2.1}Aymara}{227}{subsubsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.3}Eastern South America}{227}{subsection.8.3}%
-\contentsline {subsubsection}{\numberline {8.3.1}Bororo}{227}{subsubsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3}Eastern South America}{228}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Bororo}{228}{subsubsection.8.3.1}%
 \contentsline {subsubsection}{\numberline {8.3.2}Guaraní}{228}{subsubsection.8.3.2}%
 \contentsline {subsubsection}{\numberline {8.3.3}Tapirapé}{230}{subsubsection.8.3.3}%
 \contentsline {subsubsection}{\numberline {8.3.4}Xavante}{231}{subsubsection.8.3.4}%
 \contentsline {subsection}{\numberline {8.4}Northwestern South America}{232}{subsection.8.4}%
 \contentsline {subsubsection}{\numberline {8.4.1}Chachi}{232}{subsubsection.8.4.1}%
 \contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{233}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Kogi}{235}{subsubsection.8.4.3}%
-\contentsline {subsection}{\numberline {8.5}Southern South America}{237}{subsection.8.5}%
-\contentsline {subsubsection}{\numberline {8.5.1}Chorote}{237}{subsubsection.8.5.1}%
-\contentsline {subsubsection}{\numberline {8.5.2}Ona}{238}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Kogi}{236}{subsubsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.5}Southern South America}{238}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}Chorote}{238}{subsubsection.8.5.1}%
+\contentsline {subsubsection}{\numberline {8.5.2}Ona}{239}{subsubsection.8.5.2}%
 \contentsline {subsubsection}{\numberline {8.5.3}Tehuelche}{239}{subsubsection.8.5.3}%
-\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{239}{subsubsection.8.5.4}%
+\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{240}{subsubsection.8.5.4}%
