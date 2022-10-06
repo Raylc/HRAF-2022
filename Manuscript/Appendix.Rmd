@@ -51,7 +51,7 @@ Hulstaert, G. E., & Vizedom, M. B. (1938). Marriage among the Nkundu. In MéIn-8
 
 "**Parents teach their children the trades that they themselves know: forging, wood sculpture, the weaving of mats and baskets, pottery making, etc.**"
 
-**p476**(contextual information)
+**p.476**(contextual information)
 "In general one has the impression that the girls are far more active than the boys. But I think that this difference is due to the fact that **the boys are almost always in the forest, while the girls remain in the village and are therefore noticed more**. As a matter of fact in our missions it cannot be said that the boys work less well than the girls, quite the contrary."
 
 ### Teda
@@ -166,6 +166,12 @@ Raum, O. F. (1940). Chaga childhood: a description of indigenous education in an
 **p.373** (contextual information)
 
 "In summing up this survey of professional training, three types can be distinguished. The practice of magic is transmitted when the elders feel they are approaching death. **The simpler vocations, such as bee-keeping and forging, admit the successor at the time of initiation and marriage**, because these occupations form the means of subsistence of the poorer families. The rites accompanying the training and the admission of youths to the professions are analogous to the agricultural education of the farmer's son, whose hoe and axe are blessed too. The heir to the realm receives a schooling, which, though adapted to his superior position, resembles that of his subjects. **Theoretical teaching, magical initiation, and social approval are in all walks of life necessary to admit the novice to his vocation.**"
+
+### Fur
+
+Beaton, A. C. (1948). The Fur. Sudan Notes and Records, Vol. 29, 1–39. p.15-16. https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=mq08-002
+
+"Parents are assisted in the training of their children by the grandparents and maternal uncle, whose association with his sister's son is nearly as close as the ngörinyi-mananye relationship among the Bari. A child is taught to eschew truculence, thieving, meddlesomeness, insult and lying. All children eat with their mother, but at seven or eight a boy may be allowed to eat in his father's mess. While the girls stay at home to learn a woman's duties, the boys at the age of seven often go off to a fiki's school (som) in a distant village, where they learn to read and write verses from the Koran on wooden boards and help their mentor in his fields. When they reach the age of puberty—for their schooling lasts many years—they are frequently the cause of complaint before the local court, because they make eyes at the women and girls while the men of the village are out at work. A fiki's pupil does not hunt, but **if a boy stays at home, he is taken out hunting in addition to being given instruction in cultivation and cotton spinning**. Girls learn to grind grain and cook meals under their mothers' eye; they also fetch water and mind the baby. Children generally are taught the planting and care of onion beds. Although a village headman's son will work like other boys, the sons of chiefs and subchiefs often lead idler lives. Children may be switched with a birch (bisa) for naughtiness but only as a general rule by their own parents; a man who habitually cuffs children for no reason is liable to reprimand and insult from his relatives and friends. **Basket-weaving, drum-making and house-building are men's work, pot-making is a female chore. Folk stories are picked up in the evening tale-telling hour and prayer is learned from father and insert_drive_file16 fiki. A child therefore acquires a practical and moral education from imitation, inculcation and exhortation with small rewards at times in the offing for good work or exemplary behaviour.**"
 
 ### Ganda
 
