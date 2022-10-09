@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  7 OCT 2022 10:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  8 OCT 2022 23:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -604,33 +604,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [1
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (0.43774pt too wide) detected at line 90
- []\T1/put/m/n/10.95 101
+Overfull \hbox (0.43774pt too wide) detected at line 89
+ []\T1/put/m/n/10.95 100
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 91
- []\T1/put/m/n/10.95 101
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 93
- []\T1/put/m/n/10.95 102
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 94
- []\T1/put/m/n/10.95 102
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 95
  []\T1/put/m/n/10.95 104
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 96
+Overfull \hbox (0.43774pt too wide) detected at line 92
+ []\T1/put/m/n/10.95 104
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 94
  []\T1/put/m/n/10.95 105
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 95
+ []\T1/put/m/n/10.95 105
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 96
+ []\T1/put/m/n/10.95 107
  []
 
 
@@ -640,17 +640,17 @@ Overfull \hbox (0.43774pt too wide) detected at line 97
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 98
- []\T1/put/m/n/10.95 108
+ []\T1/put/m/n/10.95 110
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 99
- []\T1/put/m/n/10.95 109
+ []\T1/put/m/n/10.95 111
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 100
- []\T1/put/m/n/10.95 110
+ []\T1/put/m/n/10.95 111
  []
 
 
@@ -660,222 +660,222 @@ Overfull \hbox (0.43774pt too wide) detected at line 101
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 102
- []\T1/put/m/n/10.95 120
+ []\T1/put/m/n/10.95 116
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 103
- []\T1/put/m/n/10.95 121
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 104
- []\T1/put/m/n/10.95 121
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 105
  []\T1/put/m/n/10.95 123
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 106
- []\T1/put/m/n/10.95 125
+Overfull \hbox (0.43774pt too wide) detected at line 104
+ []\T1/put/m/n/10.95 124
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 107
+Overfull \hbox (0.43774pt too wide) detected at line 105
+ []\T1/put/m/n/10.95 124
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 106
  []\T1/put/m/n/10.95 126
  []
 
 
+Overfull \hbox (0.43774pt too wide) detected at line 107
+ []\T1/put/m/n/10.95 128
+ []
+
+
 Overfull \hbox (0.43774pt too wide) detected at line 108
- []\T1/put/m/n/10.95 127
+ []\T1/put/m/n/10.95 128
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 109
- []\T1/put/m/n/10.95 127
+ []\T1/put/m/n/10.95 129
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 110
- []\T1/put/m/n/10.95 129
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 111
- []\T1/put/m/n/10.95 129
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 112
  []\T1/put/m/n/10.95 130
  []
 
 
+Overfull \hbox (0.43774pt too wide) detected at line 111
+ []\T1/put/m/n/10.95 131
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 112
+ []\T1/put/m/n/10.95 131
+ []
+
+
 Overfull \hbox (0.43774pt too wide) detected at line 113
- []\T1/put/m/n/10.95 131
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 114
- []\T1/put/m/n/10.95 131
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 115
- []\T1/put/m/n/10.95 132
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 116
- []\T1/put/m/n/10.95 132
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 117
  []\T1/put/m/n/10.95 133
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 118
+Overfull \hbox (0.43774pt too wide) detected at line 114
+ []\T1/put/m/n/10.95 133
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 115
+ []\T1/put/m/n/10.95 134
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 116
  []\T1/put/m/n/10.95 135
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 117
+ []\T1/put/m/n/10.95 135
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 118
+ []\T1/put/m/n/10.95 136
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 119
- []\T1/put/m/n/10.95 135
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 120
- []\T1/put/m/n/10.95 136
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 121
- []\T1/put/m/n/10.95 136
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 122
- []\T1/put/m/n/10.95 136
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 123
  []\T1/put/m/n/10.95 137
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 124
+Overfull \hbox (0.43774pt too wide) detected at line 120
+ []\T1/put/m/n/10.95 138
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 121
+ []\T1/put/m/n/10.95 138
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 122
  []\T1/put/m/n/10.95 139
  []
 
 
+Overfull \hbox (0.43774pt too wide) detected at line 123
+ []\T1/put/m/n/10.95 139
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 124
+ []\T1/put/m/n/10.95 140
+ []
+
+
 Overfull \hbox (0.43774pt too wide) detected at line 125
- []\T1/put/m/n/10.95 141
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 126
- []\T1/put/m/n/10.95 141
- []
-
-[3]
-Overfull \hbox (0.43774pt too wide) detected at line 127
  []\T1/put/m/n/10.95 142
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 128
+Overfull \hbox (0.43774pt too wide) detected at line 126
+ []\T1/put/m/n/10.95 143
+ []
+
+[3]
+Overfull \hbox (0.43774pt too wide) detected at line 127
  []\T1/put/m/n/10.95 144
  []
 
 
+Overfull \hbox (0.43774pt too wide) detected at line 128
+ []\T1/put/m/n/10.95 145
+ []
+
+
 Overfull \hbox (0.43774pt too wide) detected at line 129
- []\T1/put/m/n/10.95 145
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 130
- []\T1/put/m/n/10.95 145
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 131
- []\T1/put/m/n/10.95 145
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 132
  []\T1/put/m/n/10.95 147
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 133
+Overfull \hbox (0.43774pt too wide) detected at line 130
+ []\T1/put/m/n/10.95 147
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 131
  []\T1/put/m/n/10.95 148
  []
 
 
+Overfull \hbox (0.43774pt too wide) detected at line 132
+ []\T1/put/m/n/10.95 148
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 133
+ []\T1/put/m/n/10.95 149
+ []
+
+
 Overfull \hbox (0.43774pt too wide) detected at line 134
- []\T1/put/m/n/10.95 152
+ []\T1/put/m/n/10.95 151
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 135
- []\T1/put/m/n/10.95 152
+ []\T1/put/m/n/10.95 155
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 136
- []\T1/put/m/n/10.95 154
+ []\T1/put/m/n/10.95 155
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 137
- []\T1/put/m/n/10.95 168
+ []\T1/put/m/n/10.95 156
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 138
- []\T1/put/m/n/10.95 170
+ []\T1/put/m/n/10.95 171
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 139
- []\T1/put/m/n/10.95 170
+ []\T1/put/m/n/10.95 172
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 140
- []\T1/put/m/n/10.95 174
+ []\T1/put/m/n/10.95 173
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 142
- []\T1/put/m/n/10.95 174
+Overfull \hbox (0.43774pt too wide) detected at line 141
+ []\T1/put/m/n/10.95 176
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 143
- []\T1/put/m/n/10.95 174
+ []\T1/put/m/n/10.95 177
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 144
- []\T1/put/m/n/10.95 175
+ []\T1/put/m/n/10.95 177
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 145
- []\T1/put/m/n/10.95 176
+ []\T1/put/m/n/10.95 177
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 146
- []\T1/put/m/n/10.95 176
+ []\T1/put/m/n/10.95 178
  []
 
 
@@ -885,7 +885,7 @@ Overfull \hbox (0.43774pt too wide) detected at line 147
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 148
- []\T1/put/m/n/10.95 179
+ []\T1/put/m/n/10.95 181
  []
 
 
@@ -900,32 +900,32 @@ Overfull \hbox (0.43774pt too wide) detected at line 150
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 151
- []\T1/put/m/n/10.95 185
+ []\T1/put/m/n/10.95 187
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 152
- []\T1/put/m/n/10.95 193
+ []\T1/put/m/n/10.95 187
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 153
- []\T1/put/m/n/10.95 194
+ []\T1/put/m/n/10.95 196
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 154
- []\T1/put/m/n/10.95 194
+ []\T1/put/m/n/10.95 197
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 155
- []\T1/put/m/n/10.95 198
+ []\T1/put/m/n/10.95 197
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 156
- []\T1/put/m/n/10.95 199
+ []\T1/put/m/n/10.95 201
  []
 
 
@@ -935,67 +935,67 @@ Overfull \hbox (0.43774pt too wide) detected at line 157
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 158
- []\T1/put/m/n/10.95 203
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 159
- []\T1/put/m/n/10.95 203
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 160
- []\T1/put/m/n/10.95 203
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 161
- []\T1/put/m/n/10.95 204
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 162
  []\T1/put/m/n/10.95 205
  []
 
 
+Overfull \hbox (0.43774pt too wide) detected at line 159
+ []\T1/put/m/n/10.95 205
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 160
+ []\T1/put/m/n/10.95 206
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 161
+ []\T1/put/m/n/10.95 206
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 162
+ []\T1/put/m/n/10.95 207
+ []
+
+
 Overfull \hbox (0.43774pt too wide) detected at line 163
- []\T1/put/m/n/10.95 209
+ []\T1/put/m/n/10.95 207
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 164
- []\T1/put/m/n/10.95 211
- []
-
-
-Overfull \hbox (0.43774pt too wide) detected at line 165
  []\T1/put/m/n/10.95 212
  []
 
 
-Overfull \hbox (0.43774pt too wide) detected at line 167
- []\T1/put/m/n/10.95 215
+Overfull \hbox (0.43774pt too wide) detected at line 165
+ []\T1/put/m/n/10.95 213
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 166
+ []\T1/put/m/n/10.95 214
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 168
- []\T1/put/m/n/10.95 215
+ []\T1/put/m/n/10.95 217
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 169
- []\T1/put/m/n/10.95 216
+ []\T1/put/m/n/10.95 217
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 170
- []\T1/put/m/n/10.95 217
+ []\T1/put/m/n/10.95 218
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 171
- []\T1/put/m/n/10.95 217
+ []\T1/put/m/n/10.95 219
  []
 
 
@@ -1005,47 +1005,47 @@ Overfull \hbox (0.43774pt too wide) detected at line 172
 
 [4]
 Overfull \hbox (0.43774pt too wide) detected at line 173
- []\T1/put/m/n/10.95 221
+ []\T1/put/m/n/10.95 222
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 174
- []\T1/put/m/n/10.95 222
+ []\T1/put/m/n/10.95 223
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 175
- []\T1/put/m/n/10.95 222
+ []\T1/put/m/n/10.95 224
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 176
- []\T1/put/m/n/10.95 226
+ []\T1/put/m/n/10.95 225
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 177
- []\T1/put/m/n/10.95 230
+ []\T1/put/m/n/10.95 228
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 178
- []\T1/put/m/n/10.95 230
+ []\T1/put/m/n/10.95 233
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 179
- []\T1/put/m/n/10.95 231
+ []\T1/put/m/n/10.95 233
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 180
- []\T1/put/m/n/10.95 231
+ []\T1/put/m/n/10.95 234
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 181
- []\T1/put/m/n/10.95 232
+ []\T1/put/m/n/10.95 234
  []
 
 
@@ -1055,22 +1055,22 @@ Overfull \hbox (0.43774pt too wide) detected at line 182
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 183
- []\T1/put/m/n/10.95 235
+ []\T1/put/m/n/10.95 236
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 184
- []\T1/put/m/n/10.95 236
+ []\T1/put/m/n/10.95 237
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 185
- []\T1/put/m/n/10.95 236
+ []\T1/put/m/n/10.95 238
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 186
- []\T1/put/m/n/10.95 237
+ []\T1/put/m/n/10.95 238
  []
 
 
@@ -1085,22 +1085,27 @@ Overfull \hbox (0.43774pt too wide) detected at line 188
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 189
- []\T1/put/m/n/10.95 242
+ []\T1/put/m/n/10.95 244
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 190
- []\T1/put/m/n/10.95 242
+ []\T1/put/m/n/10.95 244
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 191
- []\T1/put/m/n/10.95 243
+ []\T1/put/m/n/10.95 245
  []
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 192
- []\T1/put/m/n/10.95 244
+ []\T1/put/m/n/10.95 245
+ []
+
+
+Overfull \hbox (0.43774pt too wide) detected at line 193
+ []\T1/put/m/n/10.95 246
  []
 
 )
@@ -1109,61 +1114,61 @@ Overfull \hbox (0.43774pt too wide) detected at line 192
 
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
 [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
-[38] [39] [40] [41]
-Overfull \hbox (1.18555pt too wide) in paragraph at lines 590--591
+[38] [39] [40] [41] [42] [43] [44]
+Overfull \hbox (1.18555pt too wide) in paragraph at lines 617--618
 []\T1/put/m/n/10.95 (-20) ``\T1/put/b/n/10.95 When a small boy, Chukwu joined t
 he imitation secret society, ohia eme enna (bush-children-
  []
 
-[42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54]
-Overfull \hbox (1.3825pt too wide) in paragraph at lines 727--728
+[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57]
+Overfull \hbox (1.3825pt too wide) in paragraph at lines 754--755
 []\T1/put/m/n/10.95 (-20) ``\T1/put/b/n/10.95 Cloth weav-ing is far more com-pl
 ex than the weav-ing ac-tiv-i-ties de-scribed in the pre-vi-ous chap-
  []
 
-[55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70]
-[71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]
-[87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [1
-02] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [11
-5] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128
-] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141]
-[142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [
-155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167] [1
-68] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [18
-1] [182] [183] [184]
-Underfull \hbox (badness 2343) in paragraph at lines 2213--2214
+[58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
+[74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
+[90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
+[105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [
+118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [1
+31] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [14
+4] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157
+] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [
+184] [185] [186] [187]
+Underfull \hbox (badness 2343) in paragraph at lines 2240--2241
 []\T1/put/b/n/10.95 The ve-randa of the carver's hut is one of the points where
  the in-hab-i-tants of a in-
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 2213--2214
+Underfull \hbox (badness 2343) in paragraph at lines 2240--2241
 \T1/put/b/n/10.95 sert_drive_file47 vil-lage gather when they come back from th
 e gar-dens to watch the
  []
 
-[185] [186]
-Underfull \hbox (badness 2165) in paragraph at lines 2219--2220
+[188]
+Underfull \hbox (badness 2165) in paragraph at lines 2246--2247
 []\T1/put/b/n/10.95 In short, dur-ing the first years of his ap-pren-tice-ship 
 an ini-ti-ate learns the ba-sic in-
  []
 
-[187] [188] [189] [190] [191] [192] [193]
-Underfull \hbox (badness 1394) in paragraph at lines 2302--2303
+[189] [190] [191] [192] [193] [194] [195] [196]
+Underfull \hbox (badness 1394) in paragraph at lines 2329--2330
 []\T1/put/m/n/10.95 (+20) ``Fighting skills in abo-rig-i-nal times in-cluded kn
 owl-edge of \T1/put/b/n/10.95 the man-u-fac-ture as well in-
  []
 
-[194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [
-207] [208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218] [219] [2
-20] [221] [222] [223] [224] [225]
-Overfull \hbox (1.10878pt too wide) in paragraph at lines 2641--2642
+[197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209] [
+210] [211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [2
+23] [224] [225] [226] [227]
+Overfull \hbox (1.10878pt too wide) in paragraph at lines 2668--2669
 []\T1/put/m/n/10.95 (-20) ``\T1/put/b/n/10.95 This work is carried out within t
 he confines of the village and the children have been watching
  []
 
-[226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237] [238] [
-239] [240] [241] [242] [243]
+[228] [229] [230] [231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [
+241] [242] [243] [244] [245] [246]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 73.
 See the caption package documentation for explanation.
@@ -1172,18 +1177,18 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 74.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2851.
-[244]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2851.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2878.
+[247]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2878.
 (./Appendix.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2851.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2851.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2878.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2878.
  ) 
 Here is how much of TeX's memory you used:
- 16198 strings out of 492162
- 232931 string characters out of 6129062
- 474670 words of memory out of 5000000
- 19510 multiletter control sequences out of 15000+600000
+ 16205 strings out of 492162
+ 232994 string characters out of 6129062
+ 470706 words of memory out of 5000000
+ 19512 multiletter control sequences out of 15000+600000
  89337 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,42p,5410b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1191,10 +1196,10 @@ Here is how much of TeX's memory you used:
 f-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopi
 a/putri8a.pfb>
-Output written on Appendix.pdf (244 pages, 777426 bytes).
+Output written on Appendix.pdf (247 pages, 785304 bytes).
 PDF statistics:
- 2867 PDF objects out of 2984 (max. 8388607)
- 2592 compressed objects within 26 object streams
- 657 named destinations out of 1000 (max. 500000)
- 13825 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 2886 PDF objects out of 2984 (max. 8388607)
+ 2607 compressed objects within 27 object streams
+ 662 named destinations out of 1000 (max. 500000)
+ 13833 words of extra memory for PDF output out of 14400 (max. 10000000)
 
