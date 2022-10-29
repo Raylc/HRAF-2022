@@ -189,17 +189,19 @@
 \contentsline {subsubsection}{\numberline {8.1.9}Warao}{260}{subsubsection.8.1.9}%
 \contentsline {subsection}{\numberline {8.2}Central Andes}{266}{subsection.8.2}%
 \contentsline {subsubsection}{\numberline {8.2.1}Aymara}{266}{subsubsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.3}Eastern South America}{267}{subsection.8.3}%
-\contentsline {subsubsection}{\numberline {8.3.1}Bororo}{267}{subsubsection.8.3.1}%
-\contentsline {subsubsection}{\numberline {8.3.2}Guaraní}{268}{subsubsection.8.3.2}%
-\contentsline {subsubsection}{\numberline {8.3.3}Tapirapé}{270}{subsubsection.8.3.3}%
-\contentsline {subsubsection}{\numberline {8.3.4}Xavante}{271}{subsubsection.8.3.4}%
-\contentsline {subsection}{\numberline {8.4}Northwestern South America}{272}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}Chachi}{272}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{273}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Kogi}{275}{subsubsection.8.4.3}%
-\contentsline {subsection}{\numberline {8.5}Southern South America}{278}{subsection.8.5}%
-\contentsline {subsubsection}{\numberline {8.5.1}Chorote}{278}{subsubsection.8.5.1}%
-\contentsline {subsubsection}{\numberline {8.5.2}Ona}{278}{subsubsection.8.5.2}%
-\contentsline {subsubsection}{\numberline {8.5.3}Tehuelche}{279}{subsubsection.8.5.3}%
-\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{280}{subsubsection.8.5.4}%
+\contentsline {subsubsection}{\numberline {8.2.2}Otavalo Quichua}{267}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Saraguro Quichua}{268}{subsubsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.3}Eastern South America}{268}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Bororo}{268}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}Guaraní}{269}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}Tapirapé}{271}{subsubsection.8.3.3}%
+\contentsline {subsubsection}{\numberline {8.3.4}Xavante}{272}{subsubsection.8.3.4}%
+\contentsline {subsection}{\numberline {8.4}Northwestern South America}{273}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}Chachi}{273}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{274}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Kogi}{276}{subsubsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.5}Southern South America}{279}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}Chorote}{279}{subsubsection.8.5.1}%
+\contentsline {subsubsection}{\numberline {8.5.2}Ona}{279}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.3}Tehuelche}{280}{subsubsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{281}{subsubsection.8.5.4}%
