@@ -193,15 +193,16 @@
 \contentsline {subsubsection}{\numberline {8.2.3}Saraguro Quichua}{268}{subsubsection.8.2.3}%
 \contentsline {subsection}{\numberline {8.3}Eastern South America}{268}{subsection.8.3}%
 \contentsline {subsubsection}{\numberline {8.3.1}Bororo}{268}{subsubsection.8.3.1}%
-\contentsline {subsubsection}{\numberline {8.3.2}Guaraní}{269}{subsubsection.8.3.2}%
-\contentsline {subsubsection}{\numberline {8.3.3}Tapirapé}{271}{subsubsection.8.3.3}%
-\contentsline {subsubsection}{\numberline {8.3.4}Xavante}{272}{subsubsection.8.3.4}%
-\contentsline {subsection}{\numberline {8.4}Northwestern South America}{273}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}Chachi}{273}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{274}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Kogi}{276}{subsubsection.8.4.3}%
-\contentsline {subsection}{\numberline {8.5}Southern South America}{279}{subsection.8.5}%
-\contentsline {subsubsection}{\numberline {8.5.1}Chorote}{279}{subsubsection.8.5.1}%
-\contentsline {subsubsection}{\numberline {8.5.2}Ona}{279}{subsubsection.8.5.2}%
-\contentsline {subsubsection}{\numberline {8.5.3}Tehuelche}{280}{subsubsection.8.5.3}%
-\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{281}{subsubsection.8.5.4}%
+\contentsline {subsubsection}{\numberline {8.3.2}Guaraní}{270}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}Tapirapé}{272}{subsubsection.8.3.3}%
+\contentsline {subsubsection}{\numberline {8.3.4}Tupinamba}{273}{subsubsection.8.3.4}%
+\contentsline {subsubsection}{\numberline {8.3.5}Xavante}{273}{subsubsection.8.3.5}%
+\contentsline {subsection}{\numberline {8.4}Northwestern South America}{274}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}Chachi}{274}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{276}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Kogi}{279}{subsubsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.5}Southern South America}{281}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}Chorote}{281}{subsubsection.8.5.1}%
+\contentsline {subsubsection}{\numberline {8.5.2}Ona}{281}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.3}Tehuelche}{282}{subsubsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{283}{subsubsection.8.5.4}%
