@@ -1,6 +1,6 @@
-\contentsline {section}{\numberline {1}Africa}{5}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Central Africa}{5}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}Barundi}{5}{subsubsection.1.1.1}%
+\contentsline {section}{\numberline {1}Africa}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Central Africa}{6}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Barundi}{6}{subsubsection.1.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.2}Mbuti}{6}{subsubsection.1.1.2}%
 \contentsline {subsubsection}{\numberline {1.1.3}Mongo}{7}{subsubsection.1.1.3}%
 \contentsline {subsubsection}{\numberline {1.1.4}Teda}{7}{subsubsection.1.1.4}%
@@ -9,7 +9,7 @@
 \contentsline {subsubsection}{\numberline {1.2.2}Banyoro}{9}{subsubsection.1.2.2}%
 \contentsline {subsubsection}{\numberline {1.2.3}Chagga}{11}{subsubsection.1.2.3}%
 \contentsline {subsubsection}{\numberline {1.2.4}Fur}{14}{subsubsection.1.2.4}%
-\contentsline {subsubsection}{\numberline {1.2.5}Ganda}{14}{subsubsection.1.2.5}%
+\contentsline {subsubsection}{\numberline {1.2.5}Ganda}{15}{subsubsection.1.2.5}%
 \contentsline {subsubsection}{\numberline {1.2.6}Gikuyu}{15}{subsubsection.1.2.6}%
 \contentsline {subsubsection}{\numberline {1.2.7}Luguru}{16}{subsubsection.1.2.7}%
 \contentsline {subsubsection}{\numberline {1.2.8}Nuba}{17}{subsubsection.1.2.8}%
@@ -21,7 +21,7 @@
 \contentsline {subsubsection}{\numberline {1.3.3}Tuarag}{23}{subsubsection.1.3.3}%
 \contentsline {subsection}{\numberline {1.4}Southern Africa}{24}{subsection.1.4}%
 \contentsline {subsubsection}{\numberline {1.4.1}Bemba}{24}{subsubsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.2}Khoi}{24}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.2}Khoi}{25}{subsubsection.1.4.2}%
 \contentsline {subsubsection}{\numberline {1.4.3}Ovambo}{25}{subsubsection.1.4.3}%
 \contentsline {subsubsection}{\numberline {1.4.4}Ovimbundu}{26}{subsubsection.1.4.4}%
 \contentsline {subsubsection}{\numberline {1.4.5}San}{27}{subsubsection.1.4.5}%
@@ -204,5 +204,5 @@
 \contentsline {subsection}{\numberline {8.5}Southern South America}{281}{subsection.8.5}%
 \contentsline {subsubsection}{\numberline {8.5.1}Chorote}{281}{subsubsection.8.5.1}%
 \contentsline {subsubsection}{\numberline {8.5.2}Ona}{281}{subsubsection.8.5.2}%
-\contentsline {subsubsection}{\numberline {8.5.3}Tehuelche}{282}{subsubsection.8.5.3}%
-\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{283}{subsubsection.8.5.4}%
+\contentsline {subsubsection}{\numberline {8.5.3}Tehuelche}{283}{subsubsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.4}Yahgan}{284}{subsubsection.8.5.4}%
