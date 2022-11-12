@@ -1,0 +1,1700 @@
+   var owcCodes = [];
+    var owcTerms = [];
+    var latitudes = [];
+    var longitudes = [];
+
+    
+	owcCodes[0] = "FE12";
+	owcTerms[0] = "Akan";
+	latitudes[0] = "7.0";
+	longitudes[0] = "-1.5";
+    
+	owcCodes[1] = "MP05";
+	owcTerms[1] = "Amhara";
+	latitudes[1] = "12.5";
+	longitudes[1] = "37.75";
+    
+	owcCodes[2] = "FO07";
+	owcTerms[2] = "Azande";
+	latitudes[2] = "5.08";
+	longitudes[2] = "28.25";
+    
+	owcCodes[3] = "FK13";
+	owcTerms[3] = "Bagisu";
+	latitudes[3] = "1.05906";
+	longitudes[3] = "34.2829";
+    
+	owcCodes[4] = "FA08";
+	owcTerms[4] = "Bambara";
+	latitudes[4] = "12.5";
+	longitudes[4] = "-7.0";
+    
+	owcCodes[5] = "FH26";
+	owcTerms[5] = "Banen";
+	latitudes[5] = "4.69";
+	longitudes[5] = "10.7444";
+    
+	owcCodes[6] = "FK11";
+	owcTerms[6] = "Banyoro";
+	latitudes[6] = "0.95294";
+	longitudes[6] = "31.3493";
+    
+	owcCodes[7] = "FO58";
+	owcTerms[7] = "Barundi";
+	latitudes[7] = "-3.0";
+	longitudes[7] = "30.0";
+    
+	owcCodes[8] = "FQ05";
+	owcTerms[8] = "Bemba";
+	latitudes[8] = "-10.5";
+	longitudes[8] = "30.5";
+    
+	owcCodes[9] = "FN31";
+	owcTerms[9] = "Bena";
+	latitudes[9] = "-9.26671";
+	longitudes[9] = "35.0364";
+    
+	owcCodes[10] = "MX03";
+	owcTerms[10] = "Berbers of Morocco";
+	latitudes[10] = "34.92";
+	longitudes[10] = "-3.25";
+    
+	owcCodes[11] = "FY11";
+	owcTerms[11] = "Betsileo";
+	latitudes[11] = "-19.5907";
+	longitudes[11] = "47.1211";
+    
+	owcCodes[12] = "MN06";
+	owcTerms[12] = "Bilen";
+	latitudes[12] = "15.6482";
+	longitudes[12] = "38.62258";
+    
+	owcCodes[13] = "FN04";
+	owcTerms[13] = "Chagga";
+	latitudes[13] = "-3.33743";
+	longitudes[13] = "37.3357";
+    
+	owcCodes[14] = "FA16";
+	owcTerms[14] = "Dogon";
+	latitudes[14] = "15.06";
+	longitudes[14] = "-2.92";
+    
+	owcCodes[15] = "MR13";
+	owcTerms[15] = "Fellahin";
+	latitudes[15] = "24.75";
+	longitudes[15] = "33.0";
+    
+	owcCodes[16] = "FA18";
+	owcTerms[16] = "Fon";
+	latitudes[16] = "7.2";
+	longitudes[16] = "1.91";
+    
+	owcCodes[17] = "MS11";
+	owcTerms[17] = "Fulani";
+	latitudes[17] = "15.02559";
+	longitudes[17] = "8.55131";
+    
+	owcCodes[18] = "MQ08";
+	owcTerms[18] = "Fur";
+	latitudes[18] = "13.45834";
+	longitudes[18] = "24.43334";
+    
+	owcCodes[19] = "FK07";
+	owcTerms[19] = "Ganda";
+	latitudes[19] = "0.33";
+	longitudes[19] = "32.5";
+    
+	owcCodes[20] = "FL10";
+	owcTerms[20] = "Gikuyu";
+	latitudes[20] = "-0.67";
+	longitudes[20] = "37.17";
+    
+	owcCodes[21] = "FL08";
+	owcTerms[21] = "Gusii";
+	latitudes[21] = "-0.78872";
+	longitudes[21] = "34.76751";
+    
+	owcCodes[22] = "FN11";
+	owcTerms[22] = "Hadza";
+	latitudes[22] = "-3.75";
+	longitudes[22] = "35.18";
+    
+	owcCodes[23] = "MS12";
+	owcTerms[23] = "Hausa";
+	latitudes[23] = "10.5";
+	longitudes[23] = "7.5";
+    
+	owcCodes[24] = "FF26";
+	owcTerms[24] = "Igbo";
+	latitudes[24] = "5.5";
+	longitudes[24] = "7.33";
+    
+	owcCodes[25] = "FQ06";
+	owcTerms[25] = "Ila";
+	latitudes[25] = "-15.60807";
+	longitudes[25] = "26.45548";
+    
+	owcCodes[26] = "MP14";
+	owcTerms[26] = "Kaffa";
+	latitudes[26] = "7.27";
+	longitudes[26] = "36.5";
+    
+	owcCodes[27] = "MS14";
+	owcTerms[27] = "Kanuri";
+	latitudes[27] = "11.0";
+	longitudes[27] = "11.0";
+    
+	owcCodes[28] = "FF38";
+	owcTerms[28] = "Katab";
+	latitudes[28] = "10.0";
+	longitudes[28] = "8.0";
+    
+	owcCodes[29] = "FX13";
+	owcTerms[29] = "Khoi";
+	latitudes[29] = "-27.5";
+	longitudes[29] = "17.0";
+    
+	owcCodes[30] = "MP17";
+	owcTerms[30] = "Konso";
+	latitudes[30] = "5.25";
+	longitudes[30] = "37.5";
+    
+	owcCodes[31] = "FD06";
+	owcTerms[31] = "Kpelle";
+	latitudes[31] = "6.92048";
+	longitudes[31] = "-9.96128";
+    
+	owcCodes[32] = "FR07";
+	owcTerms[32] = "Lakeshore Tonga";
+	latitudes[32] = "-12.0816";
+	longitudes[32] = "34.0613";
+    
+	owcCodes[33] = "MT09";
+	owcTerms[33] = "Libyan Bedouin";
+	latitudes[33] = "25.4132";
+	longitudes[33] = "30.5302";
+    
+	owcCodes[34] = "FQ09";
+	owcTerms[34] = "Lozi";
+	latitudes[34] = "14.3";
+	longitudes[34] = "23.0";
+    
+	owcCodes[35] = "FN32";
+	owcTerms[35] = "Luguru";
+	latitudes[35] = "-7.10508";
+	longitudes[35] = "37.65416";
+    
+	owcCodes[36] = "FL11";
+	owcTerms[36] = "Luo";
+	latitudes[36] = "-0.93296";
+	longitudes[36] = "34.4896";
+    
+	owcCodes[37] = "FL12";
+	owcTerms[37] = "Maasai";
+	latitudes[37] = "-3.5";
+	longitudes[37] = "36.75";
+    
+	owcCodes[38] = "MP19";
+	owcTerms[38] = "Mao";
+	latitudes[38] = "9.0";
+	longitudes[38] = "34.5";
+    
+	owcCodes[39] = "FI21";
+	owcTerms[39] = "Masa";
+	latitudes[39] = "10.43547";
+	longitudes[39] = "15.30156";
+    
+	owcCodes[40] = "FO04";
+	owcTerms[40] = "Mbuti";
+	latitudes[40] = "1.5";
+	longitudes[40] = "28.33";
+    
+	owcCodes[41] = "FC07";
+	owcTerms[41] = "Mende";
+	latitudes[41] = "7.83";
+	longitudes[41] = "-12.0";
+    
+	owcCodes[42] = "FO32";
+	owcTerms[42] = "Mongo";
+	latitudes[42] = "-0.75";
+	longitudes[42] = "19.17";
+    
+	owcCodes[43] = "FA28";
+	owcTerms[43] = "Mossi";
+	latitudes[43] = "12.5";
+	longitudes[43] = "-2.0";
+    
+	owcCodes[44] = "FJ21";
+	owcTerms[44] = "Nuba";
+	latitudes[44] = "11.33";
+	longitudes[44] = "30.67";
+    
+	owcCodes[45] = "MR08";
+	owcTerms[45] = "Nubians";
+	latitudes[45] = "21.79577";
+	longitudes[45] = "31.37129";
+    
+	owcCodes[46] = "FJ22";
+	owcTerms[46] = "Nuer";
+	latitudes[46] = "8.13911";
+	longitudes[46] = "32.3829";
+    
+	owcCodes[47] = "FF52";
+	owcTerms[47] = "Nupe";
+	latitudes[47] = "9.18404";
+	longitudes[47] = "5.40031";
+    
+	owcCodes[48] = "FN17";
+	owcTerms[48] = "Nyakyusa and Ngonde";
+	latitudes[48] = "-9.5";
+	longitudes[48] = "34.0";
+    
+	owcCodes[49] = "FL20";
+	owcTerms[49] = "Okiek";
+	latitudes[49] = "-0.083333";
+	longitudes[49] = "35.3333";
+    
+	owcCodes[50] = "FX08";
+	owcTerms[50] = "Ovambo";
+	latitudes[50] = "-17.6";
+	longitudes[50] = "15.5";
+    
+	owcCodes[51] = "FP13";
+	owcTerms[51] = "Ovimbundu";
+	latitudes[51] = "-12.25";
+	longitudes[51] = "16.5";
+    
+	owcCodes[52] = "FO57";
+	owcTerms[52] = "Rwandans";
+	latitudes[52] = "-1.56771";
+	longitudes[52] = "29.6441";
+    
+	owcCodes[53] = "FX10";
+	owcTerms[53] = "San";
+	latitudes[53] = "-19.83";
+	longitudes[53] = "20.58";
+    
+	owcCodes[54] = "FJ23";
+	owcTerms[54] = "Shilluk";
+	latitudes[54] = "9.75";
+	longitudes[54] = "31.5";
+    
+	owcCodes[55] = "MW11";
+	owcTerms[55] = "Shluh";
+	latitudes[55] = "29.7854";
+	longitudes[55] = "-7.77879";
+    
+	owcCodes[56] = "FS05";
+	owcTerms[56] = "Shona";
+	latitudes[56] = "-17.20849";
+	longitudes[56] = "29.75725";
+    
+	owcCodes[57] = "MO04";
+	owcTerms[57] = "Somali";
+	latitudes[57] = "4.7787";
+	longitudes[57] = "45.15286";
+    
+	owcCodes[58] = "MS20";
+	owcTerms[58] = "Songhai";
+	latitudes[58] = "16.58";
+	longitudes[58] = "-1.67";
+    
+	owcCodes[59] = "FO46";
+	owcTerms[59] = "Suku";
+	latitudes[59] = "-6.0";
+	longitudes[59] = "18.0";
+    
+	owcCodes[60] = "FE11";
+	owcTerms[60] = "Tallensi";
+	latitudes[60] = "10.66";
+	longitudes[60] = "-0.57";
+    
+	owcCodes[61] = "FY08";
+	owcTerms[61] = "Tanala";
+	latitudes[61] = "-22.0";
+	longitudes[61] = "48.0";
+    
+	owcCodes[62] = "MS22";
+	owcTerms[62] = "Teda";
+	latitudes[62] = "20.5";
+	longitudes[62] = "17.5";
+    
+	owcCodes[63] = "FF57";
+	owcTerms[63] = "Tiv";
+	latitudes[63] = "7.25";
+	longitudes[63] = "9.0";
+    
+	owcCodes[64] = "FQ12";
+	owcTerms[64] = "Tonga";
+	latitudes[64] = "-17.422325";
+	longitudes[64] = "27.103495";
+    
+	owcCodes[65] = "FT06";
+	owcTerms[65] = "Tsonga";
+	latitudes[65] = "-25.83";
+	longitudes[65] = "32.33";
+    
+	owcCodes[66] = "MS25";
+	owcTerms[66] = "Tuareg";
+	latitudes[66] = "23.0";
+	longitudes[66] = "6.5";
+    
+	owcCodes[67] = "FL17";
+	owcTerms[67] = "Turkana";
+	latitudes[67] = "4.30688";
+	longitudes[67] = "35.7101";
+    
+	owcCodes[68] = "MS30";
+	owcTerms[68] = "Wolof";
+	latitudes[68] = "13.75";
+	longitudes[68] = "-15.33";
+    
+	owcCodes[69] = "FF62";
+	owcTerms[69] = "Yoruba";
+	latitudes[69] = "7.0";
+	longitudes[69] = "3.0";
+    
+	owcCodes[70] = "FX20";
+	owcTerms[70] = "Zulu";
+	latitudes[70] = "-25.3305";
+	longitudes[70] = "31.3512";
+    
+	owcCodes[71] = "RI03";
+	owcTerms[71] = "Abkhazians";
+	latitudes[71] = "43.13";
+	longitudes[71] = "40.77";
+    
+	owcCodes[72] = "AB06";
+	owcTerms[72] = "Ainu";
+	latitudes[72] = "42.83";
+	longitudes[72] = "143.0";
+    
+	owcCodes[73] = "OF05";
+	owcTerms[73] = "Alorese";
+	latitudes[73] = "-8.33";
+	longitudes[73] = "124.67";
+    
+	owcCodes[74] = "AZ02";
+	owcTerms[74] = "Andamans";
+	latitudes[74] = "12.0";
+	longitudes[74] = "93.0";
+    
+	owcCodes[75] = "RJ01";
+	owcTerms[75] = "Armenia";
+	latitudes[75] = "40.25";
+	longitudes[75] = "45.0";
+    
+	owcCodes[76] = "AD08";
+	owcTerms[76] = "Atayal";
+	latitudes[76] = "24.297528";
+	longitudes[76] = "121.178112";
+    
+	owcCodes[77] = "AW50";
+	owcTerms[77] = "Badaga";
+	latitudes[77] = "11.3094";
+	longitudes[77] = "76.5974";
+    
+	owcCodes[78] = "OF07";
+	owcTerms[78] = "Balinese";
+	latitudes[78] = "-8.5";
+	longitudes[78] = "115.33";
+    
+	owcCodes[79] = "AT02";
+	owcTerms[79] = "Baluchi";
+	latitudes[79] = "28.0";
+	longitudes[79] = "62.0";
+    
+	owcCodes[80] = "AW69";
+	owcTerms[80] = "Bengali";
+	latitudes[80] = "24.0";
+	longitudes[80] = "90.0";
+    
+	owcCodes[81] = "AW25";
+	owcTerms[81] = "Bhil";
+	latitudes[81] = "20.85";
+	longitudes[81] = "73.9592";
+    
+	owcCodes[82] = "AP04";
+	owcTerms[82] = "Burmans";
+	latitudes[82] = "22.0";
+	longitudes[82] = "95.67";
+    
+	owcCodes[83] = "AV07";
+	owcTerms[83] = "Burusho";
+	latitudes[83] = "36.43";
+	longitudes[83] = "74.58";
+    
+	owcCodes[84] = "AM04";
+	owcTerms[84] = "Cambodians";
+	latitudes[84] = "13.0";
+	longitudes[84] = "103.83";
+    
+	owcCodes[85] = "AO07";
+	owcTerms[85] = "Central Thai";
+	latitudes[85] = "14.0";
+	longitudes[85] = "100.85";
+    
+	owcCodes[86] = "RY02";
+	owcTerms[86] = "Chukchee";
+	latitudes[86] = "66.5";
+	longitudes[86] = "179.6";
+    
+	owcCodes[87] = "OG11";
+	owcTerms[87] = "Eastern Toraja";
+	latitudes[87] = "-2.0";
+	longitudes[87] = "121.0";
+    
+	owcCodes[88] = "OF09";
+	owcTerms[88] = "Flores";
+	latitudes[88] = "-8.62354";
+	longitudes[88] = "121.12899";
+    
+	owcCodes[89] = "AR05";
+	owcTerms[89] = "Garo";
+	latitudes[89] = "26.0";
+	longitudes[89] = "91.0";
+    
+	owcCodes[90] = "AU07";
+	owcTerms[90] = "Ghorbat";
+	latitudes[90] = "34.340354";
+	longitudes[90] = "65.506324";
+    
+	owcCodes[91] = "AW32";
+	owcTerms[91] = "Gond";
+	latitudes[91] = "19.63";
+	longitudes[91] = "80.92";
+    
+	owcCodes[92] = "AE15";
+	owcTerms[92] = "Han Chinese";
+	latitudes[92] = "30.98273";
+	longitudes[92] = "120.4903";
+    
+	owcCodes[93] = "AU05";
+	owcTerms[93] = "Hazara";
+	latitudes[93] = "33.3708";
+	longitudes[93] = "64.5105";
+    
+	owcCodes[94] = "OC06";
+	owcTerms[94] = "Iban";
+	latitudes[94] = "2.0";
+	longitudes[94] = "113.0";
+    
+	owcCodes[95] = "OA19";
+	owcTerms[95] = "Ifugao";
+	latitudes[95] = "16.83";
+	longitudes[95] = "121.17";
+    
+	owcCodes[96] = "AH06";
+	owcTerms[96] = "Inner Mongolia";
+	latitudes[96] = "43.3";
+	longitudes[96] = "114.59";
+    
+	owcCodes[97] = "OE05";
+	owcTerms[97] = "Javanese";
+	latitudes[97] = "-7.7";
+	longitudes[97] = "112.22";
+    
+	owcCodes[98] = "AP06";
+	owcTerms[98] = "Kachin";
+	latitudes[98] = "25.4634";
+	longitudes[98] = "97.3278";
+    
+	owcCodes[99] = "RN02";
+	owcTerms[99] = "Karakalpak";
+	latitudes[99] = "39.98";
+	longitudes[99] = "63.3223";
+    
+	owcCodes[100] = "AP07";
+	owcTerms[100] = "Karen";
+	latitudes[100] = "17.3622";
+	longitudes[100] = "97.7044";
+    
+	owcCodes[101] = "AV04";
+	owcTerms[101] = "Kashmiri";
+	latitudes[101] = "34.16667";
+	longitudes[101] = "74.75";
+    
+	owcCodes[102] = "RQ02";
+	owcTerms[102] = "Kazakh";
+	latitudes[102] = "42.5";
+	longitudes[102] = "75.5";
+    
+	owcCodes[103] = "AW11";
+	owcTerms[103] = "Kerala";
+	latitudes[103] = "9.59208";
+	longitudes[103] = "76.7651";
+    
+	owcCodes[104] = "AR07";
+	owcTerms[104] = "Khasi";
+	latitudes[104] = "24.977";
+	longitudes[104] = "91.9998";
+    
+	owcCodes[105] = "AW37";
+	owcTerms[105] = "Kol";
+	latitudes[105] = "20.0";
+	longitudes[105] = "85.0";
+    
+	owcCodes[106] = "AA01";
+	owcTerms[106] = "Korea";
+	latitudes[106] = "37.6";
+	longitudes[106] = "126.42";
+    
+	owcCodes[107] = "RY04";
+	owcTerms[107] = "Koryaks";
+	latitudes[107] = "63.8977";
+	longitudes[107] = "166.695";
+    
+	owcCodes[108] = "RP02";
+	owcTerms[108] = "Kyrgyz";
+	latitudes[108] = "42.0";
+	longitudes[108] = "74.0";
+    
+	owcCodes[109] = "AK05";
+	owcTerms[109] = "Lepcha";
+	latitudes[109] = "27.5";
+	longitudes[109] = "89.0";
+    
+	owcCodes[110] = "AN05";
+	owcTerms[110] = "Malays";
+	latitudes[110] = "1.85856";
+	longitudes[110] = "103.0";
+    
+	owcCodes[111] = "AG04";
+	owcTerms[111] = "Manchu";
+	latitudes[111] = "50.0";
+	longitudes[111] = "125.5";
+    
+	owcCodes[112] = "AR20";
+	owcTerms[112] = "Mara";
+	latitudes[112] = "22.37802";
+	longitudes[112] = "93.01295";
+    
+	owcCodes[113] = "OD09";
+	owcTerms[113] = "Mentawaians";
+	latitudes[113] = "-1.41092";
+	longitudes[113] = "98.9401";
+    
+	owcCodes[114] = "AE05";
+	owcTerms[114] = "Miao";
+	latitudes[114] = "26.8";
+	longitudes[114] = "104.9";
+    
+	owcCodes[115] = "AH01";
+	owcTerms[115] = "Mongolia";
+	latitudes[115] = "47.17";
+	longitudes[115] = "96.08";
+    
+	owcCodes[116] = "AE09";
+	owcTerms[116] = "Monguor";
+	latitudes[116] = "36.8177";
+	longitudes[116] = "102.117";
+    
+	owcCodes[117] = "RU41";
+	owcTerms[117] = "Nenets";
+	latitudes[117] = "68.0";
+	longitudes[117] = "51.5";
+    
+	owcCodes[118] = "AZ07";
+	owcTerms[118] = "Nicobarese";
+	latitudes[118] = "7.0";
+	longitudes[118] = "93.75";
+    
+	owcCodes[119] = "RX02";
+	owcTerms[119] = "Nivkh";
+	latitudes[119] = "53.0";
+	longitudes[119] = "142.0";
+    
+	owcCodes[120] = "AB43";
+	owcTerms[120] = "Okayama";
+	latitudes[120] = "34.90204";
+	longitudes[120] = "133.81018";
+    
+	owcCodes[121] = "AC07";
+	owcTerms[121] = "Okinawans";
+	latitudes[121] = "26.14854";
+	longitudes[121] = "127.7816";
+    
+	owcCodes[122] = "RO03";
+	owcTerms[122] = "Pamir Peoples";
+	latitudes[122] = "38.1869";
+	longitudes[122] = "73.9977";
+    
+	owcCodes[123] = "AU04";
+	owcTerms[123] = "Pashtun";
+	latitudes[123] = "34.0";
+	longitudes[123] = "71.33";
+    
+	owcCodes[124] = "AM35";
+	owcTerms[124] = "Rhade";
+	latitudes[124] = "13.0";
+	longitudes[124] = "108.0";
+    
+	owcCodes[125] = "AM28";
+	owcTerms[125] = "Rmeet";
+	latitudes[125] = "20.31378";
+	longitudes[125] = "101.13696";
+    
+	owcCodes[126] = "OC13";
+	owcTerms[126] = "Rungus Dusun";
+	latitudes[126] = "6.83989";
+	longitudes[126] = "116.743";
+    
+	owcCodes[127] = "OA08";
+	owcTerms[127] = "Sama-Bajau";
+	latitudes[127] = "4.98847";
+	longitudes[127] = "119.77165";
+    
+	owcCodes[128] = "RU04";
+	owcTerms[128] = "Samoyed";
+	latitudes[128] = "73.1354";
+	longitudes[128] = "86.2106";
+    
+	owcCodes[129] = "AW42";
+	owcTerms[129] = "Santal";
+	latitudes[129] = "23.5";
+	longitudes[129] = "87.17";
+    
+	owcCodes[130] = "AN06";
+	owcTerms[130] = "Semai";
+	latitudes[130] = "4.13257";
+	longitudes[130] = "101.477";
+    
+	owcCodes[131] = "AN07";
+	owcTerms[131] = "Semang";
+	latitudes[131] = "5.0";
+	longitudes[131] = "101.25";
+    
+	owcCodes[132] = "AK06";
+	owcTerms[132] = "Sherpa";
+	latitudes[132] = "27.674";
+	longitudes[132] = "86.9994";
+    
+	owcCodes[133] = "AX04";
+	owcTerms[133] = "Sinhalese";
+	latitudes[133] = "8.0";
+	longitudes[133] = "81.0";
+    
+	owcCodes[134] = "OG13";
+	owcTerms[134] = "Southern Toraja";
+	latitudes[134] = "-2.58205";
+	longitudes[134] = "120.139";
+    
+	owcCodes[135] = "AD05";
+	owcTerms[135] = "Taiwan Hokkien";
+	latitudes[135] = "25.0853403";
+	longitudes[135] = "121.4231642";
+    
+	owcCodes[136] = "RO02";
+	owcTerms[136] = "Tajiks";
+	latitudes[136] = "38.8213";
+	longitudes[136] = "68.5549";
+    
+	owcCodes[137] = "AW16";
+	owcTerms[137] = "Tamil";
+	latitudes[137] = "10.520219";
+	longitudes[137] = "78.825989";
+    
+	owcCodes[138] = "AW17";
+	owcTerms[138] = "Telugu";
+	latitudes[138] = "16.4529";
+	longitudes[138] = "78.7024";
+    
+	owcCodes[139] = "AJ01";
+	owcTerms[139] = "Tibetans";
+	latitudes[139] = "30.0";
+	longitudes[139] = "91.0";
+    
+	owcCodes[140] = "OH18";
+	owcTerms[140] = "Tobelo";
+	latitudes[140] = "1.036416";
+	longitudes[140] = "128.10852";
+    
+	owcCodes[141] = "AW60";
+	owcTerms[141] = "Toda";
+	latitudes[141] = "11.5";
+	longitudes[141] = "76.5";
+    
+	owcCodes[142] = "RM02";
+	owcTerms[142] = "Turkmens";
+	latitudes[142] = "37.0872";
+	longitudes[142] = "59.1757";
+    
+	owcCodes[143] = "AW19";
+	owcTerms[143] = "Uttar Pradesh";
+	latitudes[143] = "25.92";
+	longitudes[143] = "83.0";
+    
+	owcCodes[144] = "RN05";
+	owcTerms[144] = "Uzbeks";
+	latitudes[144] = "43.7489";
+	longitudes[144] = "59.231";
+    
+	owcCodes[145] = "AX05";
+	owcTerms[145] = "Vedda";
+	latitudes[145] = "7.75";
+	longitudes[145] = "81.25";
+    
+	owcCodes[146] = "AM11";
+	owcTerms[146] = "Vietnamese";
+	latitudes[146] = "20.5";
+	longitudes[146] = "106.25";
+    
+	owcCodes[147] = "AT03";
+	owcTerms[147] = "West Punjabi";
+	latitudes[147] = "32.26661";
+	longitudes[147] = "73.12148";
+    
+	owcCodes[148] = "AI01";
+	owcTerms[148] = "Xinjiang Uygur Autonomous Region";
+	latitudes[148] = "41.5";
+	longitudes[148] = "85.5";
+    
+	owcCodes[149] = "RV02";
+	owcTerms[149] = "Yakut";
+	latitudes[149] = "61.6974";
+	longitudes[149] = "133.98";
+    
+	owcCodes[150] = "AE04";
+	owcTerms[150] = "Yi";
+	latitudes[150] = "27.5";
+	longitudes[150] = "103.5";
+    
+	owcCodes[151] = "RV03";
+	owcTerms[151] = "Yukaghir";
+	latitudes[151] = "66.99235";
+	longitudes[151] = "154.1913";
+    
+	owcCodes[152] = "EG01";
+	owcTerms[152] = "Albanians";
+	latitudes[152] = "42.0";
+	longitudes[152] = "20.17";
+    
+	owcCodes[153] = "EX08";
+	owcTerms[153] = "Basques";
+	latitudes[153] = "43.2787";
+	longitudes[153] = "-1.31622";
+    
+	owcCodes[154] = "EF09";
+	owcTerms[154] = "Bosnian Muslims";
+	latitudes[154] = "42.9331";
+	longitudes[154] = "17.6704";
+    
+	owcCodes[155] = "ES14";
+	owcTerms[155] = "British (1485-1603)";
+	latitudes[155] = "52.67513";
+	longitudes[155] = "-1.000952";
+    
+	owcCodes[156] = "ES03";
+	owcTerms[156] = "British (1714-1815)";
+	latitudes[156] = "52.9";
+	longitudes[156] = "-1.1";
+    
+	owcCodes[157] = "EF04";
+	owcTerms[157] = "Croats";
+	latitudes[157] = "45.2006";
+	longitudes[157] = "16.826";
+    
+	owcCodes[158] = "EQ02";
+	owcTerms[158] = "Early Icelanders";
+	latitudes[158] = "64.0";
+	longitudes[158] = "-20.0";
+    
+	owcCodes[159] = "EH01";
+	owcTerms[159] = "Greeks";
+	latitudes[159] = "39.0";
+	longitudes[159] = "21.0";
+    
+	owcCodes[160] = "ES10";
+	owcTerms[160] = "Highland Scots";
+	latitudes[160] = "56.7574";
+	longitudes[160] = "-5.24366";
+    
+	owcCodes[161] = "EQ01";
+	owcTerms[161] = "Icelanders";
+	latitudes[161] = "63.4837";
+	longitudes[161] = "-19.0212";
+    
+	owcCodes[162] = "EI09";
+	owcTerms[162] = "Imperial Romans";
+	latitudes[162] = "41.67";
+	longitudes[162] = "13.5";
+    
+	owcCodes[163] = "EF05";
+	owcTerms[163] = "Montenegrins";
+	latitudes[163] = "42.442574";
+	longitudes[163] = "19.268646";
+    
+	owcCodes[164] = "ER06";
+	owcTerms[164] = "Rural Irish";
+	latitudes[164] = "53.5";
+	longitudes[164] = "-10.0";
+    
+	owcCodes[165] = "RF10";
+	owcTerms[165] = "Russians";
+	latitudes[165] = "54.85252";
+	longitudes[165] = "38.86164";
+    
+	owcCodes[166] = "EP04";
+	owcTerms[166] = "Saami";
+	latitudes[166] = "68.7";
+	longitudes[166] = "21.5";
+    
+	owcCodes[167] = "EF06";
+	owcTerms[167] = "Serbs";
+	latitudes[167] = "44.3238";
+	longitudes[167] = "21.9192";
+    
+	owcCodes[168] = "EF07";
+	owcTerms[168] = "Slovenes";
+	latitudes[168] = "46.2543";
+	longitudes[168] = "14.7766";
+    
+	owcCodes[169] = "NU07";
+	owcTerms[169] = "Aztecs";
+	latitudes[169] = "19.0";
+	longitudes[169] = "-99.17";
+    
+	owcCodes[170] = "SX01";
+	owcTerms[170] = "Cubans";
+	latitudes[170] = "21.62142096";
+	longitudes[170] = "-79.0381998";
+    
+	owcCodes[171] = "ST04";
+	owcTerms[171] = "Dominicans";
+	latitudes[171] = "18.89309386";
+	longitudes[171] = "-70.48543447";
+    
+	owcCodes[172] = "SA12";
+	owcTerms[172] = "Garifuna";
+	latitudes[172] = "15.3529";
+	longitudes[172] = "-86.9091";
+    
+	owcCodes[173] = "SV03";
+	owcTerms[173] = "Haitians";
+	latitudes[173] = "18.83";
+	longitudes[173] = "-72.17";
+    
+	owcCodes[174] = "NU19";
+	owcTerms[174] = "Huichol";
+	latitudes[174] = "22.0";
+	longitudes[174] = "-105.0";
+    
+	owcCodes[175] = "ST13";
+	owcTerms[175] = "Island Carib";
+	latitudes[175] = "15.41";
+	longitudes[175] = "-61.27";
+    
+	owcCodes[176] = "SY01";
+	owcTerms[176] = "Jamaicans";
+	latitudes[176] = "18.13";
+	longitudes[176] = "-77.2612";
+    
+	owcCodes[177] = "SB05";
+	owcTerms[177] = "Kuna";
+	latitudes[177] = "9.25";
+	longitudes[177] = "-78.5";
+    
+	owcCodes[178] = "NW08";
+	owcTerms[178] = "Mam Maya";
+	latitudes[178] = "14.8034";
+	longitudes[178] = "-91.7231";
+    
+	owcCodes[179] = "NV10";
+	owcTerms[179] = "Maya (Yucatán Peninsula)";
+	latitudes[179] = "18.7757";
+	longitudes[179] = "-88.9567";
+    
+	owcCodes[180] = "SA15";
+	owcTerms[180] = "Miskito";
+	latitudes[180] = "15.0";
+	longitudes[180] = "-83.0";
+    
+	owcCodes[181] = "NU46";
+	owcTerms[181] = "Nahua";
+	latitudes[181] = "18.8989";
+	longitudes[181] = "-96.9537";
+    
+	owcCodes[182] = "NU30";
+	owcTerms[182] = "Popoluca";
+	latitudes[182] = "18.23205";
+	longitudes[182] = "-94.8919";
+    
+	owcCodes[183] = "SU01";
+	owcTerms[183] = "Puerto Ricans (Island)";
+	latitudes[183] = "18.466333";
+	longitudes[183] = "-66.105721";
+    
+	owcCodes[184] = "NW10";
+	owcTerms[184] = "Quiché Maya";
+	latitudes[184] = "15.0444";
+	longitudes[184] = "-91.1432";
+    
+	owcCodes[185] = "SA19";
+	owcTerms[185] = "Talamancans";
+	latitudes[185] = "9.0";
+	longitudes[185] = "-83.25";
+    
+	owcCodes[186] = "NU33";
+	owcTerms[186] = "Tarahumara";
+	latitudes[186] = "27.5648";
+	longitudes[186] = "-107.154";
+    
+	owcCodes[187] = "NV09";
+	owcTerms[187] = "Tzeltal";
+	latitudes[187] = "16.6384";
+	longitudes[187] = "-92.2786";
+    
+	owcCodes[188] = "NU44";
+	owcTerms[188] = "Zapotec";
+	latitudes[188] = "17.2134";
+	longitudes[188] = "-96.2183";
+    
+	owcCodes[189] = "MH07";
+	owcTerms[189] = "Babylonians";
+	latitudes[189] = "32.54083";
+	longitudes[189] = "44.42198";
+    
+	owcCodes[190] = "MA10";
+	owcTerms[190] = "Basseri";
+	latitudes[190] = "29.0";
+	longitudes[190] = "53.0";
+    
+	owcCodes[191] = "MA01";
+	owcTerms[191] = "Iran";
+	latitudes[191] = "28.6593";
+	longitudes[191] = "55.1586";
+    
+	owcCodes[192] = "MF01";
+	owcTerms[192] = "Israelis";
+	latitudes[192] = "31.35813";
+	longitudes[192] = "34.96603";
+    
+	owcCodes[193] = "MF07";
+	owcTerms[193] = "Israelites";
+	latitudes[193] = "32.24894";
+	longitudes[193] = "35.32577";
+    
+	owcCodes[194] = "MA11";
+	owcTerms[194] = "Kurds";
+	latitudes[194] = "36.5";
+	longitudes[194] = "44.5";
+    
+	owcCodes[195] = "MA12";
+	owcTerms[195] = "Lur";
+	latitudes[195] = "32.5438";
+	longitudes[195] = "47.916";
+    
+	owcCodes[196] = "M013";
+	owcTerms[196] = "Palestinians";
+	latitudes[196] = "32.0";
+	longitudes[196] = "35.25";
+    
+	owcCodes[197] = "MD04";
+	owcTerms[197] = "Rwala Bedouin";
+	latitudes[197] = "33.25";
+	longitudes[197] = "38.5";
+    
+	owcCodes[198] = "MB01";
+	owcTerms[198] = "Turks";
+	latitudes[198] = "39.33";
+	longitudes[198] = "34.25";
+    
+	owcCodes[199] = "ML01";
+	owcTerms[199] = "Yemenis";
+	latitudes[199] = "15.6552";
+	longitudes[199] = "44.8412";
+    
+	owcCodes[200] = "NA06";
+	owcTerms[200] = "Aleut";
+	latitudes[200] = "55.0";
+	longitudes[200] = "-162.85";
+    
+	owcCodes[201] = "NA10";
+	owcTerms[201] = "Alutiiq";
+	latitudes[201] = "61.21";
+	longitudes[201] = "-147.61";
+    
+	owcCodes[202] = "NF04";
+	owcTerms[202] = "Assiniboine";
+	latitudes[202] = "49.2923";
+	longitudes[202] = "-106.068";
+    
+	owcCodes[203] = "NF06";
+	owcTerms[203] = "Blackfoot";
+	latitudes[203] = "49.34";
+	longitudes[203] = "-111.21";
+    
+	owcCodes[204] = "NN08";
+	owcTerms[204] = "Cherokee";
+	latitudes[204] = "35.4664";
+	longitudes[204] = "-83.163";
+    
+	owcCodes[205] = "NR06";
+	owcTerms[205] = "Chinookans of the Lower Columbia River";
+	latitudes[205] = "45.1729";
+	longitudes[205] = "-119.166";
+    
+	owcCodes[206] = "ND07";
+	owcTerms[206] = "Chipewyans";
+	latitudes[206] = "58.3637";
+	longitudes[206] = "-110.832";
+    
+	owcCodes[207] = "NO06";
+	owcTerms[207] = "Comanche";
+	latitudes[207] = "34.0";
+	longitudes[207] = "-101.5";
+    
+	owcCodes[208] = "ND08";
+	owcTerms[208] = "Copper Inuit";
+	latitudes[208] = "68.72";
+	longitudes[208] = "-112.53";
+    
+	owcCodes[209] = "NN11";
+	owcTerms[209] = "Creek";
+	latitudes[209] = "32.93";
+	longitudes[209] = "-86.0";
+    
+	owcCodes[210] = "NQ10";
+	owcTerms[210] = "Crow";
+	latitudes[210] = "45.368";
+	longitudes[210] = "-107.874";
+    
+	owcCodes[211] = "NM07";
+	owcTerms[211] = "Delaware";
+	latitudes[211] = "40.7";
+	longitudes[211] = "-75.1";
+    
+	owcCodes[212] = "NT08";
+	owcTerms[212] = "Eastern Apache";
+	latitudes[212] = "32.0";
+	longitudes[212] = "-109.5";
+    
+	owcCodes[213] = "NA07";
+	owcTerms[213] = "Eyak";
+	latitudes[213] = "60.44417";
+	longitudes[213] = "-145.21583";
+    
+	owcCodes[214] = "NP05";
+	owcTerms[214] = "Fox";
+	latitudes[214] = "40.0";
+	longitudes[214] = "-94.0";
+    
+	owcCodes[215] = "NQ13";
+	owcTerms[215] = "Gros Ventre";
+	latitudes[215] = "48.0";
+	longitudes[215] = "-108.0";
+    
+	owcCodes[216] = "NE09";
+	owcTerms[216] = "Haida";
+	latitudes[216] = "54.0";
+	longitudes[216] = "-132.5";
+    
+	owcCodes[217] = "NT14";
+	owcTerms[217] = "Havasupai";
+	latitudes[217] = "35.83";
+	longitudes[217] = "-112.17";
+    
+	owcCodes[218] = "NQ14";
+	owcTerms[218] = "Hidatsa";
+	latitudes[218] = "47.46204";
+	longitudes[218] = "-101.64955";
+    
+	owcCodes[219] = "NT09";
+	owcTerms[219] = "Hopi";
+	latitudes[219] = "35.7653";
+	longitudes[219] = "-110.535";
+    
+	owcCodes[220] = "NG05";
+	owcTerms[220] = "Huron/Wendat";
+	latitudes[220] = "44.14776";
+	longitudes[220] = "-80.01739";
+    
+	owcCodes[221] = "NA08";
+	owcTerms[221] = "Ingalik";
+	latitudes[221] = "62.5";
+	longitudes[221] = "-159.5";
+    
+	owcCodes[222] = "NH06";
+	owcTerms[222] = "Innu";
+	latitudes[222] = "53.0";
+	longitudes[222] = "-58.0";
+    
+	owcCodes[223] = "NM09";
+	owcTerms[223] = "Iroquois";
+	latitudes[223] = "42.56";
+	longitudes[223] = "-77.53";
+    
+	owcCodes[224] = "ND12";
+	owcTerms[224] = "Kaska";
+	latitudes[224] = "60.0";
+	longitudes[224] = "-131.0";
+    
+	owcCodes[225] = "NR10";
+	owcTerms[225] = "Klamath";
+	latitudes[225] = "42.0";
+	longitudes[225] = "-121.31";
+    
+	owcCodes[226] = "NF08";
+	owcTerms[226] = "Kutenai";
+	latitudes[226] = "49.0";
+	longitudes[226] = "-116.67";
+    
+	owcCodes[227] = "NT43";
+	owcTerms[227] = "Maricopa";
+	latitudes[227] = "32.0";
+	longitudes[227] = "-112.0";
+    
+	owcCodes[228] = "NT25";
+	owcTerms[228] = "Mescalero Apache";
+	latitudes[228] = "33.1291";
+	longitudes[228] = "-105.566";
+    
+	owcCodes[229] = "NJ05";
+	owcTerms[229] = "Mi'kmaq";
+	latitudes[229] = "46.99";
+	longitudes[229] = "-65.0";
+    
+	owcCodes[230] = "NO08";
+	owcTerms[230] = "Natchez";
+	latitudes[230] = "31.608575";
+	longitudes[230] = "-91.19534";
+    
+	owcCodes[231] = "NT13";
+	owcTerms[231] = "Navajo";
+	latitudes[231] = "36.2106";
+	longitudes[231] = "-110.082";
+    
+	owcCodes[232] = "NR13";
+	owcTerms[232] = "Northern Paiute";
+	latitudes[232] = "40.0799";
+	longitudes[232] = "-119.536";
+    
+	owcCodes[233] = "NE11";
+	owcTerms[233] = "Nuu-chah-nulth";
+	latitudes[233] = "49.67";
+	longitudes[233] = "-126.67";
+    
+	owcCodes[234] = "NE06";
+	owcTerms[234] = "Nuxalk";
+	latitudes[234] = "52.33";
+	longitudes[234] = "-126.5";
+    
+	owcCodes[235] = "NU79";
+	owcTerms[235] = "O'odham";
+	latitudes[235] = "32.0";
+	longitudes[235] = "-112.0";
+    
+	owcCodes[236] = "NG06";
+	owcTerms[236] = "Ojibwa";
+	latitudes[236] = "47.32532";
+	longitudes[236] = "-91.86092";
+    
+	owcCodes[237] = "NQ21";
+	owcTerms[237] = "Omaha";
+	latitudes[237] = "41.43";
+	longitudes[237] = "-96.5";
+    
+	owcCodes[238] = "NQ22";
+	owcTerms[238] = "Osage";
+	latitudes[238] = "36.7828";
+	longitudes[238] = "-96.2949";
+    
+	owcCodes[239] = "NQ18";
+	owcTerms[239] = "Pawnee";
+	latitudes[239] = "42.0";
+	longitudes[239] = "-100.0";
+    
+	owcCodes[240] = "NS18";
+	owcTerms[240] = "Pomo";
+	latitudes[240] = "39.1084";
+	longitudes[240] = "-123.209";
+    
+	owcCodes[241] = "NR17";
+	owcTerms[241] = "Quinault";
+	latitudes[241] = "47.4214";
+	longitudes[241] = "-124.16";
+    
+	owcCodes[242] = "NN16";
+	owcTerms[242] = "Seminole";
+	latitudes[242] = "26.08142";
+	longitudes[242] = "-80.90847";
+    
+	owcCodes[243] = "ND14";
+	owcTerms[243] = "Slavey";
+	latitudes[243] = "62.0";
+	longitudes[243] = "-122.0";
+    
+	owcCodes[244] = "NR26";
+	owcTerms[244] = "Southern Coast Salish";
+	latitudes[244] = "47.80315";
+	longitudes[244] = "-122.39486";
+    
+	owcCodes[245] = "NF12";
+	owcTerms[245] = "Stoney";
+	latitudes[245] = "51.1939";
+	longitudes[245] = "-114.984";
+    
+	owcCodes[246] = "NT18";
+	owcTerms[246] = "Tewa Pueblos";
+	latitudes[246] = "35.9";
+	longitudes[246] = "-106.2";
+    
+	owcCodes[247] = "NR21";
+	owcTerms[247] = "Tillamook";
+	latitudes[247] = "45.483";
+	longitudes[247] = "-123.8704";
+    
+	owcCodes[248] = "NA12";
+	owcTerms[248] = "Tlingit";
+	latitudes[248] = "57.0";
+	longitudes[248] = "-133.59";
+    
+	owcCodes[249] = "NS22";
+	owcTerms[249] = "Tubatulabal";
+	latitudes[249] = "35.327";
+	longitudes[249] = "-117.163";
+    
+	owcCodes[250] = "NT19";
+	owcTerms[250] = "Ute";
+	latitudes[250] = "37.0";
+	longitudes[250] = "-105.0";
+    
+	owcCodes[251] = "NT21";
+	owcTerms[251] = "Western Apache";
+	latitudes[251] = "33.8574";
+	longitudes[251] = "-110.123";
+    
+	owcCodes[252] = "NG08";
+	owcTerms[252] = "Western Woods Cree";
+	latitudes[252] = "57.0";
+	longitudes[252] = "-99.0";
+    
+	owcCodes[253] = "NP12";
+	owcTerms[253] = "Winnebago/Ho-Chunk";
+	latitudes[253] = "43.5";
+	longitudes[253] = "-88.5";
+    
+	owcCodes[254] = "NS29";
+	owcTerms[254] = "Yokuts";
+	latitudes[254] = "35.0";
+	longitudes[254] = "-119.5";
+    
+	owcCodes[255] = "NS30";
+	owcTerms[255] = "Yuki";
+	latitudes[255] = "39.64";
+	longitudes[255] = "-123.74";
+    
+	owcCodes[256] = "NS31";
+	owcTerms[256] = "Yurok";
+	latitudes[256] = "41.5";
+	longitudes[256] = "-124.0";
+    
+	owcCodes[257] = "NT38";
+	owcTerms[257] = "Zia Pueblo";
+	latitudes[257] = "35.5216";
+	longitudes[257] = "-106.453";
+    
+	owcCodes[258] = "NT23";
+	owcTerms[258] = "Zuni";
+	latitudes[258] = "35.67";
+	longitudes[258] = "-108.75";
+    
+	owcCodes[259] = "OI08";
+	owcTerms[259] = "Aranda";
+	latitudes[259] = "-24.25";
+	longitudes[259] = "133.5";
+    
+	owcCodes[260] = "OQ12";
+	owcTerms[260] = "Bau Fijians";
+	latitudes[260] = "-17.9719";
+	longitudes[260] = "178.61509";
+    
+	owcCodes[261] = "OR15";
+	owcTerms[261] = "Belau";
+	latitudes[261] = "7.5";
+	longitudes[261] = "134.5";
+    
+	owcCodes[262] = "OR19";
+	owcTerms[262] = "Chuuk";
+	latitudes[262] = "7.34";
+	longitudes[262] = "151.6";
+    
+	owcCodes[263] = "OV05";
+	owcTerms[263] = "Hawaiians";
+	latitudes[263] = "19.6297";
+	longitudes[263] = "-155.43";
+    
+	owcCodes[264] = "OP04";
+	owcTerms[264] = "Kanak";
+	latitudes[264] = "-21.33";
+	longitudes[264] = "165.67";
+    
+	owcCodes[265] = "OJ29";
+	owcTerms[265] = "Kapauku";
+	latitudes[265] = "-4.0";
+	longitudes[265] = "136.0";
+    
+	owcCodes[266] = "OJ82";
+	owcTerms[266] = "Kimam";
+	latitudes[266] = "-7.88844";
+	longitudes[266] = "138.38421";
+    
+	owcCodes[267] = "OR06";
+	owcTerms[267] = "Kiribati";
+	latitudes[267] = "3.38";
+	longitudes[267] = "172.99";
+    
+	owcCodes[268] = "OJ13";
+	owcTerms[268] = "Kwoma";
+	latitudes[268] = "-4.17";
+	longitudes[268] = "142.67";
+    
+	owcCodes[269] = "OQ06";
+	owcTerms[269] = "Lau Fijians";
+	latitudes[269] = "-18.2131";
+	longitudes[269] = "-178.785";
+    
+	owcCodes[270] = "OM24";
+	owcTerms[270] = "Lesu";
+	latitudes[270] = "-2.71";
+	longitudes[270] = "151.0";
+    
+	owcCodes[271] = "OO12";
+	owcTerms[271] = "Malekula";
+	latitudes[271] = "-16.5116";
+	longitudes[271] = "167.477";
+    
+	owcCodes[272] = "OM06";
+	owcTerms[272] = "Manus";
+	latitudes[272] = "-2.17";
+	longitudes[272] = "147.17";
+    
+	owcCodes[273] = "OZ04";
+	owcTerms[273] = "Maori";
+	latitudes[273] = "-35.33";
+	longitudes[273] = "174.17";
+    
+	owcCodes[274] = "OX06";
+	owcTerms[274] = "Marquesas";
+	latitudes[274] = "-8.92";
+	longitudes[274] = "-140.17";
+    
+	owcCodes[275] = "OR11";
+	owcTerms[275] = "Marshallese";
+	latitudes[275] = "8.72";
+	longitudes[275] = "167.73";
+    
+	owcCodes[276] = "OL07";
+	owcTerms[276] = "Northeastern Massim";
+	latitudes[276] = "-9.195";
+	longitudes[276] = "152.731";
+    
+	owcCodes[277] = "OJ23";
+	owcTerms[277] = "Orokaiva";
+	latitudes[277] = "-8.5";
+	longitudes[277] = "148.0";
+    
+	owcCodes[278] = "OY02";
+	owcTerms[278] = "Rapa Nui";
+	latitudes[278] = "-27.113";
+	longitudes[278] = "-109.342";
+    
+	owcCodes[279] = "OO17";
+	owcTerms[279] = "Sa";
+	latitudes[279] = "-15.944484";
+	longitudes[279] = "168.233156";
+    
+	owcCodes[280] = "OU08";
+	owcTerms[280] = "Samoans";
+	latitudes[280] = "-13.92";
+	longitudes[280] = "-171.83";
+    
+	owcCodes[281] = "ON13";
+	owcTerms[281] = "Santa Cruz Islanders";
+	latitudes[281] = "-10.6771";
+	longitudes[281] = "165.835";
+    
+	owcCodes[282] = "ON19";
+	owcTerms[282] = "Siwai";
+	latitudes[282] = "-6.76";
+	longitudes[282] = "155.45";
+    
+	owcCodes[283] = "OT11";
+	owcTerms[283] = "Tikopia";
+	latitudes[283] = "-12.29";
+	longitudes[283] = "168.83";
+    
+	owcCodes[284] = "ON26";
+	owcTerms[284] = "Tinputz";
+	latitudes[284] = "-5.58358";
+	longitudes[284] = "154.972";
+    
+	owcCodes[285] = "OI20";
+	owcTerms[285] = "Tiwi";
+	latitudes[285] = "-11.38";
+	longitudes[285] = "131.0";
+    
+	owcCodes[286] = "OU09";
+	owcTerms[286] = "Tongans";
+	latitudes[286] = "-21.17";
+	longitudes[286] = "-175.25";
+    
+	owcCodes[287] = "OL06";
+	owcTerms[287] = "Trobriands";
+	latitudes[287] = "-8.54";
+	longitudes[287] = "151.01";
+    
+	owcCodes[288] = "OR20";
+	owcTerms[288] = "Ulithi";
+	latitudes[288] = "9.961388";
+	longitudes[288] = "139.603611";
+    
+	owcCodes[289] = "OJ27";
+	owcTerms[289] = "Wogeo";
+	latitudes[289] = "-3.20238";
+	longitudes[289] = "144.089";
+    
+	owcCodes[290] = "OR21";
+	owcTerms[290] = "Woleai Region";
+	latitudes[290] = "7.37957";
+	longitudes[290] = "143.916";
+    
+	owcCodes[291] = "OR22";
+	owcTerms[291] = "Yapese";
+	latitudes[291] = "9.52";
+	longitudes[291] = "138.16";
+    
+	owcCodes[292] = "SI04";
+	owcTerms[292] = "Abipón";
+	latitudes[292] = "-28.0";
+	longitudes[292] = "-59.5";
+    
+	owcCodes[293] = "SE06";
+	owcTerms[293] = "Amahuaca";
+	latitudes[293] = "-10.5326485";
+	longitudes[293] = "-72.73608683";
+    
+	owcCodes[294] = "SF05";
+	owcTerms[294] = "Aymara";
+	latitudes[294] = "-16.0";
+	longitudes[294] = "-65.75";
+    
+	owcCodes[295] = "SK16";
+	owcTerms[295] = "Ayoreo";
+	latitudes[295] = "-20.1722";
+	longitudes[295] = "-61.4089";
+    
+	owcCodes[296] = "SO11";
+	owcTerms[296] = "Bahia Brazilians";
+	latitudes[296] = "-11.409874";
+	longitudes[296] = "-41.280857";
+    
+	owcCodes[297] = "SP07";
+	owcTerms[297] = "Bakairi";
+	latitudes[297] = "-14.2628";
+	longitudes[297] = "-54.7034";
+    
+	owcCodes[298] = "SR09";
+	owcTerms[298] = "Barama River Carib";
+	latitudes[298] = "7.42";
+	longitudes[298] = "-60.17";
+    
+	owcCodes[299] = "SP08";
+	owcTerms[299] = "Bororo";
+	latitudes[299] = "-16.6029";
+	longitudes[299] = "-55.2004";
+    
+	owcCodes[300] = "SN02";
+	owcTerms[300] = "Botocudo";
+	latitudes[300] = "-19.23903";
+	longitudes[300] = "-41.23222";
+    
+	owcCodes[301] = "SO08";
+	owcTerms[301] = "Canela";
+	latitudes[301] = "-6.5";
+	longitudes[301] = "-46.0";
+    
+	owcCodes[302] = "SD18";
+	owcTerms[302] = "Canelos Quichua";
+	latitudes[302] = "-1.5894";
+	longitudes[302] = "-77.7466";
+    
+	owcCodes[303] = "SD06";
+	owcTerms[303] = "Chachi";
+	latitudes[303] = "1.0";
+	longitudes[303] = "-79.0";
+    
+	owcCodes[304] = "SK06";
+	owcTerms[304] = "Chorote";
+	latitudes[304] = "-22.2067";
+	longitudes[304] = "-62.6508";
+    
+	owcCodes[305] = "SK15";
+	owcTerms[305] = "Enxet and Enlhet";
+	latitudes[305] = "-23.224435";
+	longitudes[305] = "-58.8031175";
+    
+	owcCodes[306] = "SC13";
+	owcTerms[306] = "Goajiro";
+	latitudes[306] = "11.92";
+	longitudes[306] = "-71.75";
+    
+	owcCodes[307] = "SK04";
+	owcTerms[307] = "Gran Chaco";
+	latitudes[307] = "-23.75";
+	longitudes[307] = "-61.25";
+    
+	owcCodes[308] = "SM04";
+	owcTerms[308] = "Guaraní";
+	latitudes[308] = "-23.5";
+	longitudes[308] = "-55.0";
+    
+	owcCodes[309] = "SE13";
+	owcTerms[309] = "Inka";
+	latitudes[309] = "-13.5";
+	longitudes[309] = "-72.0";
+    
+	owcCodes[310] = "SD09";
+	owcTerms[310] = "Jivaro";
+	latitudes[310] = "-3.0";
+	longitudes[310] = "-78.0";
+    
+	owcCodes[311] = "SP09";
+	owcTerms[311] = "Karajá";
+	latitudes[311] = "-11.1881";
+	longitudes[311] = "-50.3492";
+    
+	owcCodes[312] = "SC07";
+	owcTerms[312] = "Kogi";
+	latitudes[312] = "10.9485";
+	longitudes[312] = "-73.8043";
+    
+	owcCodes[313] = "SG04";
+	owcTerms[313] = "Mapuche";
+	latitudes[313] = "-38.5";
+	longitudes[313] = "-72.58";
+    
+	owcCodes[314] = "SI07";
+	owcTerms[314] = "Mataco";
+	latitudes[314] = "-23.1633";
+	longitudes[314] = "-62.1757";
+    
+	owcCodes[315] = "SQ13";
+	owcTerms[315] = "Mundurucu";
+	latitudes[315] = "-6.5";
+	longitudes[315] = "-56.5";
+    
+	owcCodes[316] = "SP17";
+	owcTerms[316] = "Nambicuara";
+	latitudes[316] = "-13.0";
+	longitudes[316] = "-58.75";
+    
+	owcCodes[317] = "SR14";
+	owcTerms[317] = "Ndyuka";
+	latitudes[317] = "4.3126";
+	longitudes[317] = "-54.6419";
+    
+	owcCodes[318] = "SH04";
+	owcTerms[318] = "Ona";
+	latitudes[318] = "-54.0";
+	longitudes[318] = "-68.5";
+    
+	owcCodes[319] = "SD16";
+	owcTerms[319] = "Otavalo Quichua";
+	latitudes[319] = "0.31776";
+	longitudes[319] = "-78.3729";
+    
+	owcCodes[320] = "SS19";
+	owcTerms[320] = "Pumé";
+	latitudes[320] = "7.10677";
+	longitudes[320] = "-67.5996";
+    
+	owcCodes[321] = "SD15";
+	owcTerms[321] = "Quito Quichua";
+	latitudes[321] = "-0.36205";
+	longitudes[321] = "-78.2587";
+    
+	owcCodes[322] = "SD17";
+	owcTerms[322] = "Saraguro Quichua";
+	latitudes[322] = "-3.69352";
+	longitudes[322] = "-79.29151";
+    
+	owcCodes[323] = "SR15";
+	owcTerms[323] = "Saramaka";
+	latitudes[323] = "3.5";
+	longitudes[323] = "-55.75";
+    
+	owcCodes[324] = "SE26";
+	owcTerms[324] = "Shipibo";
+	latitudes[324] = "-7.17105";
+	longitudes[324] = "-74.8219";
+    
+	owcCodes[325] = "SF21";
+	owcTerms[325] = "Sirionó";
+	latitudes[325] = "-14.5";
+	longitudes[325] = "-63.5";
+    
+	owcCodes[326] = "SP22";
+	owcTerms[326] = "Tapirapé";
+	latitudes[326] = "-10.5373";
+	longitudes[326] = "-50.5438";
+    
+	owcCodes[327] = "SH05";
+	owcTerms[327] = "Tehuelche";
+	latitudes[327] = "-40.5";
+	longitudes[327] = "-68.0";
+    
+	owcCodes[328] = "SM05";
+	owcTerms[328] = "Terena";
+	latitudes[328] = "-20.6614";
+	longitudes[328] = "-56.0329";
+    
+	owcCodes[329] = "SQ20";
+	owcTerms[329] = "Ticuna";
+	latitudes[329] = "-3.66289";
+	longitudes[329] = "-69.8723";
+    
+	owcCodes[330] = "SP23";
+	owcTerms[330] = "Trumai";
+	latitudes[330] = "-11.83";
+	longitudes[330] = "-53.67";
+    
+	owcCodes[331] = "SQ19";
+	owcTerms[331] = "Tukano";
+	latitudes[331] = "0.579755";
+	longitudes[331] = "-69.5763";
+    
+	owcCodes[332] = "SO09";
+	owcTerms[332] = "Tupinamba";
+	latitudes[332] = "-22.79";
+	longitudes[332] = "-44.5";
+    
+	owcCodes[333] = "SF24";
+	owcTerms[333] = "Uru-Chipaya";
+	latitudes[333] = "-16.72547";
+	longitudes[333] = "-68.97119";
+    
+	owcCodes[334] = "SS18";
+	owcTerms[334] = "Warao";
+	latitudes[334] = "9.08";
+	longitudes[334] = "-62.0";
+    
+	owcCodes[335] = "SP26";
+	owcTerms[335] = "Xavante";
+	latitudes[335] = "-14.36263";
+	longitudes[335] = "-53.2991";
+    
+	owcCodes[336] = "SM03";
+	owcTerms[336] = "Xokleng";
+	latitudes[336] = "-28.0";
+	longitudes[336] = "-50.0";
+    
+	owcCodes[337] = "SH06";
+	owcTerms[337] = "Yahgan";
+	latitudes[337] = "-55.5";
+	longitudes[337] = "-69.5";
+    
+	owcCodes[338] = "SQ18";
+	owcTerms[338] = "Yanoama";
+	latitudes[338] = "2.48999";
+	longitudes[338] = "-62.8522";
