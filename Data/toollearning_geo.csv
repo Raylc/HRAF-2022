@@ -1,57 +1,170 @@
-eHRAF.ID,EA.ID,Subsistence,Society,Lat,Long
-FO58,Ae08,Horticulturalist,Barundi,-3,30
-FO32,NA,Horticulturalist,Mongo,1,22
-FN04,NA,Intensive agriculturalist,Chagga,-3.25,37.5
-FX08,NA,Agro-pastoralists,Ovambo,-17.6,15.5
-FY08,Eh03,Intensive agriculturalist,Tanala,-22,47
-FQ12,NA,Horticulturalist,Tonga,-17.42,27.1
-FP13,NA,Horticulturalist,Ovimbundu,-12.25,16.5
-FE12,NA,Horticulturalist,Akan,7,-1.5
-FA16,NA,Intensive agriculturalist,Dogon,15.06,-2.92
-FA18,Af01,Horticulturalist,Fon,7,2
-FF26,NA,Horticulturalist,Igbo,5.5,7.33
-FD06,NA,Horticulturalist,Kpelle,6.92,-9.96
-FC07,Af05,Horticulturalist,Mende,8,-11
-FE11,Ag04,Intensive agriculturalist,Tallensi,11,-1
-FF62,Af32,Horticulturalist,Yoruba,7,3
-AB43,NA,Intensive agriculturalist,Okayama,34.9,133.81
-RV03,Ec06,Primarily hunter-gatherers,Yukaghir,70,145
-AW69,NA,Intensive agriculturalist,Bengali,24,90
-OG11,Ic05,Horticulturalist,Eastern Toraja,-2,121
-OA19,NA,Intensive agriculturalist,Ifugao,16.83,121.17
-OA08,Ia13,Primarily hunter-gatherers,Sama-Bajau,5.09,119.97
-AN06,Ej14,Horticulturalist,Semai,4,102
-AM11,Ej04,Intensive agriculturalist,Vietnamese,17,107
-EP04,NA,Pastoralist,Saami,68.7,21.5
-NU46,NA,Other subsistence combinations,Nahua,18.9,-96.95
-NU44,NA,Horticulturalist,Zapotec,17.21,-96.22
-NV09,Sa02,Horticulturalist,Tzeltal,17,-92
-NA06,NA,Hunter-gatherers,Aleut,55,-162.85
-NA10,Na10,Hunter-gatherers,Alutiq,60.72,-146.49
-ND07,Na30,Hunter-gatherers,Chipewyans,60,-105
-ND12,NA,Hunter-gatherers,Kaska,60,-131
-NG06,Na34,Hunter-gatherers,Ojibwa,52,-94
-NO08,Ng07,Other subsistence combinations,Natchez,32,-91
-NE11,Nb11,Hunter-gatherers,Nuu-Chah-Nulth,49.16,-125.85
-NR17,Nb25,Hunter-gatherers,Quinault,47.42,-124.16
-NR21,Nb20,Hunter-gatherers,Tillamook,44.75,-123.72
-NF04,Ne11,Hunter-gatherers,Assiniboine,48,-106
-NF06,NA,Hunter-gatherers,Blackfoot,49.34,-111.21
-NT09,NA,Intensive agriculturalist,Hopi,35.77,-110.53
-NT13,NA,Agro-pastoralists,Navajo,36.21,-110.08
-NT18,Nh11,Intensive agriculturalist,Tewa Pueblos,36,-106
-OI08,Id01,Hunter-gatherers,Aranda,-24,134
-OJ29,Ie01,Intensive agriculturalist,Kapauku,-4,136
-OJ13,Ie12,Other subsistence combinations,Kwoma,-4,142
-OL06,NA,Other subsistence combinations,Trobriands,-8.54,151.01
-OR06,NA,Primarily hunter-gatherers,Kiribati,3.38,172.99
-OR11,If17,Other subsistence combinations,Marshallese,6.28,169.49
-OZ04,NA,Primarily hunter-gatherers,Maori,-35.33,174.17
-SR14,NA,Horticulturalist,Ndyuka,4.31,-54.64
-SS19,Sc02,Other subsistence combinations,Pume,7,-68
-SE26,NA,Horticulturalist,Shipibo,-7.17,-74.82
-SS18,Sc01,Hunter-gatherers,Warao,9,-62
-SP22,Sd02,Other subsistence combinations,Tapirapé,-11,-52
-SC13,NA,Pastoralist,Goajiro,11.92,-71.75
-SH05,Sg04,Hunter-gatherers,Tehuelche,-46,-70
-SH06,Sg01,Hunter-gatherers,Yahgan,-55.02,-68.98
+"eHRAF.ID","EA.ID","Subsistence","Society","Lat","Long"
+"FO58","Ae08","Horticulturalists","Barundi",-3,30
+"FO04",NA,"Hunter-gatherers","Mbuti",1.5,28.33
+"FO32",NA,"Horticulturalists","Mongo",1,22
+"MS22","Cc02","Agro-pastoralists","Teda",21,17
+"MP05","Ca07","Intensive agriculturalist","Amhara",13,38
+"FK11","Ad02","Horticulturalists","Banyoro",2,32
+"FN04",NA,"Intensive agriculturalist","Chagga",-3.25,37.5
+"MQ08","Cb17","Intensive agriculturalist","Fur",12,24
+"FK07","Ad07","Intensive agriculturalist","Ganda",1,32
+"FL10","Ad04","Intensive agriculturalist","Gikuyu",-1,37
+"FN32","Ad14","Horticulturalists","Luguru",-8,38
+"FJ21","Ai10","Intensive agriculturalist","Nuba",12,31
+"FL20","Aa02","Hunter-gatherers","Okiek",0,36
+"FL17","Aj05","Pastoralists","Turkana",4,35
+"MX03",NA,"Agro-pastoralists","Berbers of Morocco",34.92,-3.25
+"MR08","Cd01","Horticulturalists","Nubians",23,33
+"MS25",NA,"Agro-pastoralists","Tuareg",23,6.5
+"FQ05",NA,"Horticulturalists","Bemba",-10.5,30.5
+"FX13",NA,"Other subsistence combinations","Khoi",-27.5,17
+"FX08",NA,"Agro-pastoralists","Ovambo",-17.6,15.5
+"FP13",NA,"Horticulturalists","Ovimbundu",-12.25,16.5
+"FX10","Aa01","Hunter-gatherers","San",-20,21
+"FS05","Ab18","Agro-pastoralists","Shona",-19,31
+"FY08","Eh03","Intensive agriculturalist","Tanala",-22,47
+"FQ12",NA,"Horticulturalists","Tonga",-17.42,27.1
+"FX20","Ab12","Agro-pastoralists","Zulu",-29,31
+"FE12",NA,"Horticulturalists","Akan",7,-1.5
+"FA16",NA,"Intensive agriculturalist","Dogon",15.06,-2.92
+"FA18","Af01","Horticulturalists","Fon",7,2
+"MS11","Cb24","Pastoralists","Fulani",12,12
+"FF26",NA,"Horticulturalists","Igbo",5.5,7.33
+"FD06",NA,"Horticulturalists","Kpelle",6.92,-9.96
+"FC07","Af05","Horticulturalists","Mende",8,-11
+"FA28","Ag47","Intensive agriculturalist","Mossi",12,-2
+"FE11","Ag04","Intensive agriculturalist","Tallensi",11,-1
+"FF57",NA,"Horticulturalists","Tiv",7.25,9
+"FF62","Af32","Horticulturalists","Yoruba",7,3
+"RJ01","Ci10","Intensive agriculturalist","Armenia",40,45
+"AH06",NA,"Agro-pastoralists","Inner Mongolia",43.3,114.59
+"AK05","Ee03","Intensive agriculturalist","Lepcha",28,89
+"AH01","Eb03","Pastoralists","Mongolia",46,97
+"AB43",NA,"Intensive agriculturalist","Okayama",34.9,133.81
+"AC07","Ed07","Intensive agriculturalist","Okinawans",26.16,127.8
+"AE04","Ed02","Intensive agriculturalist","Yi",29,103
+"RY04","Ec05","Primarily hunter-gatherers","Koryaks",61.99,164.24
+"RX02","Ec01","Primarily hunter-gatherers","Nivkh",53,142
+"RV03","Ec06","Primarily hunter-gatherers","Yukaghir",70,145
+"AZ02","Eh01","Hunter-gatherers","Andamans",12,93
+"AW69",NA,"Intensive agriculturalist","Bengali",24,90
+"AW25",NA,"Agro-pastoralists","Bhil",20.85,73.9592
+"AR05",NA,"Horticulturalists","Garo",26,91
+"AW32","Eg03","Other subsistence combinations","Gond",19,81
+"AR20","Ei04","Horticulturalists","Mara",22,93
+"AW42","Ef01","Intensive agriculturalist","Santal",24,87
+"OF05","Ic02","Horticulturalists","Alorese",-8.22,124.26
+"OF07","Ib03","Intensive agriculturalist","Balinese",-8.18,115.02
+"AO07",NA,"Intensive agriculturalist","Central Thai",14,100.85
+"OG11","Ic05","Horticulturalists","Eastern Toraja",-2,121
+"OA19",NA,"Intensive agriculturalist","Ifugao",16.83,121.17
+"OE05","Ib02","Intensive agriculturalist","Javanese",-7,110
+"AN05","Ej08","Intensive agriculturalist","Malays",5,103
+"OA08","Ia13","Primarily hunter-gatherers","Sama-Bajau",5.09,119.97
+"AN06","Ej14","Horticulturalists","Semai",4,102
+"AM11","Ej04","Intensive agriculturalist","Vietnamese",17,107
+"EP04",NA,"Pastoralists","Saami",68.7,21.5
+"ST13",NA,"Primarily hunter-gatherers","Island Carib",15.41,-61.27
+"SA12","Sa07","Horticulturalists","Garifuna",16,-89
+"SB05",NA,"Horticulturalists","Kuna",9.25,-78.5
+"NU46",NA,"Other subsistence combinations","Nahua",18.9,-96.95
+"NU44",NA,"Horticulturalists","Zapotec",17.21,-96.22
+"NW08","Sa08","Horticulturalists","Mam Maya",15,-92
+"NV10",NA,"Horticulturalists","Maya (Yucatan Peninsula)",18.7757,-88.9567
+"NW10","Sa13","Intensive agriculturalist","Quiché Maya",15,-91
+"NV09","Sa02","Horticulturalists","Tzeltal",17,-92
+"MA12",NA,"Agro-pastoralists","Lur",32.5438,47.916
+"NA06",NA,"Hunter-gatherers","Aleut",55,-162.85
+"NA10","Na10","Hunter-gatherers","Alutiq",60.72,-146.49
+"ND07","Na30","Hunter-gatherers","Chipewyans",60,-105
+"ND08","Na03","Hunter-gatherers","Copper Inuit",69,-110
+"NA07","Nb05","Hunter-gatherers","Eyak",60.34,-144.85
+"NH06","Na05","Hunter-gatherers","Innu",58,-70
+"ND12",NA,"Hunter-gatherers","Kaska",60,-131
+"NG06","Na34","Hunter-gatherers","Ojibwa",52,-94
+"NG08",NA,"Hunter-gatherers","Western Woods Cree",57,-99
+"NN08","Ng05","Other subsistence combinations","Cherokee",36,-83
+"NM07","Ng06","Primarily hunter-gatherers","Delaware",41,-75
+"NP05","Nf07","Other subsistence combinations","Fox",45,-95
+"NG05","Ng01","Other subsistence combinations","Huron/Wendat",44,-78
+"NJ05",NA,"Hunter-gatherers","Mi'kmaq",46.99,-65
+"NO08","Ng07","Other subsistence combinations","Natchez",32,-91
+"NN16","Ng02","Horticulturalists","Seminole",27,-81
+"NR06","Nb19","Hunter-gatherers","Chinookans Of The Lower Columbia River",45.99,-123.77
+"NE09","Nb01","Hunter-gatherers","Haida",54,-132
+"NE11","Nb11","Hunter-gatherers","Nuu-Chah-Nulth",49.16,-125.85
+"NE06","Nb09","Hunter-gatherers","Nuxalk",52,-127
+"NS18","Nc18","Hunter-gatherers","Pomo",39,-123
+"NR17","Nb25","Hunter-gatherers","Quinault",47.42,-124.16
+"NR26","Nb17","Hunter-gatherers","Southern Coast Salish",47,-122
+"NR21","Nb20","Hunter-gatherers","Tillamook",44.75,-123.72
+"NA12","Nb22","Hunter-gatherers","Tlingit",58.12,-133.92
+"NS29","Nc03","Hunter-gatherers","Yokuts",36,-120
+"NS30","Nc15","Hunter-gatherers","Yuki",39.34,-123.77
+"NF04","Ne11","Hunter-gatherers","Assiniboine",48,-106
+"NF06",NA,"Hunter-gatherers","Blackfoot",49.34,-111.21
+"NO06","Ne03","Hunter-gatherers","Comanche",33,-100
+"NQ10","Ne04","Hunter-gatherers","Crow",45,-108
+"NQ13","Ne01","Hunter-gatherers","Gros Ventre",48.78,-108.98
+"NR10","Nc08","Hunter-gatherers","Klamath",43,-122
+"NF08","Nd07","Hunter-gatherers","Kutenai",50,-117
+"NQ21","Nf03","Primarily hunter-gatherers","Omaha",41,-96
+"NQ18","Nf06","Other subsistence combinations","Pawnee",42,-100
+"NT08","Nh01","Hunter-gatherers","Eastern Apache",31,-108
+"NT14","Nd03","Other subsistence combinations","Havasupai",36,-112
+"NT09",NA,"Intensive agriculturalist","Hopi",35.77,-110.53
+"NT43","Nh05","Primarily hunter-gatherers","Maricopa",33,-113
+"NT25","Nh15","Hunter-gatherers","Mescalero Apache",33,-103
+"NT13",NA,"Agro-pastoralists","Navajo",36.21,-110.08
+"NU79","Ni02","Other subsistence combinations","O'odham ",31,-112
+"NT18","Nh11","Intensive agriculturalist","Tewa Pueblos",36,-106
+"NT19","Nd02","Hunter-gatherers","Ute",38,-109
+"NT21","Nh17","Primarily hunter-gatherers","Western Apache",34,-110
+"NT23","Nh04","Intensive agriculturalist","Zuni",35,-109
+"OI08","Id01","Hunter-gatherers","Aranda",-24,134
+"OI20","Id03","Hunter-gatherers","Tiwi",-11.56,130.81
+"OJ29","Ie01","Intensive agriculturalist","Kapauku",-4,136
+"OJ13","Ie12","Other subsistence combinations","Kwoma",-4,142
+"OO12","Ih02","Horticulturalists","Maleluka",-16.51,167.47
+"OM06","Ig09","Hunter-gatherers","Manus",-2,147
+"ON19","Ig01","Agro-pastoralists","Siwai",-6,155
+"ON26","Ig03","Other subsistence combinations","Tinputz",-5.6,154.91
+"OL06",NA,"Other subsistence combinations","Trobriands",-8.54,151.01
+"OJ27","Ie04","Other subsistence combinations","Wogeo",-3.24,144.1
+"OR15",NA,"Other subsistence combinations","Belau",7.5,134.5
+"OR19","If02","Other subsistence combinations","Chuuk",7.34,151.6
+"OR06",NA,"Primarily hunter-gatherers","Kiribati",3.38,172.99
+"OR11","If17","Other subsistence combinations","Marshallese",6.28,169.49
+"OR20","If09","Other subsistence combinations","Ulithi",10.02,139.79
+"OR21","If04","Other subsistence combinations","Woleai Region",7.25,144.46
+"OQ12","Ih14","Primarily hunter-gatherers","Bau Fijians",-17.81,178.32
+"OV05","Ij06","Other subsistence combinations","Hawaiians",19.89,-155.83
+"OZ04",NA,"Primarily hunter-gatherers","Maori",-35.33,174.17
+"OX06","Ij03","Other subsistence combinations","Marquesas",-8.9,-140.08
+"OU08","Ii01","Horticulturalists","Samoans",-13.68,-172.41
+"OT11",NA,"Other subsistence combinations","Tikopia",-12.29,168.83
+"OU09","Ii12","Horticulturalists","Tongans",-19.74,-175.07
+"SE06","Se08","Other subsistence combinations","Amahuaca",-10,-72
+"SD09",NA,"Horticulturalists","Jivaro",-3,-78
+"SR14",NA,"Horticulturalists","Ndyuka",4.31,-54.64
+"SS19","Sc02","Other subsistence combinations","Pumé",7,-68
+"SR15","Sc06","Other subsistence combinations","Saramaca",4,-56
+"SE26",NA,"Horticulturalists","Shipibo",-7.17,-74.82
+"SF21",NA,"Hunter-gatherers","Sirionó",-14.5,-63.5
+"SQ19","Se05","Other subsistence combinations","Tukano",1,-71
+"SS18","Sc01","Hunter-gatherers","Warao",9,-62
+"SF05","Sf02","Horticulturalists","Aymara",-16,-69
+"SD16",NA,"Horticulturalists","Otavalo Quichua",0.31776,-78.3729
+"SD17",NA,"Agro-pastoralists","Saraguro Quichua",-3.69352,-79.29151
+"SP08","Si01","Hunter-gatherers","Bororo",-16,-55
+"SM04","Sj10","Other subsistence combinations","Guaraní",-26,-54
+"SP22","Sd02","Other subsistence combinations","Tapirapé",-11,-52
+"SO09","Sj08","Primarily hunter-gatherers","Tupinamba",-8,-35
+"SP26","Sj11","Primarily hunter-gatherers","Xavante",-14,-52
+"SD06","Sf03","Other subsistence combinations","Chachi",1,-79
+"SC13",NA,"Pastoralists","Goajiro",11.92,-71.75
+"SC07",NA,"Horticulturalists","Kogi",10.9485,-73.8043
+"SK06","Sh05","Hunter-gatherers","Chorote",-22,-62
+"SH04","Sg03","Hunter-gatherers","Ona",-54,-69
+"SH05","Sg04","Hunter-gatherers","Tehuelche",-46,-70
+"SH06","Sg01","Hunter-gatherers","Yahgan",-55.02,-68.98

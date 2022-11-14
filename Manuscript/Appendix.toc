@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {1.3}Northern Africa}{22}{subsection.1.3}%
 \contentsline {subsubsection}{\numberline {1.3.1}Berbers of Morocco}{22}{subsubsection.1.3.1}%
 \contentsline {subsubsection}{\numberline {1.3.2}Nubians}{23}{subsubsection.1.3.2}%
-\contentsline {subsubsection}{\numberline {1.3.3}Tuarag}{23}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.3}Tuareg}{23}{subsubsection.1.3.3}%
 \contentsline {subsection}{\numberline {1.4}Southern Africa}{24}{subsection.1.4}%
 \contentsline {subsubsection}{\numberline {1.4.1}Bemba}{24}{subsubsection.1.4.1}%
 \contentsline {subsubsection}{\numberline {1.4.2}Khoi}{25}{subsubsection.1.4.2}%

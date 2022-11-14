@@ -13,7 +13,7 @@ download.file(url1, destfile1)
 ## Load the data set
 EAsocieties <- read.csv("./Data/EAsocieties.csv")
 EHRAFccr <- read.csv("./Data/ehraf-ccr.csv")
-toollearning <- read.csv("./Data/non-industrial tool learning.csv")
+toollearning <- read.csv("./Data/craft learning.csv")
 
 
 # 1. Create a csv for the conversion of OWC code and Ethnographic Atlas ID
@@ -45,88 +45,160 @@ toollearning_geo <- left_join(toollearning_clean, EHRAFccr_geo, by = "eHRAF.ID")
 toollearning_geo <- toollearning_geo %>% dplyr::select(eHRAF.ID, EA.ID, Subsistence, Society, Lat, Long)
 
 ## Manually filling the gap of latitude and longitude based on the map function of eHRAF
+### Mbuti
+toollearning_geo[2,"Lat"] <- 1.5
+toollearning_geo[2,"Long"] <- 28.33
 ### Mongo
-toollearning_geo[2,"Lat"] <- 1
-toollearning_geo[2,"Long"] <- 22
+toollearning_geo[3,"Lat"] <- 1
+toollearning_geo[3,"Long"] <- 22
 ### Chagga
-toollearning_geo[3,"Lat"] <- -3.25
-toollearning_geo[3,"Long"] <- 37.5
+toollearning_geo[7,"Lat"] <- -3.25
+toollearning_geo[7,"Long"] <- 37.5
+### Berbers of Morocco
+toollearning_geo[15,"Lat"] <- 34.92
+toollearning_geo[15,"Long"] <- -3.25
+### Tuareg
+toollearning_geo[17,"Lat"] <- 23.0
+toollearning_geo[17,"Long"] <- 6.5
+### Bemba
+toollearning_geo[18,"Lat"] <- -10.5
+toollearning_geo[18,"Long"] <- 30.5
+### Khoi
+toollearning_geo[19,"Lat"] <- -27.5
+toollearning_geo[19,"Long"] <- 17.0
 ### Ovambo
-toollearning_geo[4,"Lat"] <- -17.60
-toollearning_geo[4,"Long"] <- 15.50
-### Tonga
-toollearning_geo[6,"Lat"] <- -17.42
-toollearning_geo[6,"Long"] <- 27.10
+toollearning_geo[20,"Lat"] <- -17.60
+toollearning_geo[20,"Long"] <- 15.50
 ### Ovimbundu
-toollearning_geo[7,"Lat"] <- -12.25
-toollearning_geo[7,"Long"] <- 16.50
+toollearning_geo[21,"Lat"] <- -12.25
+toollearning_geo[21,"Long"] <- 16.50
+### Tonga
+toollearning_geo[25,"Lat"] <- -17.42
+toollearning_geo[25,"Long"] <- 27.10
 ### Akan
-toollearning_geo[8,"Lat"] <- 7.00
-toollearning_geo[8,"Long"] <- -1.50
+toollearning_geo[27,"Lat"] <- 7.00
+toollearning_geo[27,"Long"] <- -1.50
 ### Dogon
-toollearning_geo[9,"Lat"] <- 15.06
-toollearning_geo[9,"Long"] <- -2.92
+toollearning_geo[28,"Lat"] <- 15.06
+toollearning_geo[28,"Long"] <- -2.92
 ### Igbo
-toollearning_geo[11,"Lat"] <- 5.50
-toollearning_geo[11,"Long"] <- 7.33
+toollearning_geo[31,"Lat"] <- 5.50
+toollearning_geo[31,"Long"] <- 7.33
 ### Kpelle
-toollearning_geo[12,"Lat"] <- 6.92
-toollearning_geo[12,"Long"] <- -9.96
+toollearning_geo[32,"Lat"] <- 6.92
+toollearning_geo[32,"Long"] <- -9.96
+### Tiv
+toollearning_geo[36,"Lat"] <- 7.25
+toollearning_geo[36,"Long"] <- 9.0
+### Inner Mongolia
+toollearning_geo[39,"Lat"] <- 43.3
+toollearning_geo[39,"Long"] <- 114.59
 ### Okayama
-toollearning_geo[16,"Lat"] <- 34.90
-toollearning_geo[16,"Long"] <- 133.81
+toollearning_geo[42,"Lat"] <- 34.90
+toollearning_geo[42,"Long"] <- 133.81
 ### Bengali
-toollearning_geo[18,"Lat"] <- 24.00
-toollearning_geo[18,"Long"] <- 90.00
+toollearning_geo[49,"Lat"] <- 24.00
+toollearning_geo[49,"Long"] <- 90.00
+### Bhil
+toollearning_geo[50,"Lat"] <- 20.85
+toollearning_geo[50,"Long"] <- 73.9592
+### Garo
+toollearning_geo[51,"Lat"] <- 26.0
+toollearning_geo[51,"Long"] <- 91.0
+### Central Thai
+toollearning_geo[57,"Lat"] <- 14.0
+toollearning_geo[57,"Long"] <- 100.85
 ### Ifugao
-toollearning_geo[20,"Lat"] <- 16.83
-toollearning_geo[20,"Long"] <- 121.17
+toollearning_geo[59,"Lat"] <- 16.83
+toollearning_geo[59,"Long"] <- 121.17
 ### Saami
-toollearning_geo[24,"Lat"] <- 68.70
-toollearning_geo[24,"Long"] <- 21.50
+toollearning_geo[65,"Lat"] <- 68.70
+toollearning_geo[65,"Long"] <- 21.50
+### Island Carib
+toollearning_geo[66,"Lat"] <- 15.41
+toollearning_geo[66,"Long"] <- -61.27
+### Kuna
+toollearning_geo[68,"Lat"] <- 9.25
+toollearning_geo[68,"Long"] <- -78.5
 ### Nahua
-toollearning_geo[25,"Lat"] <- 18.90
-toollearning_geo[25,"Long"] <- -96.95
+toollearning_geo[69,"Lat"] <- 18.90
+toollearning_geo[69,"Long"] <- -96.95
 ### Zapotec
-toollearning_geo[26,"Lat"] <- 17.21
-toollearning_geo[26,"Long"] <- -96.22
+toollearning_geo[70,"Lat"] <- 17.21
+toollearning_geo[70,"Long"] <- -96.22
+### Maya (Yucatán Peninsula)
+toollearning_geo[72,"Lat"] <- 18.7757
+toollearning_geo[72,"Long"] <- -88.9567
+### Lur
+toollearning_geo[75,"Lat"] <- 32.5438
+toollearning_geo[75,"Long"] <- 47.916
 ### Aleut
-toollearning_geo[28,"Lat"] <- 55.00
-toollearning_geo[28,"Long"] <- -162.85
+toollearning_geo[76,"Lat"] <- 55.00
+toollearning_geo[76,"Long"] <- -162.85
 ### Kaska
-toollearning_geo[31,"Lat"] <- 60.00
-toollearning_geo[31,"Long"] <- -131.00
+toollearning_geo[82,"Lat"] <- 60.00
+toollearning_geo[82,"Long"] <- -131.00
+### Western Woods Cree
+toollearning_geo[84,"Lat"] <- 57.0
+toollearning_geo[84,"Long"] <- -99.0
+### Mi'kmaq
+toollearning_geo[89,"Lat"] <- 46.99
+toollearning_geo[89,"Long"] <- -65.0
 ### Blackfoot
-toollearning_geo[38,"Lat"] <- 49.34
-toollearning_geo[38,"Long"] <- -111.21
+toollearning_geo[104,"Lat"] <- 49.34
+toollearning_geo[104,"Long"] <- -111.21
 ### Hopi
-toollearning_geo[39,"Lat"] <- 35.77
-toollearning_geo[39,"Long"] <- -110.53
+toollearning_geo[114,"Lat"] <- 35.77
+toollearning_geo[114,"Long"] <- -110.53
 ### Navajo
-toollearning_geo[40,"Lat"] <- 36.21
-toollearning_geo[40,"Long"] <- -110.08
+toollearning_geo[117,"Lat"] <- 36.21
+toollearning_geo[117,"Long"] <- -110.08
 ### Trobriands
-toollearning_geo[45,"Lat"] <- -8.54
-toollearning_geo[45,"Long"] <- 151.01
+toollearning_geo[131,"Lat"] <- -8.54
+toollearning_geo[131,"Long"] <- 151.01
+### Belau
+toollearning_geo[133,"Lat"] <- 7.5
+toollearning_geo[133,"Long"] <- 134.5
 ### Kiribati
-toollearning_geo[46,"Lat"] <- 3.38
-toollearning_geo[46,"Long"] <- 172.99
+toollearning_geo[135,"Lat"] <- 3.38
+toollearning_geo[135,"Long"] <- 172.99
 ### Maori
-toollearning_geo[48,"Lat"] <- -35.33
-toollearning_geo[48,"Long"] <- 174.17
+toollearning_geo[141,"Lat"] <- -35.33
+toollearning_geo[141,"Long"] <- 174.17
+### Tikopia
+toollearning_geo[144,"Lat"] <- -12.29
+toollearning_geo[144,"Long"] <- 168.83
+### Jivaro
+toollearning_geo[147,"Lat"] <- -3.0
+toollearning_geo[147,"Long"] <- -78.0
 ### Ndyuka
-toollearning_geo[49,"Lat"] <- 4.31
-toollearning_geo[49,"Long"] <- -54.64
+toollearning_geo[148,"Lat"] <- 4.31
+toollearning_geo[148,"Long"] <- -54.64
 ### Shipibo
-toollearning_geo[51,"Lat"] <-  -7.17
-toollearning_geo[51,"Long"] <- -74.82
+toollearning_geo[151,"Lat"] <-  -7.17
+toollearning_geo[151,"Long"] <- -74.82
+### Sirionó
+toollearning_geo[152,"Lat"] <-  -14.5
+toollearning_geo[152,"Long"] <- -63.5
+### Otavalo Quichua
+toollearning_geo[156,"Lat"] <-  0.31776
+toollearning_geo[156,"Long"] <- -78.3729
+### Saraguro Quichua
+toollearning_geo[157,"Lat"] <-  -3.69352
+toollearning_geo[157,"Long"] <- -79.29151
 ### Goajiro
-toollearning_geo[54,"Lat"] <-  11.92
-toollearning_geo[54,"Long"] <- -71.75
+toollearning_geo[164,"Lat"] <-  11.92
+toollearning_geo[164,"Long"] <- -71.75
+### Kogi
+toollearning_geo[165,"Lat"] <-  10.9485
+toollearning_geo[165,"Long"] <- -73.8043
 
 ## save the data frame as a csv
 write.csv(toollearning_geo,"./Data/toollearning_geo.csv", row.names = FALSE)
 toollearning_geo <- read.csv("./Data/toollearning_geo.csv")
+
+## counting subsistence type for mapping
+toollearning_geo %>% count(Subsistence)
 
 # 3. Create a map
 ## create a color variable
@@ -144,15 +216,20 @@ toollearning_geo <-toollearning_geo %>%
 pdf(file = "./Figure/Map.pdf", width=15, height=10)
 maps::map()
 ## add points
-points(toollearning_geo$Long, toollearning_geo$Lat, col=toollearning_geo$color, pch=16, cex = 2)
-## add a legend
-legend(-40,-38, legend=c("Hunter-gatherers(n=14)","Primarily hunter-gatherers(n=4)", 
-                         "Horticulturalists(n=16)", "Pastoralists(n=2)", 
-                         "Agro-pastoralists(n=2)","Intensive agriculturalists(n=11)", 
-                         "Other subsistence combinations(n=7)"), 
+points(toollearning_geo$Long, toollearning_geo$Lat, col=alpha(toollearning_geo$color, 0.75), pch=16, cex = 1.5)
+## add a legend with color-blind friendly palette
+legend(-40,-38, legend=c("Hunter-gatherers(n=45)","Primarily hunter-gatherers(n=14)", 
+                         "Horticulturalists(n=36)", "Pastoralists(n=5)", 
+                         "Agro-pastoralists(n=12)","Intensive agriculturalists(n=28)", 
+                         "Other subsistence combinations(n=29)"), 
        col=c("#88CCEE", "#CC6677", "#DDCC77", "#117733", "#332288", "#AA4499", 
              "#44AA99", "#999933"), pch=16, ncol=2)
 dev.off()
+
+
+
+
+
 
 # 4. Make treemaps for visualizing frequency data
 # library
