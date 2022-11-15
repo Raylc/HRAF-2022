@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 0.  Scope of study: Global sample (**Figure** \@ref(fig:Screeplot))
 
-```{r Screeplot, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="The spatial distribution of non-industrial societies covered in this study (n=169)."}
+```{r Screeplot, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="The spatial distribution of non-industrial societies covered in this study (n=169). It should be noted that these coordinate data  represent language ‘centroids’ from the open-access language documentation site glottolog.org instead of the real geographical locations of given communities. These language centroids essentially represent the center point of the area where an relevant language is spoken."}
 knitr::include_graphics(here::here("figure/Fig1.pdf"))
 ```
 
