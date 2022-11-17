@@ -267,36 +267,3 @@ ggplot(data=tlearn_grouped3, aes(x=reorder(Var1,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
   labs(x="Age group of model", y = "Frequency")
 ggplot2::ggsave("./Figure/modelage.png", dpi = 600)
-
-
-# treemap
-png(filename="./Figure/Tree_transbias.png",width=1000, height=1000)
-
-treemap::treemap(tlearn_grouped,
-                 index="Transmission_bias",
-                 vSize="Freq",
-                 type="index"
-)
-dev.off()
-
-ggplot2::ggsave("./Figure/Tree_transbias.png", path="figure", dpi = 600)
-
-ggplot(data = toollearning_geo) +
-  geom_sf(aes(geometry = Society)) +
-  geom_point(data = toollearning_geo, mapping = aes(x = Long, y = Lat), colour = "red") + 
-  geom_text(data= toollearning_geo,aes(x=Long, y=Lat, label=Society),
-            color = "darkblue", fontface = "bold", check_overlap = FALSE)
-
-library("rnaturalearth")
-library("rnaturalearthdata")
-library("sf")
-library("rgeos")
-
-world <- ne_countries(scale = "medium", returnclass = "sf")
-
-ggplot(data = world) + 
-  geom_sf() + 
-  geom_point(data = toollearning_geo, mapping = aes(x = Long, y = Lat), colour = "red")+
-  coord_sf()+
-  geom_text(data= toollearning_geo,aes(x=Long, y=Lat, label=Society),
-            color = "darkblue", fontface = "bold", check_overlap = TRUE)

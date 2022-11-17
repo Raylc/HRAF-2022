@@ -1,9 +1,3 @@
-   var owcCodes = [];
-    var owcTerms = [];
-    var latitudes = [];
-    var longitudes = [];
-
-    
 	owcCodes[0] = "FE12";
 	owcTerms[0] = "Akan";
 	latitudes[0] = "7.0";
