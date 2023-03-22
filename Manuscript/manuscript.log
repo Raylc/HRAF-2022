@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  15 NOV 2022 14:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  21 MAR 2023 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -616,41 +616,41 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 [1
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<C:/FilesVC/HRAF-2022/figure/Fig1.pdf, id=32, 1084.05pt x 722.7pt>
+<C:/FilesVC/HRAF-2022/figure/Fig1.pdf, id=29, 1084.05pt x 722.7pt>
 File: C:/FilesVC/HRAF-2022/figure/Fig1.pdf Graphic file (type pdf)
 <use C:/FilesVC/HRAF-2022/figure/Fig1.pdf>
 Package pdftex.def Info: C:/FilesVC/HRAF-2022/figure/Fig1.pdf  used on input li
-ne 144.
+ne 149.
 (pdftex.def)             Requested size: 469.75496pt x 313.16995pt.
-
-Underfull \hbox (badness 1043) in paragraph at lines 154--156
+[2]
+Underfull \hbox (badness 1043) in paragraph at lines 159--161
 |   []   |   []\T1/put/m/n/10.95 (+20) , |   []   |   []   |   []   |   []   | 
   []   |   []   |   []   |   []   |   []   |   []   |   []
  []
 
-[2 <c:/FilesVC/HRAF-2022/Figure/Fig1.pdf>] [3]
-Underfull \hbox (badness 2088) in paragraph at lines 193--195
+[3 <c:/FilesVC/HRAF-2022/Figure/Fig1.pdf>] [4]
+Underfull \hbox (badness 2088) in paragraph at lines 198--200
 []\T1/put/b/n/10.95 Transmission modes\T1/put/m/n/10.95 (+20) : |   []   |   []
 : so-cial learn-ing from in-di-vid-u-als
  []
 
-[4] [5]
+[5] [6]
 
 Package caption Warning: Unused \captionsetup[table] on input line 75.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
 (./manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 236.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 241.
  ) 
 Here is how much of TeX's memory you used:
- 15248 strings out of 492162
- 223559 string characters out of 6129062
- 371921 words of memory out of 5000000
- 19207 multiletter control sequences out of 15000+600000
+ 15253 strings out of 492162
+ 223605 string characters out of 6129062
+ 370860 words of memory out of 5000000
+ 19209 multiletter control sequences out of 15000+600000
  79897 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,42p,2235b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -658,10 +658,10 @@ Here is how much of TeX's memory you used:
 f-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopi
 a/putri8a.pfb>
-Output written on manuscript.pdf (6 pages, 153062 bytes).
+Output written on manuscript.pdf (7 pages, 154394 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 500000)
- 12342 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 157 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 12350 words of extra memory for PDF output out of 14400 (max. 10000000)
 

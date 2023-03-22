@@ -1,5 +1,5 @@
 ---
-title: "How do people in non-industrial societies learn to make tools? An eHRAF-based cross-cultural survey"
+title: "A cross-cultural analysis of toolmaking skill acquisition in non-industrial societies"
 author: "Cheng Liu"
 date: "`r Sys.Date()`"
 fontsize: 11pt
@@ -23,6 +23,10 @@ csl: apa.csl
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# Introduction
+
+Toolmaking, together with bipedalism and language, was once regarded as a defining feature that makes humans distinct from other species. Although this notion of human uniqueness was challenged in the past decades by mounting evidence of toolmaking by non-human primates and corvids, it is undoubtedly still critical to human experience in the sense that a biocultural feedback loop is formed through toolmaking that shapes our minds and bodies. Yet the ability to make tools is not born with us, and we all need to either learn from others or through repeated trials and errors. To understand the diversity and universality in the process of human toolmaking skill acquisition, this ongoing project analyzed 169 non-industrial societies displaying varying subsistence strategies around the world using the eHRAF World Cultures database, with a particular focus on developmental contexts and transmission biases involved. 
 
 # Research Question
 
