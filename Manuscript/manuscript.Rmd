@@ -122,5 +122,5 @@ knitr::include_graphics(here::here("figure/Fig1.pdf"))
 
 # Acknowledgement
 
-This work was assisted in part by skills learned at the 2022 NSF HRAF Summer Institute for Cross Cultural Anthropological Research (NSF BCS Grant #2020156 to HRAF). The also would also like to thank Carol Ember, Fiana Jordan, and Sean Roberts for their constructive feedback during the early stages of this project.
+This work was assisted in part by skills learned at the 2022 NSF HRAF Summer Institute for Cross Cultural Anthropological Research (NSF BCS Grant #2020156 to HRAF). The author would also like to thank Carol Ember, Fiona Jordan, and Sean Roberts for their constructive feedback during the early stages of this project.
 
