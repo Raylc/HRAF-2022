@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  13 NOV 2022 19:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  27 MAY 2023 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,7 +910,7 @@ Overfull \hbox (0.43774pt too wide) detected at line 144
 
 
 Overfull \hbox (0.43774pt too wide) detected at line 145
- []\T1/put/m/n/10.95 180
+ []\T1/put/m/n/10.95 181
  []
 
 
@@ -1254,56 +1254,56 @@ Overfull \hbox (0.71426pt too wide) in paragraph at lines 1405--1406
 [181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [
 194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [2
 07] [208] [209] [210] [211] [212] [213] [214] [215]
-Underfull \hbox (badness 2343) in paragraph at lines 2534--2535
+Underfull \hbox (badness 2343) in paragraph at lines 2535--2536
 []\T1/put/b/n/10.95 The ve-randa of the carver's hut is one of the points where
  the in-hab-i-tants of a in-
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 2534--2535
+Underfull \hbox (badness 2343) in paragraph at lines 2535--2536
 \T1/put/b/n/10.95 sert_drive_file47 vil-lage gather when they come back from th
 e gar-dens to watch the
  []
 
 [216] [217]
-Underfull \hbox (badness 2165) in paragraph at lines 2540--2541
+Underfull \hbox (badness 2165) in paragraph at lines 2541--2542
 []\T1/put/b/n/10.95 In short, dur-ing the first years of his ap-pren-tice-ship 
 an ini-ti-ate learns the ba-sic in-
  []
 
 [218] [219] [220] [221] [222] [223] [224] [225]
-Underfull \hbox (badness 1394) in paragraph at lines 2630--2631
+Underfull \hbox (badness 1394) in paragraph at lines 2631--2632
 []\T1/put/m/n/10.95 (+20) ``Fighting skills in abo-rig-i-nal times in-cluded kn
 owl-edge of \T1/put/b/n/10.95 the man-u-fac-ture as well in-
  []
 
 [226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-743.
+744.
 (c:/texlive/2019/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \T1/lmtt/m/n/10.95 kahuna), then he was taught that profession**. He might be t
 aught the profession
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \T1/put/m/n/10.95 (+20) pro-fes-sion of Ku\T1/lmtt/m/n/10.95 ula (\T1/put/m/n/1
 0.95 (+20) oihana Ku\T1/lmtt/m/n/10.95 ula, that is, deepsea fishing), or **the
  designing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \T1/lmtt/m/n/10.95 and making of implements for tapa work (\T1/put/m/n/10.95 (+
 20) oihana ka-pala kua\T1/lmtt/m/n/10.95 ula)**, or the rituals
  []
 
 [238] [239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250] [
 251] [252] [253] [254] [255] [256] [257] [258] [259]
-Overfull \hbox (1.10878pt too wide) in paragraph at lines 3002--3003
+Overfull \hbox (1.10878pt too wide) in paragraph at lines 3003--3004
 []\T1/put/m/n/10.95 (-20) ``\T1/put/b/n/10.95 This work is carried out within t
 he confines of the village and the children have been watching
  []
@@ -1318,17 +1318,17 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 74.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3279.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3280.
 [285]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3279.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3280.
 (./Appendix.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3279.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3279.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3280.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3280.
  ) 
 Here is how much of TeX's memory you used:
  16347 strings out of 492162
  234635 string characters out of 6129062
- 492155 words of memory out of 5000000
+ 492221 words of memory out of 5000000
  19581 multiletter control sequences out of 15000+600000
  89656 words of font info for 146 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1338,10 +1338,10 @@ mf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texmf-dist/fonts/type1/pub
 lic/lm/lmtt10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopia/putb8a.p
 fb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/texlive/
 2019/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on Appendix.pdf (285 pages, 922419 bytes).
+Output written on Appendix.pdf (285 pages, 922326 bytes).
 PDF statistics:
- 3235 PDF objects out of 3580 (max. 8388607)
- 2914 compressed objects within 30 object streams
+ 3233 PDF objects out of 3580 (max. 8388607)
+ 2912 compressed objects within 30 object streams
  730 named destinations out of 1000 (max. 500000)
  13953 words of extra memory for PDF output out of 14400 (max. 10000000)
 

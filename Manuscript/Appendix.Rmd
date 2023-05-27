@@ -1,6 +1,6 @@
 ---
-title: "Appendix. Ethnographic Sources"
-author: "Cheng Liu"
+title: "Appendix: Ethnographic Sources"
+author: "Compiled by **Cheng Liu**"
 date: "`r Sys.Date()`"
 fontsize: 11pt
 output: 
@@ -1884,7 +1884,8 @@ Spier, L. (1933). Yuman tribes of the Gila River. In The University of Chicago p
 
 "Maricopa and Halchidhoma made pottery (kwlyoma't) in exactly the same way. **This was wholly a woman's occupation and a year-round task. They began at the art quite early: for instance, a five-year-old girl was seen following the mannerisms of her mother.** She worked up a ball of mud, beat it flat on the bottom of an old pot with a paddle, and pinched up the sides to form a tiny vessel, which she set in the sun to dry."
 
-**P.323**
+**p.323**
+
 "Girls were trained to carry little burdens balanced on their heads when they were but two years old. Later they assisted their mothers fetching water before sunrise. Girls of four could grind seeds very nicely, it was said: they were wakened when it was barely light and set to work on a basketful. A girl must show her proficiency at grinding such an amount at her marriage. **I observed a little girl of five at play making pottery. Working with a ball of mud, she paddled it into form and pinched up the sides to form the vessel with the characteristic motions of an accomplished potter.**"
 
 ### Mescalero Apache
@@ -1935,7 +1936,7 @@ Before that first day was over, I learned that **there is a great deal of skill 
 
 "Tom Burnsides had agreed to teach me how to work silver, so one morning I arrived at his hogan ready to start work. When he wanted to know what I would like to make, I asked him what would be best for a beginner, and he advised me to make a bracelet. Then he asked me whether I wanted to begin with silver or learn first how to work copper or lead. **He said that many Navajo smiths worked at copper or lead before they started on silver, because those metals were cheaper and easier to work.** When I told him that I wanted the feel of working silver, he gave me one and one-half slugs and told me to melt them. I placed the silver in the crucible and lighted the torch. Tom said that a small amount of silver may be melted with the torch; the forge is usually used only when melting three or more slugs at a time. I held the muzzle of the torch, slanting at an angle, to one side of the crucible; but Tom told me that the torch should be held above the crucible so that the heat would spread evenly over the whole surface of the silver. Then he placed the ingot mold near the crucible, propping it up against a tool, explaining again that the mold must be hot when the silver is poured in, or the metal will cool too rapidly, and crack when it is pounded."
 
-**p79-80** (contextual information)
+**p.79-80** (contextual information)
 
 “There are **individual differences** in the way silversmiths work. In many respects Charlie's work differs from Tom's. While the finished pieces that each makes conform to Navajo traditional patterns, there are differences in their technique. There are differences in the way they handle their tools, in the way they pound the silver, and in the way they melt it. These variations are due to differences in the way the smiths originally learned from their Navajo teachers. Each smith developed his own style of working, and once a pattern was formed, it was adhered to. Muscular co-ordinations became fixed as habits. When Charlie wrapped a piece of wire around two pieces of silver which were to be [80] soldered together, he always held one end of the wire in his mouth, leaving one hand free to hold the silver. Tom never used his mouth, but rested the silver against something while he tried the wire. This is only one of many differences in their working methods. There are probably as many differences in the muscular habits of silversmiths as there are individuals who follow the craft.”
 

@@ -142,7 +142,7 @@
 \contentsline {subsubsection}{\numberline {6.5.3}Hopi}{175}{subsubsection.6.5.3}%
 \contentsline {subsubsection}{\numberline {6.5.4}Maricopa}{179}{subsubsection.6.5.4}%
 \contentsline {subsubsection}{\numberline {6.5.5}Mescalero Apache}{179}{subsubsection.6.5.5}%
-\contentsline {subsubsection}{\numberline {6.5.6}Navajo}{180}{subsubsection.6.5.6}%
+\contentsline {subsubsection}{\numberline {6.5.6}Navajo}{181}{subsubsection.6.5.6}%
 \contentsline {subsubsection}{\numberline {6.5.7}O'odham}{198}{subsubsection.6.5.7}%
 \contentsline {subsubsection}{\numberline {6.5.8}Tewa Pueblos}{198}{subsubsection.6.5.8}%
 \contentsline {subsubsection}{\numberline {6.5.9}Ute}{200}{subsubsection.6.5.9}%
