@@ -1,5 +1,5 @@
 ---
-title: "A cross-cultural analysis of toolmaking skill acquisition in non-industrial societies"
+title: "*Homo Faber* in the making: A cross-cultural analysis of toolmaking skill acquisition in non-industrial societies"
 author: "Cheng Liu"
 date: "`r Sys.Date()`"
 fontsize: 11pt
@@ -26,15 +26,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
+## Toolmaking and human uniqueness
 Toolmaking, together with bipedalism and language, was once regarded as a defining feature that makes humans distinct from other species. Although this notion of human uniqueness was challenged in the past decades by mounting evidence of toolmaking by non-human primates and corvids, it is undoubtedly still critical to human experience in the sense that a biocultural feedback loop is formed through toolmaking that shapes our minds and bodies. Yet the ability to make tools is not born with us, and we all need to either learn from others or through repeated trials and errors. To understand the diversity and universality in the process of human toolmaking skill acquisition, this ongoing project analyzed 169 non-industrial societies displaying varying subsistence strategies around the world using the eHRAF World Cultures database, with a particular focus on developmental contexts and transmission biases involved. 
 
-At the most basic level, this study provides the most in-depth descriptive investigation on this topic so far.
+## Toolmaking as human experience
 
-It can help improving the external validity of archaeological experimental design.
+## Acquisition of toolmaking skills
 
-It can serve as a middle-range framework to better understand the formation of archaeological records.
-
-Therefore, this paper intends to answer the following three research questions. 1) Do hunter-gatherers have a unique learning pattern compared with groups practicing other types of subsistence strategies? 2) Do learning strategies change across different developmental periods? (More specific hypothesis: will the frequency of social learning decrease through time?) 3)  What are some major transmission biases involved? (kin-based? context(success)-based?)
+At the most basic level, this study provides the most in-depth descriptive investigation on this topic so far. It can help improving the external validity of archaeological experimental design. It can serve as a middle-range framework to better understand the formation of archaeological records. Therefore, this paper intends to answer the following three research questions. 1) Do hunter-gatherers have a unique learning pattern compared with groups practicing other types of subsistence strategies? 2) Do learning strategies change across different developmental periods? (More specific hypothesis: will the frequency of social learning decrease through time?) 3)  What are some major transmission biases involved? (kin-based? context(success)-based?)
 
 
 # Data and methods
@@ -113,6 +112,8 @@ Variables
 3. Co-production as a way of teaching toolmaking
 
 4. Skill training as a byproduct
+
+I see it as a stepping stone instead of a definitive text for a better understanding of the subject matter. It merely serves as a starting point for an open dialogue and a project to be collaborated with future researchers.
 
 # Acknowledgement
 
