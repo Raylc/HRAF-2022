@@ -26,15 +26,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-## Toolmaking and human uniqueness
-Toolmaking, together with bipedalism and language, was once regarded as a defining feature that makes humans distinct from other species. Although this notion of human uniqueness was challenged in the past decades by mounting evidence of toolmaking by non-human primates and corvids, it is undoubtedly still critical to human experience in the sense that a biocultural feedback loop is formed through toolmaking that shapes our minds and bodies. Yet the ability to make tools is not born with us, and we all need to either learn from others or through repeated trials and errors. To understand the diversity and universality in the process of human toolmaking skill acquisition, this ongoing project analyzed 169 non-industrial societies displaying varying subsistence strategies around the world using the eHRAF World Cultures database, with a particular focus on developmental contexts and transmission biases involved. 
-
 ## Toolmaking as human experience
+
+Toolmaking, together with bipedalism and language, was once regarded as a defining feature that makes humans distinct from other species. Although this notion of human uniqueness was challenged in the past decades by mounting evidence of toolmaking by non-human primates and corvids, it is undoubtedly still critical to human experience in the sense that a biocultural feedback loop is formed through toolmaking that shapes our minds and bodies. Yet the ability to make tools is not born with us, and we all need to either learn from others or through repeated trials and errors. To understand the diversity and universality in the process of human toolmaking skill acquisition, this ongoing project analyzed 169 non-industrial societies displaying varying subsistence strategies around the world using the eHRAF World Cultures database, with a particular focus on developmental contexts and transmission biases involved.
+
+Engaging with the works of Lambros Malafouris [@malafouris2012; @ihde2019] and philosophy of technology [@lee2009; @birch2021].
 
 ## Acquisition of toolmaking skills
 
-At the most basic level, this study provides the most in-depth descriptive investigation on this topic so far. It can help improving the external validity of archaeological experimental design. It can serve as a middle-range framework to better understand the formation of archaeological records. Therefore, this paper intends to answer the following three research questions. 1) Do hunter-gatherers have a unique learning pattern compared with groups practicing other types of subsistence strategies? 2) Do learning strategies change across different developmental periods? (More specific hypothesis: will the frequency of social learning decrease through time?) 3)  What are some major transmission biases involved? (kin-based? context(success)-based?)
+At the most basic level, this study provides the most in-depth descriptive investigation on this topic so far. It can help improving the external validity of archaeological experimental design. It can serve as a middle-range framework to better understand the formation of archaeological records. Therefore, this paper intends to answer the following three research questions. 1) Do hunter-gatherers have a unique learning pattern compared with groups practicing other types of subsistence strategies? 2) Do learning strategies change across different developmental periods? (More specific hypothesis: will the frequency of social learning decrease through time?) 3) What are some major transmission biases involved? (kin-based? context(success)-based?)
 
+Engaging with the works of Lancy [@lancy2017]
 
 # Data and methods
 
@@ -46,8 +48,7 @@ knitr::include_graphics(here::here("figure/Fig1.pdf"))
 
 1.  EHRAF World Cultures: subject "transmission of skills" + key word "tool". This combination yields ~~133 paragraphs in 96 documents across 72 cultures~~. Another keywords include ~~make (983 paragraphs in 463 documents across 208 cultures)/made (757 paragraphs in 417 documents across 203 cultures)/making (476 paragraphs in 296 documents across 169 cultures)~~, ~~produce (77 paragraphs in 65 documents across 55 cultures)/producing (30 paragraphs in 25 documents across 24 cultures )~~, ~~manufacture (59 paragraphs in 48 documents across 43 cultures)/ manufacturing (5 paragraphs in 5 documents across 5 cultures)~~, ~~create (39 paragraphs in 33 documents across 30 cultures)/ creating (8 paragraphs in 8 documents across 8 cultures)~~, ~~construct (16 paragraphs in 14 documents across 12 cultures)/ constructing (21 paragraphs in 20 documents across 19 cultures )~~, ~~assemble (11 paragraphs in 11 documents across 11 cultures)/ assembling (2 paragraphs in 2 documents across 2 cultures)~~, ~~fabricate (3 paragraphs in 3 documents across 3 cultures)/ fabricating (1 paragraphs in 1 documents across 1 cultures)~~, ~~shape (71 paragraphs in 58 documents across 50 cultures)/ shaping (18 paragraphs in 17 documents across 17 cultures)~~, ~~forge (6 paragraphs in 11 documents across 9 cultures)/ forging (6 paragraphs in 6 documents across 5 cultures)~~, ~~form (324 paragraphs in 198 documents across 133 cultures)/ forming (15 paragraphs in 15 documents across 14 cultures)~~.
 
-
-5. Exclusion criteria: cases of tool use, commercial economy, instance where local people taught the ethnographer how to make tools, instances where it was clearly stated a new form of government-initiated school to save a certain craft, instances where individuals are taught how to make Christianity-related artifacts such altar, and instances where indigenous people mentioned that they learn a specific craft from museum pieces, photographs. However, they may appear as contextual information in the appendix to provide more details of the technologies themselves. archaeological and historical literatures are also excluded. 
+2.  Exclusion criteria: cases of tool use, commercial economy, instance where local people taught the ethnographer how to make tools, instances where it was clearly stated a new form of government-initiated school to save a certain craft, instances where individuals are taught how to make Christianity-related artifacts such altar, and instances where indigenous people mentioned that they learn a specific craft from museum pieces, photographs. However, they may appear as contextual information in the appendix to provide more details of the technologies themselves. archaeological and historical literatures are also excluded.
 
 Variables
 
@@ -105,17 +106,16 @@ Variables
 
 # Dissucusion
 
-1. Protracted and staged learning period
+1.  Protracted and staged learning period
 
-2. The distribution of expertise
+2.  The distribution of expertise
 
-3. Co-production as a way of teaching toolmaking
+3.  Co-production as a way of teaching toolmaking
 
-4. Skill training as a byproduct
+4.  Skill training as a byproduct
 
 I see it as a stepping stone instead of a definitive text for a better understanding of the subject matter. It merely serves as a starting point for an open dialogue and a project to be collaborated with future researchers.
 
 # Acknowledgement
 
 This work was assisted in part by skills learned at the 2022 NSF HRAF Summer Institute for Cross Cultural Anthropological Research (NSF BCS Grant #2020156 to HRAF). The author would also like to thank Carol Ember, Fiona Jordan, and Sean Roberts for their constructive feedback during the early stages of this project.
-
