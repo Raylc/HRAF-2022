@@ -38,7 +38,7 @@ At the most basic level, this study provides the most in-depth descriptive inves
 
 Engaging with the works of Lancy [@lancy2017]
 
-# Data and methods
+# Methods and materials
 
 0.  Scope of study: Global sample (**Figure** \@ref(fig:Screeplot))
 
