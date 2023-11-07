@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Toolmaking, together with bipedalism and language, was once regarded as a defining feature that makes humans distinct from other species. Although this notion of human uniqueness was challenged in the past decades by mounting evidence of toolmaking by non-human primates and corvids, it is undoubtedly still critical to human experience in the sense that a biocultural feedback loop is formed through toolmaking that shapes our minds and bodies. Yet the ability to make tools is not born with us, and we all need to either learn from others or through repeated trials and errors. To understand the diversity and universality in the process of human toolmaking skill acquisition, this ongoing project analyzed 169 non-industrial societies displaying varying subsistence strategies around the world using the eHRAF World Cultures database, with a particular focus on developmental contexts and transmission biases involved.
 
-Engaging with the works of Lambros Malafouris [@malafouris2012; @ihde2019] and philosophy of technology [@lee2009; @birch2021].
+Engaging with the works of Malafouris [@malafouris2012; @ihde2019] and philosophy of technology [@lee2009; @birch2021].
 
 ## Acquisition of toolmaking skills
 
@@ -104,17 +104,25 @@ Variables
 
 # Results
 
-# Dissucusion
+# Discussion
 
-1.  Protracted and staged learning period
+## Protracted and staged learning trajectory
 
-2.  The distribution of expertise
+This study further confirms Dallos's [-@dallos2021] sharp observation on the significant role of protracted learning in the formation of human culture, as several HRAF ethnographic sources suggested that the learning of toolmaking skills spans multiple developmental periods in an almost structural manner, where each periods feature different approaches to learning and varied task priorities. This applies to scenarios where people learn different different domains of technology at different ages as well as people acquiring one toolmaking skill learn various technological components in a developmenally scaffolding manner. For instance, in Lancy's [-@lancy1996: 161-162] classical ethnography on Kpelle children development, he noted that:
 
-3.  Co-production as a way of teaching toolmaking
+> "Children learn three types of tasks at three different ages. They begin performing such rudimentary tasks of rice farming as cooking, pounding rice, and chasing away birds at a very early age, usually before they are 9. More difficult tasks, such as hoeing on the farm, net weaving, and trap making, are begun around age 9 and mastered by age 13. Rarer, more complex skills such as cloth weaving, bag weaving, blacksmithing, and medicine making are acquired in the late teens and may be learned after marriage."
 
-4.  Skill training as a byproduct
+Another example would be
 
-I see it as a stepping stone instead of a definitive text for a better understanding of the subject matter. It merely serves as a starting point for an open dialogue and a project to be collaborated with future researchers.
+## The distribution of expertise
+
+## Co-production as a pedagogy
+
+## Skill training: A byproduct of socialization
+
+# Conclusion
+
+I see it as a stepping stone instead of a definitive text for a better understanding of the subject matter, which merely serves as a starting point for an open dialogue and a project to be collaborated with future researchers.
 
 # Acknowledgement
 
