@@ -106,13 +106,17 @@ Variables
 
 # Discussion
 
-## Protracted and staged learning trajectory
+## Protracted and staged learning trajectories
 
-This study further confirms Dallos's [-@dallos2021] sharp observation on the significant role of protracted learning in the formation of human culture, as several HRAF ethnographic sources suggested that the learning of toolmaking skills spans multiple developmental periods in an almost structural manner, where each periods feature different approaches to learning and varied task priorities. This applies to scenarios where people learn different different domains of technology at different ages as well as people acquiring one toolmaking skill learn various technological components in a developmenally scaffolding manner. For instance, in Lancy's [-@lancy1996: 161-162] classical ethnography on Kpelle children development, he noted that:
+This study partly confirms Dallos's [-@dallos2021] sharp observation on the significant role of protracted learning in the formation of human culture, as several HRAF ethnographic sources suggested that the learning of toolmaking skills spans multiple developmental periods in an almost structural manner, where each periods feature different approaches to learning and varied task priorities. This applies to scenarios where people learn different different domains of technology at different ages as well as people acquiring one toolmaking skill learn various technological components in a developmentally scaffolding manner. For instance, in Lancy's [-@lancy1996: 161-162] classical ethnography on Kpelle children development, he noted that:
 
 > "Children learn three types of tasks at three different ages. They begin performing such rudimentary tasks of rice farming as cooking, pounding rice, and chasing away birds at a very early age, usually before they are 9. More difficult tasks, such as hoeing on the farm, net weaving, and trap making, are begun around age 9 and mastered by age 13. Rarer, more complex skills such as cloth weaving, bag weaving, blacksmithing, and medicine making are acquired in the late teens and may be learned after marriage."
 
-Another example would be
+Canoe making, a skill that demands not only the acquiring of technical know-how but also the development of proper physical strength to handle heavy logs, best illustrates the case of long training period required for a single toolmaking skill. For example, Wilbert [-@wilbert1976: 360] commented that among the Warao hunter-gatherers' skill training for men last until 25 years old and he further[@wilbert1977: 23] wrote that:
+
+> "A boy is associated with canoe-making from early childhood on, initially as spectator, when he accompanies his father and the other men of the family to the forest and watches the production process. Later, as an adolescent, he picks up the axe himself and participates in the process according to his increasing dexterity. By the time he gets married, a young man commands the basic skills and may even have a small canoe to call his own."
+
+This pattern of prolonged and staged learning has also recurrently occurred in other ethnographic observations on other indigenous communities such as Chuuk/Truk [@goodenough1951: 53-55] in Micronesia, as well as Kapauku [@pospisil1958: 40-41] and Trobriands[@austen1945: 194-195; @scoditti1989: 56] in Melanesia (e.g., "15-20 years of apprenticeship"). However, given the inherent constraint that most ethnographic sources used here only provided a fragmented narrative on craft learning, it is still unclear how common is this mode of protracted learning in the manufacturing of smaller-sized tools that does not necessarily require high level of physical strength as debated in several empirical studies regarding humans' unique life history pattern [@jones2002; @bliegebird2002].
 
 ## The distribution of expertise
 
@@ -122,8 +126,10 @@ Another example would be
 
 # Conclusion
 
-I see it as a stepping stone instead of a definitive text for a better understanding of the subject matter, which merely serves as a starting point for an open dialogue and a project to be collaborated with future researchers.
+I see it as a stepping stone instead of a definitive text for a better understanding of the subject matter, which merely serves as a starting point for an open dialogue and a project to be collaborated with future researchers like the "Play Object Play" database [@riede2023].
 
 # Acknowledgement
 
 This work was assisted in part by skills learned at the 2022 NSF HRAF Summer Institute for Cross Cultural Anthropological Research (NSF BCS Grant #2020156 to HRAF). The author would also like to thank Carol Ember, Fiona Jordan, and Sean Roberts for their constructive feedback during the early stages of this project.
+
+# References
