@@ -220,7 +220,7 @@ points(toollearning_geo$Long, toollearning_geo$Lat, col=alpha(toollearning_geo$c
 ## add a legend with color-blind friendly palette
 legend(-40,-38, legend=c("Hunter-gatherers(n=45)","Primarily hunter-gatherers(n=14)", 
                          "Horticulturalists(n=36)", "Pastoralists(n=5)", 
-                         "Agro-pastoralists(n=12)","Intensive agriculturalists(n=28)", 
+                         "Agro-pastoralists(n=13)","Intensive agriculturalists(n=28)", 
                          "Other subsistence combinations(n=29)"), 
        col=c("#88CCEE", "#CC6677", "#DDCC77", "#117733", "#332288", "#AA4499", 
              "#44AA99", "#999933"), pch=16, ncol=2)
