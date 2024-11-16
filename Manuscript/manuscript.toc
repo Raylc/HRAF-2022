@@ -1,13 +1,11 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Toolmaking as human experience}{1}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Acquisition of toolmaking skills}{2}{subsection.1.2}%
 \contentsline {section}{\numberline {2}Methods and materials}{2}{section.2}%
 \contentsline {section}{\numberline {3}Results}{7}{section.3}%
 \contentsline {section}{\numberline {4}Discussion}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Protracted and staged learning trajectory}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.1}Protracted and staged learning trajectories}{7}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}The distribution of expertise}{8}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Co-production as a pedagogy}{8}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Skill training: A byproduct of socialization}{8}{subsection.4.4}%
 \contentsline {section}{\numberline {5}Conclusion}{8}{section.5}%
-\contentsline {section}{\numberline {6}Acknowledgement}{8}{section.6}%
+\contentsline {section}{\numberline {6}Acknowledgement}{9}{section.6}%
 \contentsline {section}{References}{9}{section*.3}%
