@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.16)  16 NOV 2024 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.16)  17 NOV 2024 00:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -566,22 +566,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [1
 
 {c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-<../Figure/Map.pdf, id=45, 1084.05pt x 722.7pt>
+
+[2]
+<../Figure/Map.pdf, id=81, 1084.05pt x 722.7pt>
 File: ../Figure/Map.pdf Graphic file (type pdf)
 <use ../Figure/Map.pdf>
-Package pdftex.def Info: ../Figure/Map.pdf  used on input line 170.
+Package pdftex.def Info: ../Figure/Map.pdf  used on input line 168.
 (pdftex.def)             Requested size: 469.75496pt x 313.16995pt.
 
 
-[2]
-
 [3 <../Figure/Map.pdf>]
-Underfull \hbox (badness 1281) in paragraph at lines 198--200
+Underfull \hbox (badness 1281) in paragraph at lines 196--198
 []\T1/put/b/n/10.95 Subsistence\T1/put/m/n/10.95 : This vari-able fol-lows eHRAF's clas-si-fi-ca-tion sys-tem, in-clud-ing Hunter-
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 198--200
+Underfull \hbox (badness 2318) in paragraph at lines 196--198
 \T1/put/m/n/10.95 gatherer, pri-mar-ily hunter-gatherer, hor-ti-cul-tur-al-ist, agro-pastarolist, in-ten-sive agri-
  []
 
@@ -599,30 +599,32 @@ Underfull \hbox (badness 2318) in paragraph at lines 198--200
 
 [9]
 
+[10]
+
 Package caption Warning: Unused \captionsetup[table] on input line 116.
 See the caption package documentation for explanation.
 
 
 
-[10] (./manuscript.aux)
+[11] (./manuscript.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14047 strings out of 475322
- 224913 string characters out of 5768591
- 685580 words of memory out of 5000000
- 36611 multiletter control sequences out of 15000+600000
+ 14070 strings out of 475322
+ 225375 string characters out of 5768591
+ 689011 words of memory out of 5000000
+ 36622 multiletter control sequences out of 15000+600000
  639772 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,81p,1599b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,81p,2731b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (10 pages, 175774 bytes).
+Output written on manuscript.pdf (11 pages, 179943 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
+ 283 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
+ 83 named destinations out of 1000 (max. 500000)
  94 words of extra memory for PDF output out of 10000 (max. 10000000)
 
