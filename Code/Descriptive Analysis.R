@@ -13,7 +13,7 @@ download.file(url1, destfile1)
 ## Load the data set
 EAsocieties <- read.csv("./Data/EAsocieties.csv")
 EHRAFccr <- read.csv("./Data/ehraf-ccr.csv")
-toollearning <- read.csv("./Data/craft learning1.csv")
+toollearning <- read.csv("./Data/craft learning.csv")
 
 
 # 1. Create a csv for the conversion of OWC code and Ethnographic Atlas ID
@@ -234,10 +234,11 @@ dev.off()
 # 4. Make treemaps for visualizing frequency data
 # library
 library(treemap)
-toollearning <- read.csv("./Data/craft learning1.csv")
+toollearning <- read.csv("./Data/craft learning.csv")
+toollearning %>% count(Technology_cat)
 
 
-tlearn_grouped <- table(toollearning$Transmission.bias1,useNA = "always")
+tlearn_grouped <- table(toollearning$Transmission.bias_cat,useNA = "always")
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission_bias = Var1)
 
@@ -246,7 +247,7 @@ ggplot(data=tlearn_grouped, aes(x=reorder(Transmission_bias,-Freq), y=Freq)) +
   labs(x="Transmission biases", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
 ggplot2::ggsave("./Figure/transbias12.png", width = 20, height = 20, units = "cm", dpi = 600)
 
-tlearn_grouped1 <- table(toollearning$Transmission.modes1,useNA = "always")
+tlearn_grouped1 <- table(toollearning$Transmission.modes_cat,useNA = "always")
 tlearn_grouped1 <- as.data.frame(tlearn_grouped1)
 
 ggplot(data=tlearn_grouped1, aes(x=reorder(Var1,-Freq), y=Freq)) +
@@ -271,7 +272,7 @@ ggplot(data=tlearn_grouped3, aes(x=reorder(Var1,-Freq), y=Freq)) +
   labs(x="Age group of model", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
 ggplot2::ggsave("./Figure/modelage.png", dpi = 600)
 
-tlearn_grouped2 <- table(toollearning$Learning.process.type.,useNA = "always")
+tlearn_grouped2 <- table(toollearning$Learning.process_cat,useNA = "always")
 tlearn_grouped2 <- as.data.frame(tlearn_grouped2)
 
 ggplot(data=tlearn_grouped2, aes(x=reorder(Var1,-Freq), y=Freq)) +
@@ -280,13 +281,13 @@ ggplot(data=tlearn_grouped2, aes(x=reorder(Var1,-Freq), y=Freq)) +
 ggplot2::ggsave("./Figure/Learning processes.png", width = 20, height = 20, units = "cm",dpi = 600)
 
 
-tlearn_grouped2 <- table(toollearning$Technology,useNA = "always")
+tlearn_grouped2 <- table(toollearning$Technology_cat,useNA = "always")
 tlearn_grouped2 <- as.data.frame(tlearn_grouped2)
 
 ##########################
-clotheslearning <- subset(toollearning, toollearning$Technology=='clothes making')
+clotheslearning <- subset(toollearning, toollearning$Technology_cat=='clothes making')
 
-tlearn_grouped <- table(clotheslearning$Transmission.bias1,useNA = "always")
+tlearn_grouped <- table(clotheslearning$Transmission.bias_cat,useNA = "always")
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission_bias = Var1)
 ggplot(data=tlearn_grouped, aes(x=reorder(Transmission_bias,-Freq), y=Freq)) +
@@ -294,7 +295,7 @@ ggplot(data=tlearn_grouped, aes(x=reorder(Transmission_bias,-Freq), y=Freq)) +
   labs(x="Transmission biases", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
 ggplot2::ggsave("./Figure/clothtransbias1.png", width = 20, height = 20, units = "cm", dpi = 600)
 
-tlearn_grouped3 <- table(clotheslearning$Transmission.modes1,useNA = "always")
+tlearn_grouped3 <- table(clotheslearning$Transmission.modes_cat,useNA = "always")
 tlearn_grouped3 <- as.data.frame(tlearn_grouped3)
 ggplot(data=tlearn_grouped3, aes(x=reorder(Var1,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
@@ -310,7 +311,7 @@ ggplot(data=tlearn_grouped2, aes(x=reorder(Var1,-Freq), y=Freq)) +
   labs(x="Age group of learner", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
 ggplot2::ggsave("./Figure/clothlearnerage.png", width = 20, height = 20, units = "cm",dpi = 600)
 
-tlearn_grouped2 <- table(clotheslearning$Learning.process.type.,useNA = "always")
+tlearn_grouped2 <- table(clotheslearning$Learning.process_cat,useNA = "always")
 tlearn_grouped2 <- as.data.frame(tlearn_grouped2)
 
 ggplot(data=tlearn_grouped2, aes(x=reorder(Var1,-Freq), y=Freq)) +
