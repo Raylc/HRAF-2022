@@ -1,11 +1,12 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
-\contentsline {section}{\numberline {2}Methods and materials}{3}{section.2}%
-\contentsline {section}{\numberline {3}Results}{8}{section.3}%
-\contentsline {section}{\numberline {4}Discussion}{8}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Protracted and staged learning trajectories}{8}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}The distribution of expertise}{9}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Co-production as a pedagogy}{9}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Skill training: A byproduct of socialization}{9}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Conclusion}{9}{section.5}%
-\contentsline {section}{\numberline {6}Acknowledgement}{10}{section.6}%
-\contentsline {section}{References}{10}{section*.3}%
+\contentsline {section}{\numberline {2}Methods and materials}{5}{section.2}%
+\contentsline {section}{\numberline {3}Results}{9}{section.3}%
+\contentsline {section}{\numberline {4}Qualitative insights}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Protracted and staged learning trajectories}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The distribution of expertise}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Causal knowledge in the craftsmanship}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Co-production as a pedagogy}{11}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Skill training: A byproduct of socialization}{12}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Conclusion}{12}{section.5}%
+\contentsline {section}{\numberline {6}Acknowledgement}{13}{section.6}%
+\contentsline {section}{References}{13}{section*.3}%
