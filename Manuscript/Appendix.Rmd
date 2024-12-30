@@ -31,7 +31,7 @@ csl: apa.csl
 
 ### Barundi
 
-Meyer, H., & Handzik, H. (1916). The Barundi: an ethnological study of German East Africa. Ott Spamer. p139. <https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fo58-001>
+Meyer, H., & Handzik, H. (1916). The Barundi: an ethnological study of German East Africa. Ott Spamer. p.139. <https://ehrafworldcultures-yale-edu.proxy.library.emory.edu/document?id=fo58-001>
 
 "**The eldest son also inherits** the religious and professional attributes and **skills of his father**. If the father was a priest (kiranga), sorcerer, medicine man (umufumu), or **blacksmith** (umususi), etc., the eldest son becomes --- or remains --- in the same position or profession by inheriting from his father the insignia and tools, **in addition to the expert training**. Thus, certain professions remain the prerogative of certain families. If the mother is an expert of some sort, she will pass on her skills to her eldest daughter."
 

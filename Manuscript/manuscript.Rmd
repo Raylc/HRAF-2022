@@ -50,7 +50,7 @@ Engaging with the works of Lancy [@lancy2017]
 knitr::include_graphics(here::here("figure/Map.pdf"))
 ```
 
-1.  EHRAF World Cultures: subject "transmission of skills" + key word "tool". This combination yields ~~133 paragraphs in 96 documents across 72 cultures~~. Another keywords include ~~make (983 paragraphs in 463 documents across 208 cultures)/made (757 paragraphs in 417 documents across 203 cultures)/making (476 paragraphs in 296 documents across 169 cultures)~~, ~~produce (77 paragraphs in 65 documents across 55 cultures)/producing (30 paragraphs in 25 documents across 24 cultures )~~, ~~manufacture (59 paragraphs in 48 documents across 43 cultures)/ manufacturing (5 paragraphs in 5 documents across 5 cultures)~~, ~~create (39 paragraphs in 33 documents across 30 cultures)/ creating (8 paragraphs in 8 documents across 8 cultures)~~, ~~construct (16 paragraphs in 14 documents across 12 cultures)/ constructing (21 paragraphs in 20 documents across 19 cultures )~~, ~~assemble (11 paragraphs in 11 documents across 11 cultures)/ assembling (2 paragraphs in 2 documents across 2 cultures)~~, ~~fabricate (3 paragraphs in 3 documents across 3 cultures)/ fabricating (1 paragraphs in 1 documents across 1 cultures)~~, ~~shape (71 paragraphs in 58 documents across 50 cultures)/ shaping (18 paragraphs in 17 documents across 17 cultures)~~, ~~forge (6 paragraphs in 11 documents across 9 cultures)/ forging (6 paragraphs in 6 documents across 5 cultures)~~, ~~form (324 paragraphs in 198 documents across 133 cultures)/ forming (15 paragraphs in 15 documents across 14 cultures)~~.
+1.  EHRAF World Cultures: subject "transmission of skills" + key word "tool". This combination yields ~~133 paragraphs in 96 documents across 72 cultures~~. Another keywords include make (983 paragraphs in 463 documents across 208 cultures)/made (757 paragraphs in 417 documents across 203 cultures)/making (476 paragraphs in 296 documents across 169 cultures), produce (77 paragraphs in 65 documents across 55 cultures)/producing (30 paragraphs in 25 documents across 24 cultures ), manufacture (59 paragraphs in 48 documents across 43 cultures)/ manufacturing (5 paragraphs in 5 documents across 5 cultures), create (39 paragraphs in 33 documents across 30 cultures)/ creating (8 paragraphs in 8 documents across 8 cultures), construct (16 paragraphs in 14 documents across 12 cultures)/ constructing (21 paragraphs in 20 documents across 19 cultures ), assemble (11 paragraphs in 11 documents across 11 cultures)/ assembling (2 paragraphs in 2 documents across 2 cultures), fabricate (3 paragraphs in 3 documents across 3 cultures)/ fabricating (1 paragraphs in 1 documents across 1 cultures), shape (71 paragraphs in 58 documents across 50 cultures)/ shaping (18 paragraphs in 17 documents across 17 cultures), forge (6 paragraphs in 11 documents across 9 cultures)/ forging (6 paragraphs in 6 documents across 5 cultures), form (324 paragraphs in 198 documents across 133 cultures)/ forming (15 paragraphs in 15 documents across 14 cultures).
 
 2.  Exclusion criteria: cases of tool use, commercial economy, instance where local people taught the ethnographer how to make tools, instances where it was clearly stated a new form of government-initiated school to save a certain craft, instances where individuals are taught how to make Christianity-related artifacts such altar, and instances where indigenous people mentioned that they learn a specific craft from museum pieces, photographs. However, they may appear as contextual information in the appendix to provide more details of the technologies themselves. archaeological and historical literature are also excluded.
 
@@ -122,11 +122,11 @@ Canoe making, a skill that demands not only the acquiring of technical know-how 
 
 This pattern of prolonged and staged learning has also recurrently occurred in other ethnographic observations on other indigenous communities such as Chuuk/Truk [@goodenough1951: 53-55] in Micronesia, as well as Kapauku [@pospisil1958: 40-41] and Trobriands[@austen1945: 194-195; @scoditti1989: 56] in Melanesia (e.g., "15-20 years of apprenticeship"). However, given the inherent constraint that most ethnographic sources used here only provided a fragmented narrative on craft learning, it is still unclear how common is this mode of protracted learning in the manufacturing of smaller-sized tools that does not necessarily require high level of physical strength as debated in several empirical studies regarding humans' unique life history pattern [@jones2002; @bliegebird2002].
 
-Initiation ceremony is a period for intensive toolmaking skill training, along with other skills required for adulthoold: Laguru, Mende, Eyak, Kaska, Pomo, Maleluka, Tukano, Goajiro, Ona. For example, Hamdani (2001) described the female initiation rites in Luguru, East Africa.
+Initiation ceremony is a period for intensive toolmaking skill training, along with other skills required for adulthoold: Laguru, Mende, Eyak, Kaska, Pomo, Maleluka, Tukano, Goajiro, Ona. For example, Hamdani [@hamdani2001: 11-12] described the female initiation rites in Luguru, East Africa.
 
 > "The ‘mwali’ initiation rite…She explained that she literally lived in this hut for a period of three years… It was her mother who trained her to sort out green vegetables, to pound the maize and to prepare food. It was her aunts who taught her how to make sleeping mats, baskets, pottery and even caps. Mama Fulora explained that during her grandmother’s times, girls used to learn how to make clothing from barks of trees."
 
-Similarly, Hugh-Jones (1979) provides a detailed narrative regarding the importance of initiation ceremony in toolmaking skill acquisiiton with the example Tukano people.
+Similarly, Hugh-Jones [-@hugh-jones1979: 86-87] provides a detailed narrative regarding the importance of initiation ceremony in toolmaking skill acquisiiton with the example Tukano people.
 
 > "For the initiates, the marginal period is a time of education…Then the elders systematically teach the initiates to make all the different kinds of basketry (carrying baskets, sieves, flat trays, cassava squeezers, etc.)… In addition to basketry, the initiates are taught how to make the feather head-dresses and other ritual ornaments used in dances…Just before the blowing of pepper, the initiates are taught to weave conical fish traps which they go and set in streams in the forest, accompanied by their masori."
 
@@ -134,17 +134,17 @@ Similarly, Hugh-Jones (1979) provides a detailed narrative regarding the importa
 
 ## Causal knowledge in the craftsmanship
 
-Kaska Honigmann & Bennett, 1949
+Kaska [@honigmann1949: 185-186]
 
 > "Education. Most education for living is received by the child in the course of performing routine activities. Such education is unformalized and undirected... Sometimes generalized instructions are furnished to children who, in carrying these out, often become confused. Thus we observed one fourteen year old girl make tea by putting the leaves into cold water. Nobody referred to the muddy quality of the beverage. The same kind of teaching was used with the ethnographer. Activities were illustrated but never explained in detail, the exposition of principles being ignored."
 
 ## Co-production as a pedagogy
 
-Kpelle, Lancy 1984
+Kpelle, [@lancy1975: 151]
 
-> "Learning agricultural tasks and pottery-making in the household is part of adjusting to membership in the community. Parents are responsible for teaching the value of industriousness and are held accountable throughout the life of the child. Agricultural tasks are scheduled in a yearly cycle that provides sufficient flexibility for a man to carry out community and familial ceremonial responsibilities."
+> "Wollokollie’s youngest wife, Goma was an expert at Bii paa or bag weaving, (see Plate X). She had, she said, asked her big sister to teach her how to do it, but she refused so Goma taught herself. Now she is teaching a teenaged girl of 16 how to do it. The girl has prepared the strands of palm leaf and brought them to Goma to help her get started. The two alternate at weaving the bag. The girl makes a mistake and Goma unravels what she has done, does it correctly for awhile, then lets the girl take over again. Goma can’t explain how to do it, either to me or the girl. She can only show and guide our hands as I, too, make an attempt to learn."
 
-Garo Burling 1963
+Garo [@burling1963: 116]
 
 > "Only after he is about twelve years old does anything like formal teaching take place. The most difficult skill to learn or to teach is basket-making, which the father or some other man must impart to a boy. The instruction consists mostly of telling a child to make a particular basket as he has watched others do and then reprimanding him if he does it wrong. Occasionally a man will demonstrate, but I never saw anyone who was able to analyze and point out the mistakes another was making. If a person makes a mistake in a complex basket, for instance, his instructor will take the basket away, redo it himself, and then tell him to do it that way henceforth. No effort is made to break the complex weaving process down into steps so as to make it easy to understand and learn systematically, although it is recognized that certain baskets are easier to weave than others. Fathers tell their sons to make the easier types first, and then gradually lead them to the more difficult ones."
 
@@ -152,7 +152,7 @@ Imamura and Akiyama [-@imamura2016]: San foragers older children teach tool manu
 
 ## Skill training: A byproduct of socialization
 
-Nash 1970 Tzeltal
+Tzeltal [@nash1970: 321]
 
 > "Learning agricultural tasks and pottery-making in the household is part of adjusting to membership in the community. Parents are responsible for teaching the value of industriousness and are held accountable throughout the life of the child. Agricultural tasks are scheduled in a yearly cycle that provides sufficient flexibility for a man to carry out community and familial ceremonial responsibilities."
 
