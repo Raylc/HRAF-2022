@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.16)  30 DEC 2024 01:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.16)  6 JAN 2025 00:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -572,7 +572,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [3]
 
 [4]
-<../Figure/Map.pdf, id=120, 1084.05pt x 722.7pt>
+<../Figure/Map.pdf, id=123, 1084.05pt x 722.7pt>
 File: ../Figure/Map.pdf Graphic file (type pdf)
 <use ../Figure/Map.pdf>
 Package pdftex.def Info: ../Figure/Map.pdf  used on input line 176.
@@ -613,30 +613,32 @@ Underfull \hbox (badness 2318) in paragraph at lines 204--206
 
 [16]
 
+[17]
+
 Package caption Warning: Unused \captionsetup[table] on input line 116.
 See the caption package documentation for explanation.
 
 
 
-[17] (./manuscript.aux)
+[18] (./manuscript.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14114 strings out of 475322
- 226184 string characters out of 5768591
- 661752 words of memory out of 5000000
- 36642 multiletter control sequences out of 15000+600000
+ 14121 strings out of 475322
+ 226292 string characters out of 5768591
+ 661858 words of memory out of 5000000
+ 36645 multiletter control sequences out of 15000+600000
  639772 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,81p,2579b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,81p,2931b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (17 pages, 192556 bytes).
+Output written on manuscript.pdf (18 pages, 195076 bytes).
 PDF statistics:
- 377 PDF objects out of 1000 (max. 8388607)
- 346 compressed objects within 4 object streams
- 107 named destinations out of 1000 (max. 500000)
+ 397 PDF objects out of 1000 (max. 8388607)
+ 365 compressed objects within 4 object streams
+ 111 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
