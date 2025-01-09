@@ -230,12 +230,37 @@ dev.off()
 
 
 
+############## descriptive analysis plotting ######################
 
-# 4. Make treemaps for visualizing frequency data
-# library
-library(treemap)
 toollearning <- read.csv("./Data/craft learning.csv")
-toollearning %>% count(Technology_cat)
+
+## what question
+tlearn_grouped <- table(toollearning$Technology_cat)
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Technology_cat = Var1) %>% dplyr::arrange(Freq)
+ggplot(data=tlearn_grouped, aes(x=reorder(Technology_cat,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Toolmaking skills", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = 1.1, colour = "red",
+  )
+ggplot2::ggsave("./Figure/what.png", width = 20, height = 20, units = "cm", dpi = 600)
+
+## where question
+tlearn_grouped <- table(toollearning$Location.type., useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Location.type. = Var1) %>% dplyr::arrange(Freq)
+ggplot(data=tlearn_grouped, aes(x=reorder(Location.type.,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Types of location", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = 1.1, colour = "red",
+  )
+ggplot2::ggsave("./Figure/where.png", width = 20, height = 20, units = "cm", dpi = 600)
+
+##
 
 
 tlearn_grouped <- table(toollearning$Transmission.bias_cat,useNA = "always")

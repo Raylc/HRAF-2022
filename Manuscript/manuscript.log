@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  8 JAN 2025 01:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  9 JAN 2025 02:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -556,7 +556,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 139.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./manuscript.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 5.
+(Font)              <10.95> on input line 4.
 )
 \tf@toc=\write3
 \openout3 = `manuscript.toc'.
@@ -574,7 +574,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [4]
 
 [5]
-<../Figure/Map.pdf, id=129, 1084.05pt x 722.7pt>
+<../Figure/Map.pdf, id=131, 1084.05pt x 722.7pt>
 File: ../Figure/Map.pdf Graphic file (type pdf)
 <use ../Figure/Map.pdf>
 Package pdftex.def Info: ../Figure/Map.pdf  used on input line 172.
@@ -582,12 +582,12 @@ Package pdftex.def Info: ../Figure/Map.pdf  used on input line 172.
 
 
 [6 <../Figure/Map.pdf>]
-Underfull \hbox (badness 1281) in paragraph at lines 198--200
+Underfull \hbox (badness 1281) in paragraph at lines 192--194
 []\T1/put/b/n/10.95 Subsistence\T1/put/m/n/10.95 : This vari-able fol-lows eHRAF's clas-si-fi-ca-tion sys-tem, in-clud-ing Hunter-
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 198--200
+Underfull \hbox (badness 2318) in paragraph at lines 192--194
 \T1/put/m/n/10.95 gatherer, pri-mar-ily hunter-gatherer, hor-ti-cul-tur-al-ist, agro-pastarolist, in-ten-sive agri-
  []
 
@@ -596,49 +596,99 @@ Underfull \hbox (badness 2318) in paragraph at lines 198--200
 [7]
 
 [8]
+<../Figure/what.png, id=175, 569.0058pt x 569.0058pt>
+File: ../Figure/what.png Graphic file (type png)
+<use ../Figure/what.png>
+Package pdftex.def Info: ../Figure/what.png  used on input line 243.
+(pdftex.def)             Requested size: 469.75682pt x 469.75682pt.
+
 
 [9]
+<../Figure/transmodes.png, id=185, 569.0058pt x 569.0058pt>
+File: ../Figure/transmodes.png Graphic file (type png)
+<use ../Figure/transmodes.png>
+Package pdftex.def Info: ../Figure/transmodes.png  used on input line 254.
+(pdftex.def)             Requested size: 469.75682pt x 469.75682pt.
 
-[10]
 
-[11]
+[10 <../Figure/what.png>]
+<../Figure/where.png, id=192, 569.0058pt x 569.0058pt>
+File: ../Figure/where.png Graphic file (type png)
+<use ../Figure/where.png>
+Package pdftex.def Info: ../Figure/where.png  used on input line 265.
+(pdftex.def)             Requested size: 469.75682pt x 469.75682pt.
 
-[12]
 
-[13]
+[11 <../Figure/transmodes.png>]
+<../Figure/learnerage.png, id=199, 569.0058pt x 569.0058pt>
+File: ../Figure/learnerage.png Graphic file (type png)
+<use ../Figure/learnerage.png>
+Package pdftex.def Info: ../Figure/learnerage.png  used on input line 276.
+(pdftex.def)             Requested size: 469.75682pt x 469.75682pt.
 
-[14]
 
-[15]
+[12 <../Figure/where.png>]
+<../Figure/Learning processes.png, id=206, 569.0058pt x 569.0058pt>
+File: ../Figure/Learning processes.png Graphic file (type png)
+<use ../Figure/Learning processes.png>
+Package pdftex.def Info: ../Figure/Learning processes.png  used on input line 287.
+(pdftex.def)             Requested size: 469.75682pt x 469.75682pt.
+
+
+[13 <../Figure/learnerage.png>]
+
+[14 <../Figure/Learning processes.png>]
+<../Figure/transbias12.png, id=218, 569.0058pt x 569.0058pt>
+File: ../Figure/transbias12.png Graphic file (type png)
+<use ../Figure/transbias12.png>
+Package pdftex.def Info: ../Figure/transbias12.png  used on input line 298.
+(pdftex.def)             Requested size: 469.75682pt x 469.75682pt.
+
+
+[15 <../Figure/transbias12.png>]
 
 [16]
 
 [17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
 
 Package caption Warning: Unused \captionsetup[table] on input line 116.
 See the caption package documentation for explanation.
 
 
 
-[18] (./manuscript.aux)
+[25] (./manuscript.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14122 strings out of 475210
- 226266 string characters out of 5765417
- 662581 words of memory out of 5000000
- 36752 multiletter control sequences out of 15000+600000
+ 14209 strings out of 475210
+ 228444 string characters out of 5765417
+ 663285 words of memory out of 5000000
+ 36826 multiletter control sequences out of 15000+600000
  639772 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,6n,81p,2931b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (18 pages, 195170 bytes).
+Output written on manuscript.pdf (25 pages, 2271138 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
- 363 compressed objects within 4 object streams
- 109 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 445 PDF objects out of 1000 (max. 8388607)
+ 400 compressed objects within 4 object streams
+ 122 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
 

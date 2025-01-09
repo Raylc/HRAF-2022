@@ -44,11 +44,11 @@ Engaging with the works of Lancy [@lancy2017]
 
 # Methods and materials
 
-This study analyzed a global sample composed of 170 non-industrial societies indexed in the eHRAF World Cultures database, which include 45 hunter-gathers, 36 horticulturalists, 29 other subsistence combined, 28 intensive agriculturists, 14 primarily hunter-gatherers, 13 agro-pastoralists, and 5 pastoralists cultures (**Figure** \@ref(fig:Screeplot)). Societies labeled as commercial economy are pre-excluded here since they are often associated with industrialization to some degree. Because the eHRAF database is organized using the Outline of Cultural Materials (OCM) coding scheme, the searching strategy focuses exclusively on one OCM code that is most relevant to the research question, namely OCM 868 "Transmission of Skills". Under this OCM code, this project searched for a series of keywords, including, tool, make/made/making, produce/producing, manufacture/manufacturing, create/creating, construct/constructing, assemble/assembling, fabricate/fabricating, shape/shaping, forge/forging, form/forming. These keywords together yields 3060 paragraphs, among which approximately 30-40% are repetitive.
+This study analyzed a global sample composed of 170 non-industrial societies indexed in the eHRAF World Cultures database, which include 45 hunter-gathers, 36 horticulturalists, 29 other subsistence combined, 28 intensive agriculturists, 14 primarily hunter-gatherers, 13 agro-pastoralists, and 5 pastoralists cultures (**Figure** \@ref(fig:map)). Societies labeled as commercial economy are pre-excluded here since they are often associated with industrialization to some degree. Because the eHRAF database is organized using the Outline of Cultural Materials (OCM) coding scheme, the searching strategy focuses exclusively on one OCM code that is most relevant to the research question, namely OCM 868 "Transmission of Skills". Under this OCM code, this project searched for a series of keywords, including, tool, make/made/making, produce/producing, manufacture/manufacturing, create/creating, construct/constructing, assemble/assembling, fabricate/fabricating, shape/shaping, forge/forging, form/forming. These keywords together yields 3060 paragraphs, among which approximately 30-40% are repetitive.
 
 Focusing on the toolmaking skill acquisition in non-industrial societies, this project adopts the following exclusion criteria when screening the paragraphs yielded in initial search, including archaeological and historical literature sources, cases of purely tool use, instance where local people taught the ethnographer how to make tools, instances where it was clearly stated a new form of government-initiated school to save a certain craft, instances where individuals are taught how to make Christianity-related artifacts such altar, and instances where indigenous people mentioned that they learn a specific craft from museum pieces or photographs. However, these cases may appear as contextual information in the appendix to provide more details of the technologies themselves. In the end, the eligible paragraphs and their associated contextual paragraphs were compiled as an 290-page and geographically organized appendix available as supplementary materials of this article.
 
-```{r Screeplot, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="The spatial distribution of non-industrial societies covered in this study (n=170). It should be noted that these coordinate data  represent language ‘centroids’ from the open-access language documentation site glottolog.org instead of the real geographical locations of given communities. These language centroids essentially represent the center point of the area where an relevant language is spoken."}
+```{r map, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="The spatial distribution of non-industrial societies covered in this study (n=170). It should be noted that these coordinate data  represent language ‘centroids’ from the open-access language documentation site glottolog.org instead of the real geographical locations of given communities. These language centroids essentially represent the center point of the area where an relevant language is spoken."}
 knitr::include_graphics(here::here("figure/Map.pdf"))
 ```
 
@@ -105,6 +105,43 @@ Variables
 24. **Reference**
 
 # Results
+
+## Descriptive results
+
+What: three most frequent types (**Figure** \@ref(fig:what))
+
+```{r what, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="The frequency of toolmaking skills documented in ethnographic texts."}
+knitr::include_graphics(here::here("figure/what.png"))
+```
+
+
+who: As you can see for the pattern is consistent for both the overall picture (**Figure** \@ref(fig:who)) and clothes making technology per se, vertical is the dominant pattern, vertical/oblique is the second most common one, you learn from both your parents and grandparents and uncles/aunts here, and very rarely unrelated adult. And the third is purely oblique. Horizontal is not that important here, which may suggest peer play activities are not particularly important in the domain of toolmaking, compared with knowledge like gender norms.
+
+```{r who, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Transmission modes of toolmaking skills documented in ethnographic texts."}
+knitr::include_graphics(here::here("figure/transmodes.png"))
+```
+
+where: indoor is more common compared with outdoor (**Figure** \@ref(fig:where))
+```{r where, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Location of toolmaking skill acquisition documented in ethnographic texts."}
+knitr::include_graphics(here::here("figure/where.png"))
+```
+
+when: As for when they started to learn, the results are also consistent across the big picture and clothes making (**Figure** \@ref(fig:when)). The majority started learning in middle childhood, a critical period in developmental psychology, when many key cognitive abilities were established.
+
+```{r when, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Developmental contexts of toolmaking skill acquisition documented in ethnographic texts."}
+knitr::include_graphics(here::here("figure/learnerage.png"))
+```
+
+how: learning processes It can of confirmed the observer’s bias here, but I try to overcome it using this coding scheme (**Figure** \@ref(fig:how)).
+
+```{r how, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Learning processes of toolmaking skill acquisition documented in ethnographic texts."}
+knitr::include_graphics(here::here("figure/Learning processes.png"))
+```
+
+why: regarding why they choose a specific model, or transmission biases. Kin-based is the most common reason, mixed, meaning multiple sources based on different reasons, and athen success/prestige based. Familarity mostly mean learning from playmate in my coding scheme. one finding I would like to highlight here is that kin-based bias is the dominant transmission bias. This is interesting because traditionally the field of cultural evolutionary model focuses mainly on success/prestige bias or conformist bias, like copying the majority,. My intuition is that these types of biases may be more common in other cultural domains like belief or ascetic preferences, while Toolmaking usually is a long-term learning process that featuring more intimate social relationship. (**Figure** \@ref(fig:why))
+```{r why, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Transmission biases of toolmaking skill acquisition documented in ethnographic texts."}
+knitr::include_graphics(here::here("figure/transbias12.png"))
+```
 
 # Qualitative insights
 
