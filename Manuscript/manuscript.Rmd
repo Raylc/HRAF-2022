@@ -44,7 +44,8 @@ Engaging with the works of Lancy [@lancy2017]
 
 # Methods and materials
 
-This study analyzed a global sample composed of 170 non-industrial societies indexed in the eHRAF World Cultures database, which include 45 hunter-gathers, 36 horticulturalists, 29 other subsistence combined, 28 intensive agriculturists, 14 primarily hunter-gatherers, 13 agro-pastoralists, and 5 pastoralists cultures (**Figure** \@ref(fig:map)). Societies labeled as commercial economy are pre-excluded here since they are often associated with industrialization to some degree. Because the eHRAF database is organized using the Outline of Cultural Materials (OCM) coding scheme, the searching strategy focuses exclusively on one OCM code that is most relevant to the research question, namely OCM 868 "Transmission of Skills". Under this OCM code, this project searched for a series of keywords, including, tool, make/made/making, produce/producing, manufacture/manufacturing, create/creating, construct/constructing, assemble/assembling, fabricate/fabricating, shape/shaping, forge/forging, form/forming. These keywords together yields 3060 paragraphs, among which approximately 30-40% are repetitive.
+## Searching strategy
+This study analyzed a global sample composed of 170 non-industrial societies indexed in the eHRAF World Cultures database, which include 45 hunter-gathers, 36 horticulturalists, 29 other subsistence combined, 28 intensive agriculturists, 14 primarily hunter-gatherers, 13 agro-pastoralists, and 5 pastoralists cultures (**Figure** \@ref(fig:map)). Societies labeled as commercial economy are pre-excluded here since they are often associated with industrialization to some degree. Because the eHRAF database is organized using the Outline of Cultural Materials (OCM) coding scheme, the searching strategy focuses exclusively on one OCM code that is most relevant to the research question, namely OCM 868 "Transmission of Skills". Under this OCM code, this project uses the following keywords for searching, including tool, make/made/making, produce/producing, manufacture/manufacturing, create/creating, construct/constructing, assemble/assembling, fabricate/fabricating, shape/shaping, forge/forging, form/forming. These keywords together yields 3060 paragraphs, among which approximately 30-40% are repetitive.
 
 Focusing on the toolmaking skill acquisition in non-industrial societies, this project adopts the following exclusion criteria when screening the paragraphs yielded in initial search, including archaeological and historical literature sources, cases of purely tool use, instance where local people taught the ethnographer how to make tools, instances where it was clearly stated a new form of government-initiated school to save a certain craft, instances where individuals are taught how to make Christianity-related artifacts such altar, and instances where indigenous people mentioned that they learn a specific craft from museum pieces or photographs. However, these cases may appear as contextual information in the appendix to provide more details of the technologies themselves. In the end, the eligible paragraphs and their associated contextual paragraphs were compiled as an 290-page and geographically organized appendix available as supplementary materials of this article.
 
@@ -52,15 +53,15 @@ Focusing on the toolmaking skill acquisition in non-industrial societies, this p
 knitr::include_graphics(here::here("figure/Map.pdf"))
 ```
 
-Variables
+## Coding scheme
 
-*Important Note: "NA" is used in all variables when there is not enough information to make the relevant inference, which is different from absence.* Using the eHRAF database, I employed a dual-system recording approach with multiple variables. Specifically, I first documented the descriptions provided by ethnographers and then categorized the information in a separate column for further analysis.
+In the ethnographic coding, the acquisition of a specific toolmaking skill (e.g., clothes making) documented in one culture is regarded as an instance (i.e., a single row in the spreadsheet), which can be compiled based on multiple sources by different authors. To ensure the reliability of coding results,the whole appendix was coded twice by the author until all discrepancies were resolved. The author employed a dual-system recording approach with some key variables. Specifically, the author first documented the descriptions provided by ethnographers and then categorized the information in a separate column for quantitative analysis. It should be noted that "NA" is used in all variables when there is not enough information to make the relevant inference, which is different from absence of the trait of interest. The following is a complete description of the coding scheme used in this project.
 
-1.  **Area**: using eHRAF's classification system
+1.  **Area**: This variable follows eHRAF's classification system.
 
-2.  **Society**: using eHRAF's classification system
+2.  **Society**: This variable follows eHRAF's classification system.
 
-3.  **OWC Code**: The Outline of World Cultures (OWC) is a classification system of the cultures of the world, which is used by eHRAF to organize its databases.
+3.  **OWC Code**: The Outline of World Cultures (OWC) is a classification system of the cultures of the world, which is used by eHRAF to organize its databases. It is used here as a unique identifier to merge the geographic coordinate data from D-PLACE for the purpose of mapping.
 
 4.  **Subsistence**: This variable follows eHRAF's classification system, including Hunter-gatherer, primarily hunter-gatherer, horticulturalist, agro-pastarolist, intensive agriculturalist, other subsistence combinations. The category of commercial economy is excluded.
 
@@ -68,7 +69,7 @@ Variables
 
 6.  **Location**: The location where the learning event happens according to the ethnographer's description.
 
-7.  **Location (type)**: [1) *indoor*]{.underline}*:* learning happens inside a building; [2) *outdoor settlement*]{.underline}*:* learning happens inside the settlement but outside the buildings; [3) *outdoor field*]{.underline}: learning happens outside the settlement
+7.  **Location (type)**: [1) *indoor*]{.underline}*:* learning happens inside a building; [2) *outdoor*]{.underline}*:* learning happens outside the buildings.
 
 8.  **Age of learner**: The learner's age according to the ethnographer's description.
 
@@ -88,21 +89,25 @@ Variables
 
 16. **Transmission bias**: This category follows the framework developed by Kendal at al. (2018). [1) *kin-based bias*]{.underline}: learning a cultural trait from people who are your kin members, [2) *success-based bias*]{.underline}: learning a cultural trait from people because they are successful in this technology, [3) *prestige-based bias*]{.underline}: learning a cultural trait from people because of their high social status; [4) *conformist bias*]{.underline}: learning a specific type of knowledge from other people because it is displayed by the majority of local population; [5) *mixed*]{.underline}: different transmission biases occurred together in the learning process of a given technology.
 
-17. **Learning processes**: [1) *individual learning*]{.underline}: Individual exhibits repeated attempts to learn a skill or develop new skills or knowledge on his or her own, including trial and error and individual practice; [2) *observational learning*]{.underline}: learner directly observes the actions of models and attempts to replicate the observed actions, and no direct interaction between the model and learner is observed or mentioned; [3) *interactive learning*]{.underline}: this category features the verbal, gestural and bodily interactions between models and learners, be it formal ("teaching") or informal ("group play"). It should be noted that these three categories are not mutually exclusive. On the contrary, these three categories are inclusive of each other , where interactive learning is built on both observation and individual practice, and observational learning involves individual practice.
+17. **Learning process**: The learning process according to the ethnographer's description, such as "teach", "imitate", "observe", etc.
 
-18. **Time spent**: The time spent on learning according to the ethnographer's description.
+18. **Learning process type**: [1) *individual learning*]{.underline}: Individual exhibits repeated attempts to learn a skill or develop new skills or knowledge on his or her own, including trial and error and individual practice; [2) *observational learning*]{.underline}: learner directly observes the actions of models and attempts to replicate the observed actions, and no direct interaction between the model and learner is observed or mentioned; [3) *interactive learning*]{.underline}: this category features the verbal, gestural and bodily interactions between models and learners, be it formal ("teaching") or informal ("group play"). It should be noted that these three categories are not mutually exclusive. On the contrary, these three categories are inclusive of each other , where interactive learning is built on both observation and individual practice, and observational learning involves individual practice.
 
-19. **Time spent (type)**: [1) *one-shot learning*]{.underline}: the learners only need to learn once to acquire a given technology. [2) *repeated learning*]{.underline}: the learners need to multiple time, including individual trial-and-error learning and practice, to acquire a given technology.
+19. **Time spent**: The time spent on learning according to the ethnographer's description.
 
 20. **Technology**: The subject of learning according to the ethnographer's description.
 
-21. **Raw material**: stone, clay, plant, bones, etc.
+21. **Technology type**: The types of technology were determined post hoc from collected ethnographic texts based on their frequency, including agriculture equipment making, bag making, basket making, boat making, clothes making, fishing devices making, general toolmaking, hammock making
+horse harnesses making, mat making, metal working, miscellaneous, musical instrument making, net making, ornament making, pottery making, raw material processing, ritual item making, rope making, stone working, toy making, trap making, vehicles making, vessel making, weapon making, weaving, woodworking. These categories are not mutually exclusive, and some categories are single out either because of cultural significance or the lack of relevant information. For example, weaving is a commonly documented skill that can be used in the manufacture of clothes, bag, basket, hammock, mat, etc, but it has its own category because no other contextual information is available to differentiate between them. Miscellaneous is used when the frequency of a specific toolmaking skill is lower than three. General toolmaking is an umbrella terms for phrasing like "utensils" or "tools" in the original text.
 
-22. **Restriction of status involved**: The restriction on the social status involved in the learning according to the ethnographer's description. For example, gender, wealth, religious status.
+21. **Raw material**: The raw materials were also determined post hoc from collected ethnographic texts based on their frequency, including stone, clay, plant fiber, wood, bones, leather, composite, etc.
 
-23. **Note** (habit, context, difficulty perceived by local people and ethnographers, access to raw material)
+22. **Note**: This records interesting information that is not systematically documented in other variables, such as the difficulty of a skill as perceived by local people and ethnographers, access to raw material, and the restriction on the social status involved in the learning such as gender, wealth, religious status, etc.
 
-24. **Reference**
+23. **Reference**: This provides the relevant references, which can be linked to the relevant paragraph in the appendix.
+
+## Statistical analysis and visualization
+
 
 # Results
 
@@ -114,14 +119,14 @@ What: three most frequent types (**Figure** \@ref(fig:what))
 knitr::include_graphics(here::here("figure/what.png"))
 ```
 
-
 who: As you can see for the pattern is consistent for both the overall picture (**Figure** \@ref(fig:who)) and clothes making technology per se, vertical is the dominant pattern, vertical/oblique is the second most common one, you learn from both your parents and grandparents and uncles/aunts here, and very rarely unrelated adult. And the third is purely oblique. Horizontal is not that important here, which may suggest peer play activities are not particularly important in the domain of toolmaking, compared with knowledge like gender norms.
 
 ```{r who, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Transmission modes of toolmaking skills documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/transmodes.png"))
+knitr::include_graphics(here::here("figure/who.png"))
 ```
 
 where: indoor is more common compared with outdoor (**Figure** \@ref(fig:where))
+
 ```{r where, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Location of toolmaking skill acquisition documented in ethnographic texts."}
 knitr::include_graphics(here::here("figure/where.png"))
 ```
@@ -129,18 +134,19 @@ knitr::include_graphics(here::here("figure/where.png"))
 when: As for when they started to learn, the results are also consistent across the big picture and clothes making (**Figure** \@ref(fig:when)). The majority started learning in middle childhood, a critical period in developmental psychology, when many key cognitive abilities were established.
 
 ```{r when, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Developmental contexts of toolmaking skill acquisition documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/learnerage.png"))
+knitr::include_graphics(here::here("figure/when.png"))
 ```
 
 how: learning processes It can of confirmed the observer’s bias here, but I try to overcome it using this coding scheme (**Figure** \@ref(fig:how)).
 
 ```{r how, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Learning processes of toolmaking skill acquisition documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/Learning processes.png"))
+knitr::include_graphics(here::here("figure/how.png"))
 ```
 
 why: regarding why they choose a specific model, or transmission biases. Kin-based is the most common reason, mixed, meaning multiple sources based on different reasons, and athen success/prestige based. Familarity mostly mean learning from playmate in my coding scheme. one finding I would like to highlight here is that kin-based bias is the dominant transmission bias. This is interesting because traditionally the field of cultural evolutionary model focuses mainly on success/prestige bias or conformist bias, like copying the majority,. My intuition is that these types of biases may be more common in other cultural domains like belief or ascetic preferences, while Toolmaking usually is a long-term learning process that featuring more intimate social relationship. (**Figure** \@ref(fig:why))
+
 ```{r why, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Transmission biases of toolmaking skill acquisition documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/transbias12.png"))
+knitr::include_graphics(here::here("figure/why.png"))
 ```
 
 # Qualitative insights
@@ -179,11 +185,15 @@ Two potential reasons behind it: 1) the role of talent (Nuba, Bemba, Yukaghir, M
 
 ## Causal knowledge in the craftsmanship
 
+This is kind of related to a central debate in the anthropology of childhood. That is does teaching exist in hunter-gatherer societies. Starting from Margret mead to more recently David lancy, a opnion is that hunter-gather do not teach their children. At the other side of the camp are hewletts and his student and many other animal ethologist, who belived teaching does exist among hunter-gatherers and event started as early as infancy period. This is because they adoped different version of definition of teaching. For mead and lancy, teaching means somethings happened in modern western society with a typical classroom seting and many analytical elements. I personally like the broader definition of teaching, but I do agree with Mead and Lancy in the sense that causal knowledge are rarely explicty taught in hunter-gather scoieteis and all other non-industrial societies. And this has been recently brought up by Harris et al by ask Hadza skilled hunter to identify the causal relationship between specific bow design and their performance. Their performance is not very good. They vaguely know what kinds of shape of bow would be more effective in hunting, but this holistic and technical know is hard for them to tease out. It is also commonly mentioned in many paragarphs I wrote.
+
 Kaska [@honigmann1949: 185-186]
 
 > "Education. Most education for living is received by the child in the course of performing routine activities. Such education is unformalized and undirected... Sometimes generalized instructions are furnished to children who, in carrying these out, often become confused. Thus we observed one fourteen year old girl make tea by putting the leaves into cold water. Nobody referred to the muddy quality of the beverage. The same kind of teaching was used with the ethnographer. Activities were illustrated but never explained in detail, the exposition of principles being ignored."
 
 ## Co-production as a pedagogy
+
+Instead of providing explicitly step-by-step causal knowledge-oriented teaching, a common way of transmissting a toolmaking skill is that experienced model co-produce an object with novice. When novice made mistake, the experienced model take it back and correct the mistake and then return to the novice again for them to finish. Next I will show you two examples, one from Africa and one from asia.
 
 Kpelle, [@lancy1975: 151]
 
@@ -195,11 +205,15 @@ Garo [@burling1963: 116]
 
 Imamura and Akiyama [-@imamura2016]: San foragers older children teach tool manufacture skills to younger children through both example and correction.
 
+## Task-dependent learning locations
+
+Zapotec [@cook1968: 189-191]
+
+> "The task of the present section is to ascertain the function of kinship in the process of metatero enculturation in the Teitipac villages. In San Sebastian the finishing tasks in metate and mano production are taught in the residence lot; all preliminary and intermediate production tasks are taught and learned on location in the quarries. In San Juan, on the other hand, where the quarries are close to the village and more accessible than those in San Sebastian, metate size blocks of stone (trozos) are often carted from the quarry to the metatero’s residence lot in the village. Thus, the residence lot is, in many instances, the San Juan metatero’s workshop."
+
 ## Skill training: A byproduct of socialization
 
-Tzeltal [@nash1970: 321]
-
-> "Learning agricultural tasks and pottery-making in the household is part of adjusting to membership in the community. Parents are responsible for teaching the value of industriousness and are held accountable throughout the life of the child. Agricultural tasks are scheduled in a yearly cycle that provides sufficient flexibility for a man to carry out community and familial ceremonial responsibilities."
+The last theme I would like to touch upon here is the why question, and it is a one I had not thought about before actually reading ethnographies, which is a recurring narrative that toolmaking skill acquisiton has been constantly described as a means of social norm regulation and community integration. And it has often been said that this is the more important goal of teaching toolmaking skills as compared with the mundane subsistence related task. Let’s see an example here in Tzetal
 
 Tzeltal [@nash1970: 321]
 

@@ -243,9 +243,9 @@ ggplot(data=tlearn_grouped, aes(x=reorder(Technology_cat,-Freq), y=Freq)) +
   labs(x="Toolmaking skills", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
     label=tlearn_grouped$Freq,
-    hjust = 1.1, colour = "red",
+    hjust = -0.1, colour = "red",
   )
-ggplot2::ggsave("./Figure/what.png", width = 20, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/what.png", width = 22, height = 20, units = "cm", dpi = 600)
 
 ## where question
 tlearn_grouped <- table(toollearning$Location.type., useNA = "always")
@@ -256,11 +256,61 @@ ggplot(data=tlearn_grouped, aes(x=reorder(Location.type.,-Freq), y=Freq)) +
   labs(x="Types of location", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
     label=tlearn_grouped$Freq,
-    hjust = 1.1, colour = "red",
+    hjust = -0.1, colour = "red",
   )
-ggplot2::ggsave("./Figure/where.png", width = 20, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/where.png", width = 22, height = 20, units = "cm", dpi = 600)
 
-##
+## why question (transmission bias)
+tlearn_grouped <- table(toollearning$Transmission.bias_cat, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.bias_cat = Var1) %>% dplyr::arrange(Freq)
+ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.bias_cat,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Transmission bias", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )+scale_y_continuous(limits = c(0,300))
+ggplot2::ggsave("./Figure/why.png", width = 22, height = 20, units = "cm", dpi = 600)
+
+## how question (learning process)
+tlearn_grouped <- table(toollearning$Learning.process_cat, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Learning.process_cat = Var1) %>% dplyr::arrange(Freq)
+ggplot(data=tlearn_grouped, aes(x=reorder(Learning.process_cat,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Learning process", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )
+ggplot2::ggsave("./Figure/how.png", width = 22, height = 20, units = "cm", dpi = 600)
+
+## when question (age group)
+tlearn_grouped <- table(toollearning$Age.group.of.learner, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Age.group.of.learner = Var1) %>% dplyr::arrange(Freq)
+ggplot(data=tlearn_grouped, aes(x=reorder(Age.group.of.learner,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Learners' age group", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )+scale_y_continuous(limits = c(0,300))
+ggplot2::ggsave("./Figure/when.png", width = 22, height = 20, units = "cm", dpi = 600)
+
+## who question (transmission mode)
+tlearn_grouped <- table(toollearning$Transmission.modes_cat, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.modes_cat = Var1) %>% dplyr::arrange(Freq)
+ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Transmission mode", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )+scale_y_continuous(limits = c(0,170))
+ggplot2::ggsave("./Figure/who.png", width = 22, height = 20, units = "cm", dpi = 600)
 
 
 tlearn_grouped <- table(toollearning$Transmission.bias_cat,useNA = "always")
