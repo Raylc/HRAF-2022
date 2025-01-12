@@ -1,7 +1,10 @@
 # 0. preparation
 ## load the required packages
 library(tidyverse)
-library(maps) 
+library(maps)
+library(treemapify)
+library(patchwork)
+
 ## Specify URL where file is stored
 url1 <- "https://raw.githubusercontent.com/D-PLACE/dplace-data/master/datasets/EA/societies.csv
 "
@@ -251,14 +254,46 @@ ggplot2::ggsave("./Figure/what.png", width = 22, height = 20, units = "cm", dpi 
 tlearn_grouped <- table(toollearning$Location.type., useNA = "always")
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Location.type. = Var1) %>% dplyr::arrange(Freq)
-ggplot(data=tlearn_grouped, aes(x=reorder(Location.type.,-Freq), y=Freq)) +
+where1<-ggplot(data=tlearn_grouped, aes(x=reorder(Location.type.,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
   labs(x="Types of location", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
     label=tlearn_grouped$Freq,
     hjust = -0.1, colour = "red",
   )
-ggplot2::ggsave("./Figure/where.png", width = 22, height = 20, units = "cm", dpi = 600)
+## treemap making
+# ggplot2::ggsave("./Figure/where.png", width = 22, height = 20, units = "cm", dpi = 600)
+##
+
+tmap<-toollearning %>%  select(Location.type., Technology_cat) %>%  drop_na()
+tmap1<- tmap %>% group_by(Location.type.,Technology_cat) %>% summarise(N=n())
+# treemap(tmap1,
+#         index=c("Location.type.","Technology_cat"),
+#         vSize="N",
+#         vColor = "Location.type.",
+#         type = "categorical",
+#         # formatting options:
+#         palette = brewer.pal(n = 5, name = "Accent"),
+#         align.labels=list(
+#           c("left", "top"), 
+#           c("right", "bottom")
+#         ),     
+#         border.col = "white",
+#         bg.labels = 2,
+#         position.legend = "none")
+where2<-ggplot(tmap1, aes(area = N, fill = Location.type.,
+               label = paste0(Technology_cat,'\n',N), subgroup = Location.type.)) +
+  geom_treemap() +
+  geom_treemap_subgroup_border(colour = "white", size = 5) +
+  geom_treemap_subgroup_text(place = "centre", grow = TRUE,
+                             alpha = 0.25, colour = "black",
+                             fontface = "italic") +
+  geom_treemap_text(colour = "black",
+                    min.size = 3, grow = TRUE)+
+  scale_fill_discrete(name = "Location")
+patchwork <- (where1 + where2)
+patchwork + plot_annotation(tag_levels = 'A')
+ggplot2::ggsave("./Figure/where.png", width = 44, height = 20, units = "cm", dpi = 600)
 
 ## why question (transmission bias)
 tlearn_grouped <- table(toollearning$Transmission.bias_cat, useNA = "always")
