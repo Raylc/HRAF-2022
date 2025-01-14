@@ -241,14 +241,27 @@ toollearning <- read.csv("./Data/craft learning.csv")
 tlearn_grouped <- table(toollearning$Technology_cat)
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Technology_cat = Var1) %>% dplyr::arrange(Freq)
-ggplot(data=tlearn_grouped, aes(x=reorder(Technology_cat,-Freq), y=Freq)) +
+what1<-ggplot(data=tlearn_grouped, aes(x=reorder(Technology_cat,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
   labs(x="Toolmaking skills", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
     label=tlearn_grouped$Freq,
     hjust = -0.1, colour = "red",
   )
-ggplot2::ggsave("./Figure/what.png", width = 22, height = 20, units = "cm", dpi = 600)
+
+tlearn_grouped <- table(toollearning$Raw.material, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Raw.material = Var1) %>% dplyr::arrange(Freq)
+what2<-ggplot(data=tlearn_grouped, aes(x=reorder(Raw.material,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Types of raw material", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )+scale_y_continuous(limits = c(0,200))
+patchwork <- (what1 + what2)
+patchwork + plot_annotation(tag_levels = 'A')
+ggplot2::ggsave("./Figure/what.png", width = 44, height = 20, units = "cm", dpi = 600)
 
 ## where question
 tlearn_grouped <- table(toollearning$Location.type., useNA = "always")
@@ -347,7 +360,29 @@ ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)
   )+scale_y_continuous(limits = c(0,170))
 ggplot2::ggsave("./Figure/who.png", width = 22, height = 20, units = "cm", dpi = 600)
 
+##########################
+## missing pattern analysis
+library(naniar)
 
+toollearning <- read.csv("./Data/craft learning.csv")
+toollearning <- toollearning %>% select(!c(Area, OWC_Code, Note, Reference, Location, Age.of.learner, Age.of.model, Technology))
+
+# Visualize missing data patterns
+naniar::vis_miss(toollearning)
+ggplot2::ggsave("./Figure/missing.png", width = 22, height = 20, units = "cm", dpi = 600)
+
+library(VIM)
+
+# Aggregated missing value plot
+VIM::aggr(toollearning, numbers = TRUE, sortVars = TRUE, cex.axis = 0.7, gap = 3)
+
+
+# Perform Little's MCAR test
+naniar::mcar_test(toollearning)
+missCompare::miss_var_correlation(toollearning)
+
+
+##########################
 tlearn_grouped <- table(toollearning$Transmission.bias_cat,useNA = "always")
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission_bias = Var1)

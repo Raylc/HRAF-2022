@@ -12,12 +12,12 @@
 \contentsline {subsubsection}{\numberline {3.1.5}How}{16}{subsubsection.3.1.5}%
 \contentsline {subsubsection}{\numberline {3.1.6}Why}{17}{subsubsection.3.1.6}%
 \contentsline {section}{\numberline {4}Qualitative insights}{19}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Protracted and staged learning trajectories}{19}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}The distribution of expertise}{21}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Causal knowledge in the craftsmanship}{22}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Alternative pedagogies: Co-production and miniature model}{26}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Task-dependent learning locations}{28}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Skill training for the community integration}{29}{subsection.4.6}%
-\contentsline {section}{\numberline {5}Conclusion}{30}{section.5}%
-\contentsline {section}{\numberline {6}Acknowledgement}{31}{section.6}%
-\contentsline {section}{References}{31}{section*.9}%
+\contentsline {subsection}{\numberline {4.1}Protracted and staged learning trajectories}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The distribution of expertise}{22}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Teaching and causal knowledge in the craftsmanship}{23}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Alternative pedagogies: Co-production and miniature model}{25}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Task-dependent learning locations}{26}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Skill training for the community integration}{27}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Conclusion}{28}{section.5}%
+\contentsline {section}{\numberline {6}Acknowledgement}{29}{section.6}%
+\contentsline {section}{References}{29}{section*.9}%
