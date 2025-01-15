@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  14 JAN 2025 03:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 00:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -574,21 +574,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [4]
 
 [5]
-<../Figure/Map.pdf, id=136, 1084.05pt x 722.7pt>
+<../Figure/Map.pdf, id=139, 1084.05pt x 722.7pt>
 File: ../Figure/Map.pdf Graphic file (type pdf)
 <use ../Figure/Map.pdf>
-Package pdftex.def Info: ../Figure/Map.pdf  used on input line 172.
+Package pdftex.def Info: ../Figure/Map.pdf  used on input line 176.
 (pdftex.def)             Requested size: 469.75496pt x 313.16995pt.
 
 
 [6 <../Figure/Map.pdf>]
-Underfull \hbox (badness 1281) in paragraph at lines 194--196
-[]\T1/put/b/n/10.95 Subsistence\T1/put/m/n/10.95 : This vari-able fol-lows eHRAF's clas-si-fi-ca-tion sys-tem, in-clud-ing Hunter-
- []
-
-
-Underfull \hbox (badness 2318) in paragraph at lines 194--196
-\T1/put/m/n/10.95 gatherer, pri-mar-ily hunter-gatherer, hor-ti-cul-tur-al-ist, agro-pastarolist, in-ten-sive agri-
+Underfull \hbox (badness 1509) in paragraph at lines 198--200
+[]\T1/put/b/n/10.95 Subsistence\T1/put/m/n/10.95 : This vari-able fol-lows eHRAF's clas-si-fi-ca-tion sys-tem, in-clud-ing hunter-
  []
 
 
@@ -600,66 +595,78 @@ Underfull \hbox (badness 2318) in paragraph at lines 194--196
 [9]
 
 [10]
-<../Figure/what.png, id=198, 1251.83685pt x 569.0058pt>
+<../Figure/what.png, id=205, 1251.83685pt x 569.0058pt>
 File: ../Figure/what.png Graphic file (type png)
 <use ../Figure/what.png>
-Package pdftex.def Info: ../Figure/what.png  used on input line 251.
+Package pdftex.def Info: ../Figure/what.png  used on input line 257.
 (pdftex.def)             Requested size: 469.76239pt x 213.52425pt.
 
 
-[11 <../Figure/what.png>]
-<../Figure/who.png, id=220, 625.8582pt x 569.0058pt>
+[11]
+
+[12 <../Figure/what.png>]
+<../Figure/who.png, id=236, 625.8582pt x 569.0058pt>
 File: ../Figure/who.png Graphic file (type png)
 <use ../Figure/who.png>
-Package pdftex.def Info: ../Figure/who.png  used on input line 266.
+Package pdftex.def Info: ../Figure/who.png  used on input line 272.
 (pdftex.def)             Requested size: 469.75539pt x 427.08322pt.
 
 
-[12]
+[13]
 
-[13 <../Figure/who.png>]
-<../Figure/where.png, id=242, 1251.83685pt x 569.0058pt>
+[14 <../Figure/who.png>]
+<../Figure/where.png, id=260, 1251.83685pt x 569.0058pt>
 File: ../Figure/where.png Graphic file (type png)
 <use ../Figure/where.png>
-Package pdftex.def Info: ../Figure/where.png  used on input line 281.
+Package pdftex.def Info: ../Figure/where.png  used on input line 287.
 (pdftex.def)             Requested size: 469.76239pt x 213.52425pt.
 
 
-[14 <../Figure/where.png>]
-<../Figure/when.png, id=253, 625.8582pt x 569.0058pt>
+[15 <../Figure/where.png>]
+<../Figure/when.png, id=271, 625.8582pt x 569.0058pt>
 File: ../Figure/when.png Graphic file (type png)
 <use ../Figure/when.png>
-Package pdftex.def Info: ../Figure/when.png  used on input line 294.
+Package pdftex.def Info: ../Figure/when.png  used on input line 300.
 (pdftex.def)             Requested size: 469.75539pt x 427.08322pt.
 
 
-[15 <../Figure/when.png>]
-<../Figure/how.png, id=262, 625.8582pt x 569.0058pt>
+[16 <../Figure/when.png>]
+<../Figure/how.png, id=282, 625.8582pt x 569.0058pt>
 File: ../Figure/how.png Graphic file (type png)
 <use ../Figure/how.png>
-Package pdftex.def Info: ../Figure/how.png  used on input line 307.
+Package pdftex.def Info: ../Figure/how.png  used on input line 313.
 (pdftex.def)             Requested size: 469.75539pt x 427.08322pt.
 
 
-[16]
+[17]
 
-[17 <../Figure/how.png>]
-<../Figure/why.png, id=282, 625.8582pt x 569.0058pt>
+[18 <../Figure/how.png>]
+<../Figure/why.png, id=301, 625.8582pt x 569.0058pt>
 File: ../Figure/why.png Graphic file (type png)
 <use ../Figure/why.png>
-Package pdftex.def Info: ../Figure/why.png  used on input line 320.
+Package pdftex.def Info: ../Figure/why.png  used on input line 326.
 (pdftex.def)             Requested size: 469.75539pt x 427.08322pt.
 
 
-[18]
+[19]
+<../Figure/missing.png, id=316, 625.8582pt x 569.0058pt>
+File: ../Figure/missing.png Graphic file (type png)
+<use ../Figure/missing.png>
+Package pdftex.def Info: ../Figure/missing.png  used on input line 339.
+(pdftex.def)             Requested size: 469.75539pt x 427.08322pt.
 
-[19 <../Figure/why.png>]
 
-[20]
+[20 <../Figure/why.png>]
+<../Figure/upset.png, id=324, 433.62pt x 361.35pt>
+File: ../Figure/upset.png Graphic file (type png)
+<use ../Figure/upset.png>
+Package pdftex.def Info: ../Figure/upset.png  used on input line 350.
+(pdftex.def)             Requested size: 433.61894pt x 361.34912pt.
 
-[21]
 
-[22]
+[21 <../Figure/missing.png>]
+
+[22 <../Figure/upset.png>]
 
 [23]
 
@@ -687,30 +694,36 @@ Package pdftex.def Info: ../Figure/why.png  used on input line 320.
 
 [35]
 
+[36]
+
+[37]
+
+[38]
+
 Package caption Warning: Unused \captionsetup[table] on input line 116.
 See the caption package documentation for explanation.
 
 
 
-[36] (./manuscript.aux)
+[39] (./manuscript.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14312 strings out of 475210
- 229753 string characters out of 5765417
- 667029 words of memory out of 5000000
- 36874 multiletter control sequences out of 15000+600000
+ 14353 strings out of 475210
+ 230656 string characters out of 5765417
+ 667648 words of memory out of 5000000
+ 36904 multiletter control sequences out of 15000+600000
  633143 words of font info for 77 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,81p,2976b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,81p,1992b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (36 pages, 3388773 bytes).
+Output written on manuscript.pdf (39 pages, 3840017 bytes).
 PDF statistics:
- 653 PDF objects out of 1000 (max. 8388607)
- 595 compressed objects within 6 object streams
- 178 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 716 PDF objects out of 1000 (max. 8388607)
+ 650 compressed objects within 7 object streams
+ 189 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 

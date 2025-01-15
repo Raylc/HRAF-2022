@@ -4,6 +4,7 @@ library(tidyverse)
 library(maps)
 library(treemapify)
 library(patchwork)
+library(naniar)
 
 ## Specify URL where file is stored
 url1 <- "https://raw.githubusercontent.com/D-PLACE/dplace-data/master/datasets/EA/societies.csv
@@ -368,14 +369,26 @@ toollearning <- read.csv("./Data/craft learning.csv")
 toollearning <- toollearning %>% select(!c(Area, OWC_Code, Note, Reference, Location, Age.of.learner, Age.of.model, Technology))
 
 # Visualize missing data patterns
-naniar::vis_miss(toollearning)
+miss1<-naniar::vis_miss(toollearning)+theme(axis.text.x = element_text(angle = 90, vjust = 0, hjust=1))
 ggplot2::ggsave("./Figure/missing.png", width = 22, height = 20, units = "cm", dpi = 600)
 
-library(VIM)
+# library(VIM)
+# 
+# # Aggregated missing value plot
+# VIM::aggr(toollearning, numbers = TRUE, sortVars = TRUE, cex.axis = 0.7, gap = 3)
+miss2<-gg_miss_upset(toollearning, nsets = 10)
+patchwork <- (miss1 + miss2)
+patchwork + plot_annotation(tag_levels = 'A')
+png("Figure/missing together.png", units="in", width=6, height=5, res=600)
+gg_miss_upset(toollearning, nsets = 10)
+dev.off()
 
-# Aggregated missing value plot
-VIM::aggr(toollearning, numbers = TRUE, sortVars = TRUE, cex.axis = 0.7, gap = 3)
-
+explanatory = c("Location.type.", "Age.group.of.learner", 
+                "nodes", "obstruct.factor")
+dependent = "Subsistence"
+colon_s %>% 
+  missing_compare(dependent, explanatory) %>% 
+  knitr::kable(row.names=FALSE, align = c("l", "l", "r", "r", "r"))
 
 # Perform Little's MCAR test
 naniar::mcar_test(toollearning)

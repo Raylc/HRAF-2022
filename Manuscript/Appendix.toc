@@ -173,21 +173,21 @@
 \contentsline {subsection}{\numberline {7.4}Polynesia}{241}{subsection.7.4}%
 \contentsline {subsubsection}{\numberline {7.4.1}Bau Fijians}{241}{subsubsection.7.4.1}%
 \contentsline {subsubsection}{\numberline {7.4.2}Hawaiians}{242}{subsubsection.7.4.2}%
-\contentsline {subsubsection}{\numberline {7.4.3}Maori}{243}{subsubsection.7.4.3}%
+\contentsline {subsubsection}{\numberline {7.4.3}Maori}{242}{subsubsection.7.4.3}%
 \contentsline {subsubsection}{\numberline {7.4.4}Marquesas}{247}{subsubsection.7.4.4}%
 \contentsline {subsubsection}{\numberline {7.4.5}Samoans}{247}{subsubsection.7.4.5}%
 \contentsline {subsubsection}{\numberline {7.4.6}Tikopia}{249}{subsubsection.7.4.6}%
-\contentsline {subsubsection}{\numberline {7.4.7}Tongans}{251}{subsubsection.7.4.7}%
+\contentsline {subsubsection}{\numberline {7.4.7}Tongans}{250}{subsubsection.7.4.7}%
 \contentsline {section}{\numberline {8}South America}{253}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Amazon and Orinoco}{253}{subsection.8.1}%
 \contentsline {subsubsection}{\numberline {8.1.1}Amahuaca}{253}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}Jivaro}{255}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.2}Jivaro}{254}{subsubsection.8.1.2}%
 \contentsline {subsubsection}{\numberline {8.1.3}Ndyuka}{255}{subsubsection.8.1.3}%
 \contentsline {subsubsection}{\numberline {8.1.4}Pumé}{256}{subsubsection.8.1.4}%
 \contentsline {subsubsection}{\numberline {8.1.5}Saramaka}{259}{subsubsection.8.1.5}%
 \contentsline {subsubsection}{\numberline {8.1.6}Shipibo}{260}{subsubsection.8.1.6}%
 \contentsline {subsubsection}{\numberline {8.1.7}Sirionó}{261}{subsubsection.8.1.7}%
-\contentsline {subsubsection}{\numberline {8.1.8}Tukano}{262}{subsubsection.8.1.8}%
+\contentsline {subsubsection}{\numberline {8.1.8}Tukano}{261}{subsubsection.8.1.8}%
 \contentsline {subsubsection}{\numberline {8.1.9}Warao}{265}{subsubsection.8.1.9}%
 \contentsline {subsection}{\numberline {8.2}Central Andes}{271}{subsection.8.2}%
 \contentsline {subsubsection}{\numberline {8.2.1}Aymara}{271}{subsubsection.8.2.1}%
@@ -201,7 +201,7 @@
 \contentsline {subsubsection}{\numberline {8.3.5}Xavante}{278}{subsubsection.8.3.5}%
 \contentsline {subsection}{\numberline {8.4}Northwestern South America}{279}{subsection.8.4}%
 \contentsline {subsubsection}{\numberline {8.4.1}Chachi}{279}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{281}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.2}Goajiro}{280}{subsubsection.8.4.2}%
 \contentsline {subsubsection}{\numberline {8.4.3}Kogi}{283}{subsubsection.8.4.3}%
 \contentsline {subsection}{\numberline {8.5}Southern South America}{286}{subsection.8.5}%
 \contentsline {subsubsection}{\numberline {8.5.1}Chorote}{286}{subsubsection.8.5.1}%
