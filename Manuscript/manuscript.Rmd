@@ -276,4 +276,11 @@ This project represents the most extensive compilation of its kind to date, offe
 
 However, the presence of substantial and systematically patterned missing data introduces important limitations, which is not uncommon for cross-cultural datasets. The analysis indicates that missing values are not randomly distributed but are likely missing at random (MAR) or missing not at random (MNAR). This non-random missingness necessitates caution in conducting further statistical analyses, as it may bias results if not properly addressed. Careful application of imputation methods and sensitivity analyses will be essential to ensure the robustness and reliability of future findings derived from this dataset. In the end, the author sees it as a stepping stone instead of a definitive text for a better understanding of the subject matter, which merely serves as a starting point for an open dialogue and a project to be collaborated with future researchers like the "Play Object Play" database [@riede2023].
 
+# Acknowledgment
+
+This work was assisted in part by skills learned at the 2022 NSF HRAF Summer Institute for Cross Cultural Anthropological Research (NSF BCS Grant #2020156 to HRAF). I would like to thank
+Carol Ember, Fiana Jordan, and Sean Roberts for their suggestions on the research design of this project. I am also grateful to Dietrich Stout and Craig Hadley for their constructive comments on an earlier draft of this article.
+
 # References
+
+
