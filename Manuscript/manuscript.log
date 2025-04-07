@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.3)  2 APR 2025 21:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.3)  6 APR 2025 03:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -577,7 +577,7 @@ Underfull \hbox (badness 1117) in paragraph at lines 148--149
 [3]
 
 [4]
-<../Figure/Map.pdf, id=126, 1084.05pt x 722.7pt>
+<../Figure/Map.pdf, id=130, 1084.05pt x 722.7pt>
 File: ../Figure/Map.pdf Graphic file (type pdf)
 <use ../Figure/Map.pdf>
 Package pdftex.def Info: ../Figure/Map.pdf  used on input line 174.
@@ -600,7 +600,7 @@ Underfull \hbox (badness 1509) in paragraph at lines 196--198
 [9]
 
 [10]
-<../Figure/what.png, id=202, 1251.83685pt x 569.0058pt>
+<../Figure/what.png, id=206, 1251.83685pt x 569.0058pt>
 File: ../Figure/what.png Graphic file (type png)
 <use ../Figure/what.png>
 Package pdftex.def Info: ../Figure/what.png  used on input line 255.
@@ -610,7 +610,7 @@ Package pdftex.def Info: ../Figure/what.png  used on input line 255.
 [11]
 
 [12 <../Figure/what.png>]
-<../Figure/who.png, id=234, 625.8582pt x 569.0058pt>
+<../Figure/who.png, id=238, 625.8582pt x 569.0058pt>
 File: ../Figure/who.png Graphic file (type png)
 <use ../Figure/who.png>
 Package pdftex.def Info: ../Figure/who.png  used on input line 270.
@@ -620,7 +620,7 @@ Package pdftex.def Info: ../Figure/who.png  used on input line 270.
 [13]
 
 [14 <../Figure/who.png>]
-<../Figure/where.png, id=262, 1251.83685pt x 569.0058pt>
+<../Figure/where.png, id=266, 1251.83685pt x 569.0058pt>
 File: ../Figure/where.png Graphic file (type png)
 <use ../Figure/where.png>
 Package pdftex.def Info: ../Figure/where.png  used on input line 285.
@@ -628,7 +628,7 @@ Package pdftex.def Info: ../Figure/where.png  used on input line 285.
 
 
 [15 <../Figure/where.png>]
-<../Figure/when.png, id=273, 625.8582pt x 569.0058pt>
+<../Figure/when.png, id=277, 625.8582pt x 569.0058pt>
 File: ../Figure/when.png Graphic file (type png)
 <use ../Figure/when.png>
 Package pdftex.def Info: ../Figure/when.png  used on input line 298.
@@ -636,7 +636,7 @@ Package pdftex.def Info: ../Figure/when.png  used on input line 298.
 
 
 [16 <../Figure/when.png>]
-<../Figure/how.png, id=284, 625.8582pt x 569.0058pt>
+<../Figure/how.png, id=288, 625.8582pt x 569.0058pt>
 File: ../Figure/how.png Graphic file (type png)
 <use ../Figure/how.png>
 Package pdftex.def Info: ../Figure/how.png  used on input line 311.
@@ -646,7 +646,7 @@ Package pdftex.def Info: ../Figure/how.png  used on input line 311.
 [17]
 
 [18 <../Figure/how.png>]
-<../Figure/why.png, id=309, 625.8582pt x 569.0058pt>
+<../Figure/why.png, id=313, 625.8582pt x 569.0058pt>
 File: ../Figure/why.png Graphic file (type png)
 <use ../Figure/why.png>
 Package pdftex.def Info: ../Figure/why.png  used on input line 326.
@@ -654,7 +654,7 @@ Package pdftex.def Info: ../Figure/why.png  used on input line 326.
 
 
 [19]
-<../Figure/missing.png, id=330, 625.8582pt x 569.0058pt>
+<../Figure/missing.png, id=334, 625.8582pt x 569.0058pt>
 File: ../Figure/missing.png Graphic file (type png)
 <use ../Figure/missing.png>
 Package pdftex.def Info: ../Figure/missing.png  used on input line 339.
@@ -662,7 +662,7 @@ Package pdftex.def Info: ../Figure/missing.png  used on input line 339.
 
 
 [20 <../Figure/why.png>]
-<../Figure/upset.png, id=338, 433.62pt x 361.35pt>
+<../Figure/upset.png, id=342, 433.62pt x 361.35pt>
 File: ../Figure/upset.png Graphic file (type png)
 <use ../Figure/upset.png>
 Package pdftex.def Info: ../Figure/upset.png  used on input line 350.
@@ -698,30 +698,34 @@ Package pdftex.def Info: ../Figure/upset.png  used on input line 350.
 [34]
 
 [35]
-Underfull \hbox (badness 5036) in paragraph at lines 614--615
+
+[36]
+Underfull \hbox (badness 5036) in paragraph at lines 631--632
 \T1/put/m/n/10.95 technical evo-lu-tion through the lens of an abstracted-wheel ex-per-i-ment: A crit-i-
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 614--615
+Underfull \hbox (badness 1975) in paragraph at lines 631--632
 \T1/put/m/n/10.95 cal look at a micro-society lab-o-ra-tory study. \T1/put/m/it/10.95 PLOS ONE\T1/put/m/n/10.95 , \T1/put/m/it/10.95 19\T1/put/m/n/10.95 (11), e0310503. [][]$https :
  []
 
 
-
-[36]
 
 [37]
 
 [38]
 
 [39]
-Underfull \hbox (badness 1622) in paragraph at lines 770--771
+
+[40]
+
+[41]
+Underfull \hbox (badness 1622) in paragraph at lines 799--800
 []\T1/put/m/n/10.95 Wilbert, J. (1977). Nav-i-ga-tors of the win-ter sun. In E. Ben-son (Ed.), \T1/put/m/it/10.95 Sea in the Pre-
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 770--771
+Underfull \hbox (badness 1097) in paragraph at lines 799--800
 \T1/put/m/n/10.95 46). Dum-b-ar-ton Oaks Re-search Li-brary; Col-lec-tions, Trustees for Har-vard Uni-ver-sity.
  []
 
@@ -731,25 +735,25 @@ See the caption package documentation for explanation.
 
 
 
-[40] (./manuscript.aux)
+[42] (./manuscript.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14374 strings out of 475172
- 231134 string characters out of 5764331
- 669050 words of memory out of 5000000
- 36953 multiletter control sequences out of 15000+600000
+ 14394 strings out of 475172
+ 231446 string characters out of 5764331
+ 669365 words of memory out of 5000000
+ 36963 multiletter control sequences out of 15000+600000
  633911 words of font info for 77 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,6n,81p,2760b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (40 pages, 3845778 bytes).
+Output written on manuscript.pdf (42 pages, 3851692 bytes).
 PDF statistics:
- 755 PDF objects out of 1000 (max. 8388607)
- 688 compressed objects within 7 object streams
- 199 named destinations out of 1000 (max. 500000)
- 174 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 791 PDF objects out of 1000 (max. 8388607)
+ 721 compressed objects within 8 object streams
+ 209 named destinations out of 1000 (max. 500000)
+ 190 words of extra memory for PDF output out of 10000 (max. 10000000)
 
