@@ -7,8 +7,7 @@ library(patchwork)
 library(naniar)
 
 ## Specify URL where file is stored
-url1 <- "https://raw.githubusercontent.com/D-PLACE/dplace-data/master/datasets/EA/societies.csv
-"
+url1 <- "https://raw.githubusercontent.com/D-PLACE/dplace-data/master/datasets/EA/societies.csv"
 # Specify destination where file should be saved
 destfile1 <- "./Data/EAsocieties.csv"
 # fetch the data set
@@ -234,9 +233,9 @@ dev.off()
 
 
 
-############## descriptive analysis plotting ######################
-
-toollearning <- read.csv("./Data/craft learning.csv")
+############## descriptive analysis and plotting ######################
+## create a subset for clay technologies
+toollearning_clay <- toollearning %>%filter(Raw.material=="Clay")
 
 ## what question
 tlearn_grouped <- table(toollearning$Technology_cat)
@@ -276,25 +275,8 @@ where1<-ggplot(data=tlearn_grouped, aes(x=reorder(Location.type.,-Freq), y=Freq)
     hjust = -0.1, colour = "red",
   )
 ## treemap making
-# ggplot2::ggsave("./Figure/where.png", width = 22, height = 20, units = "cm", dpi = 600)
-##
-
 tmap<-toollearning %>%  select(Location.type., Technology_cat) %>%  drop_na()
 tmap1<- tmap %>% group_by(Location.type.,Technology_cat) %>% summarise(N=n())
-# treemap(tmap1,
-#         index=c("Location.type.","Technology_cat"),
-#         vSize="N",
-#         vColor = "Location.type.",
-#         type = "categorical",
-#         # formatting options:
-#         palette = brewer.pal(n = 5, name = "Accent"),
-#         align.labels=list(
-#           c("left", "top"), 
-#           c("right", "bottom")
-#         ),     
-#         border.col = "white",
-#         bg.labels = 2,
-#         position.legend = "none")
 where2<-ggplot(tmap1, aes(area = N, fill = Location.type.,
                label = paste0(Technology_cat,'\n',N), subgroup = Location.type.)) +
   geom_treemap() +
@@ -313,53 +295,105 @@ ggplot2::ggsave("./Figure/where.png", width = 44, height = 20, units = "cm", dpi
 tlearn_grouped <- table(toollearning$Transmission.bias_cat, useNA = "always")
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.bias_cat = Var1) %>% dplyr::arrange(Freq)
-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.bias_cat,-Freq), y=Freq)) +
+why1<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.bias_cat,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Transmission bias", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  labs(x="Transmission bias", y = "Frequency(Overall)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
     label=tlearn_grouped$Freq,
     hjust = -0.1, colour = "red",
   )+scale_y_continuous(limits = c(0,300))
-ggplot2::ggsave("./Figure/why.png", width = 22, height = 20, units = "cm", dpi = 600)
+### Clay
+tlearn_grouped <- table(toollearning_clay$Transmission.bias_cat, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.bias_cat = Var1) %>% dplyr::arrange(Freq)
+why2<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.bias_cat,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Transmission bias", y = "Frequency(Clay)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )+scale_y_continuous(limits = c(0,30))
+patchwork <- (why1 + why2)
+patchwork + plot_annotation(tag_levels = 'A')
+ggplot2::ggsave("./Figure/why.png", width = 44, height = 20, units = "cm", dpi = 600)
 
 ## how question (learning process)
 tlearn_grouped <- table(toollearning$Learning.process_cat, useNA = "always")
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Learning.process_cat = Var1) %>% dplyr::arrange(Freq)
-ggplot(data=tlearn_grouped, aes(x=reorder(Learning.process_cat,-Freq), y=Freq)) +
+how1<-ggplot(data=tlearn_grouped, aes(x=reorder(Learning.process_cat,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Learning process", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  labs(x="Learning process", y = "Frequency(Overall)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
     label=tlearn_grouped$Freq,
     hjust = -0.1, colour = "red",
   )
-ggplot2::ggsave("./Figure/how.png", width = 22, height = 20, units = "cm", dpi = 600)
+### Clay
+tlearn_grouped <- table(toollearning_clay$Learning.process_cat, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Learning.process_cat = Var1) %>% dplyr::arrange(Freq)
+how2<-ggplot(data=tlearn_grouped, aes(x=reorder(Learning.process_cat,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Learning process", y = "Frequency(Clay)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )
+patchwork <- (how1 + how2)
+patchwork + plot_annotation(tag_levels = 'A')
+ggplot2::ggsave("./Figure/how.png", width = 44, height = 20, units = "cm", dpi = 600)
 
 ## when question (age group)
 tlearn_grouped <- table(toollearning$Age.group.of.learner, useNA = "always")
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Age.group.of.learner = Var1) %>% dplyr::arrange(Freq)
-ggplot(data=tlearn_grouped, aes(x=reorder(Age.group.of.learner,-Freq), y=Freq)) +
+when1<-ggplot(data=tlearn_grouped, aes(x=reorder(Age.group.of.learner,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Learners' age group", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  labs(x="Learners' age group", y = "Frequency(Overall)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
     label=tlearn_grouped$Freq,
     hjust = -0.1, colour = "red",
   )+scale_y_continuous(limits = c(0,300))
-ggplot2::ggsave("./Figure/when.png", width = 22, height = 20, units = "cm", dpi = 600)
+### clay
+tlearn_grouped <- table(toollearning_clay$Age.group.of.learner, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Age.group.of.learner = Var1) %>% dplyr::arrange(Freq)
+when2<-ggplot(data=tlearn_grouped, aes(x=reorder(Age.group.of.learner,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Learners' age group", y = "Frequency(Clay)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )+scale_y_continuous(limits = c(0,30))
+patchwork <- (when1 + when2)
+patchwork + plot_annotation(tag_levels = 'A')
+ggplot2::ggsave("./Figure/when.png", width = 44, height = 20, units = "cm", dpi = 600)
 
 ## who question (transmission mode)
 tlearn_grouped <- table(toollearning$Transmission.modes_cat, useNA = "always")
 tlearn_grouped <- as.data.frame(tlearn_grouped)
 tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.modes_cat = Var1) %>% dplyr::arrange(Freq)
-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
+who1<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Transmission mode", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  labs(x="Transmission mode", y = "Frequency(Overall)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
     label=tlearn_grouped$Freq,
     hjust = -0.1, colour = "red",
   )+scale_y_continuous(limits = c(0,170))
-ggplot2::ggsave("./Figure/who.png", width = 22, height = 20, units = "cm", dpi = 600)
+###clay
+tlearn_grouped <- table(toollearning_clay$Transmission.modes_cat, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.modes_cat = Var1) %>% dplyr::arrange(Freq)
+who2<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
+  geom_bar(stat="identity")+ coord_flip()+ 
+  labs(x="Transmission mode", y = "Frequency(Clay)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+  geom_text(
+    label=tlearn_grouped$Freq,
+    hjust = -0.1, colour = "red",
+  )+scale_y_continuous(limits = c(0,17))
+patchwork <- (who1 + who2)
+patchwork + plot_annotation(tag_levels = 'A')
+ggplot2::ggsave("./Figure/who.png", width = 44, height = 20, units = "cm", dpi = 600)
 
 ##########################
 ## missing pattern analysis
@@ -395,84 +429,55 @@ naniar::mcar_test(toollearning)
 missCompare::miss_var_correlation(toollearning)
 
 
-##########################
-tlearn_grouped <- table(toollearning$Transmission.bias_cat,useNA = "always")
-tlearn_grouped <- as.data.frame(tlearn_grouped)
-tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission_bias = Var1)
-
-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission_bias,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Transmission biases", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/transbias12.png", width = 20, height = 20, units = "cm", dpi = 600)
-
-tlearn_grouped1 <- table(toollearning$Transmission.modes_cat,useNA = "always")
-tlearn_grouped1 <- as.data.frame(tlearn_grouped1)
-
-ggplot(data=tlearn_grouped1, aes(x=reorder(Var1,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Transmission modes", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/transmodes.png", width = 20, height = 20, units = "cm",dpi = 600)
 
 
-tlearn_grouped2 <- table(toollearning$Age.group.of.learner,useNA = "always")
-tlearn_grouped2 <- as.data.frame(tlearn_grouped2)
+# 
+# toollearning_metal <- toollearning %>%filter(Raw.material=="Metal")
+## why for inorganic remains
 
-ggplot(data=tlearn_grouped2, aes(x=reorder(Var1,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Age group of learner", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/learnerage.png", width = 20, height = 20, units = "cm",dpi = 600)
+# tlearn_grouped <- table(toollearning_metal$Transmission.bias_cat, useNA = "always")
+# tlearn_grouped <- as.data.frame(tlearn_grouped)
+# tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.bias_cat = Var1) %>% dplyr::arrange(Freq)
+# why3<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.bias_cat,-Freq), y=Freq)) +
+#   geom_bar(stat="identity")+ coord_flip()+ 
+#   labs(x="Transmission bias", y = "Frequency(Metal)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+#   geom_text(
+#     label=tlearn_grouped$Freq,
+#     hjust = -0.1, colour = "red",
+#   )+scale_y_continuous(limits = c(0,30))
+## who for inorganic remains
 
-tlearn_grouped3 <- table(toollearning$Age.group.of.model,useNA = "always")
-tlearn_grouped3 <- as.data.frame(tlearn_grouped3)
+# tlearn_grouped <- table(toollearning_metal$Transmission.modes_cat, useNA = "always")
+# tlearn_grouped <- as.data.frame(tlearn_grouped)
+# tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.modes_cat = Var1) %>% dplyr::arrange(Freq)
+# who3<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
+#   geom_bar(stat="identity")+ coord_flip()+ 
+#   labs(x="Transmission mode", y = "Frequency(Metal)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+#   geom_text(
+#     label=tlearn_grouped$Freq,
+#     hjust = -0.1, colour = "red",
+#   )+scale_y_continuous(limits = c(0,170))
+## how for inorganic remains
 
-ggplot(data=tlearn_grouped3, aes(x=reorder(Var1,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Age group of model", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/modelage.png", dpi = 600)
+# tlearn_grouped <- table(toollearning_metal$Learning.process_cat, useNA = "always")
+# tlearn_grouped <- as.data.frame(tlearn_grouped)
+# tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Learning.process_cat = Var1) %>% dplyr::arrange(Freq)
+# how3<-ggplot(data=tlearn_grouped, aes(x=reorder(Learning.process_cat,-Freq), y=Freq)) +
+#   geom_bar(stat="identity")+ coord_flip()+ 
+#   labs(x="Learning process", y = "Frequency(Metal)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+#   geom_text(
+#     label=tlearn_grouped$Freq,
+#     hjust = -0.1, colour = "red",
+#   )
+## when for inorganic remains
 
-tlearn_grouped2 <- table(toollearning$Learning.process_cat,useNA = "always")
-tlearn_grouped2 <- as.data.frame(tlearn_grouped2)
-
-ggplot(data=tlearn_grouped2, aes(x=reorder(Var1,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Learning processes", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/Learning processes.png", width = 20, height = 20, units = "cm",dpi = 600)
-
-
-tlearn_grouped2 <- table(toollearning$Technology_cat,useNA = "always")
-tlearn_grouped2 <- as.data.frame(tlearn_grouped2)
-
-##########################
-clotheslearning <- subset(toollearning, toollearning$Technology_cat=='clothes making')
-
-tlearn_grouped <- table(clotheslearning$Transmission.bias_cat,useNA = "always")
-tlearn_grouped <- as.data.frame(tlearn_grouped)
-tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission_bias = Var1)
-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission_bias,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Transmission biases", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/clothtransbias1.png", width = 20, height = 20, units = "cm", dpi = 600)
-
-tlearn_grouped3 <- table(clotheslearning$Transmission.modes_cat,useNA = "always")
-tlearn_grouped3 <- as.data.frame(tlearn_grouped3)
-ggplot(data=tlearn_grouped3, aes(x=reorder(Var1,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Transmission modes", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/clothtransmodes.png", width = 20, height = 20, units = "cm",dpi = 600)
-
-
-tlearn_grouped2 <- table(clotheslearning$Age.group.of.learner,useNA = "always")
-tlearn_grouped2 <- as.data.frame(tlearn_grouped2)
-
-ggplot(data=tlearn_grouped2, aes(x=reorder(Var1,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Age group of learner", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/clothlearnerage.png", width = 20, height = 20, units = "cm",dpi = 600)
-
-tlearn_grouped2 <- table(clotheslearning$Learning.process_cat,useNA = "always")
-tlearn_grouped2 <- as.data.frame(tlearn_grouped2)
-
-ggplot(data=tlearn_grouped2, aes(x=reorder(Var1,-Freq), y=Freq)) +
-  geom_bar(stat="identity")+ coord_flip()+ 
-  labs(x="Learning processes", y = "Frequency")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))
-ggplot2::ggsave("./Figure/clothLearning processes.png", width = 20, height = 20, units = "cm",dpi = 600)
+# tlearn_grouped <- table(toollearning_metal$Age.group.of.learner, useNA = "always")
+# tlearn_grouped <- as.data.frame(tlearn_grouped)
+# tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Age.group.of.learner = Var1) %>% dplyr::arrange(Freq)
+# when3<-ggplot(data=tlearn_grouped, aes(x=reorder(Age.group.of.learner,-Freq), y=Freq)) +
+#   geom_bar(stat="identity")+ coord_flip()+ 
+#   labs(x="Learners' age group", y = "Frequency(Metal)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
+#   geom_text(
+#     label=tlearn_grouped$Freq,
+#     hjust = -0.1, colour = "red",
+#   )+scale_y_continuous(limits = c(0,300))
