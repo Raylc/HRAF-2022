@@ -1,6 +1,6 @@
 ---
-title: "Appendix: HRAF Ethnographic Sources"
-author: "Compiled by **Cheng Liu**"
+title: "Appendix: HRAF Ethnographic Sources^[Note: This appendix consists of direct quotations from ethnographic texts. All figures and tables cited within this appendix refer to those in the original sources, not to figures and tables in the main text of the article. The original formatting and citation systems have been preserved to maintain the integrity of the source materials.]"
+author: "Compiled by **xx**"
 date: "`r Sys.Date()`"
 fontsize: 11pt
 output: 
