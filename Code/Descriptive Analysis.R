@@ -261,7 +261,7 @@ what2<-ggplot(data=tlearn_grouped, aes(x=reorder(Raw.material,-Freq), y=Freq)) +
   )+scale_y_continuous(limits = c(0,200))
 patchwork <- (what1 + what2)
 patchwork + plot_annotation(tag_levels = 'A')
-ggplot2::ggsave("./Figure/what.png", width = 44, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/what.jpg", width = 44, height = 20, units = "cm", dpi = 300)
 
 ## where question
 tlearn_grouped <- table(toollearning$Location.type., useNA = "always")
@@ -289,7 +289,7 @@ where2<-ggplot(tmap1, aes(area = N, fill = Location.type.,
   scale_fill_discrete(name = "Location")
 patchwork <- (where1 + where2)
 patchwork + plot_annotation(tag_levels = 'A')
-ggplot2::ggsave("./Figure/where.png", width = 44, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/where.jpg", width = 44, height = 20, units = "cm", dpi = 300)
 
 ## why question (transmission bias)
 tlearn_grouped <- table(toollearning$Transmission.bias_cat, useNA = "always")
@@ -315,7 +315,7 @@ why2<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.bias_cat,-Freq), y=
   )+scale_y_continuous(limits = c(0,30))
 patchwork <- (why1 + why2)
 patchwork + plot_annotation(tag_levels = 'A')
-ggplot2::ggsave("./Figure/why.png", width = 44, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/why.jpg", width = 44, height = 20, units = "cm", dpi = 300)
 
 ## how question (learning process)
 tlearn_grouped <- table(toollearning$Learning.process_cat, useNA = "always")
@@ -341,7 +341,7 @@ how2<-ggplot(data=tlearn_grouped, aes(x=reorder(Learning.process_cat,-Freq), y=F
   )
 patchwork <- (how1 + how2)
 patchwork + plot_annotation(tag_levels = 'A')
-ggplot2::ggsave("./Figure/how.png", width = 44, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/how.jpg", width = 44, height = 20, units = "cm", dpi = 300)
 
 ## when question (age group)
 tlearn_grouped <- table(toollearning$Age.group.of.learner, useNA = "always")
@@ -367,13 +367,13 @@ when2<-ggplot(data=tlearn_grouped, aes(x=reorder(Age.group.of.learner,-Freq), y=
   )+scale_y_continuous(limits = c(0,30))
 patchwork <- (when1 + when2)
 patchwork + plot_annotation(tag_levels = 'A')
-ggplot2::ggsave("./Figure/when.png", width = 44, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/when.jpg", width = 44, height = 20, units = "cm", dpi = 300)
 
 ## who question (transmission mode)
-tlearn_grouped_who1 <- table(toollearning$Transmission.modes_cat, useNA = "always")
-tlearn_grouped_who1 <- as.data.frame(tlearn_grouped_who1)
-tlearn_grouped_who1 <- tlearn_grouped %>% dplyr::rename(Transmission.modes_cat = Var1) %>% dplyr::arrange(Freq)
-who1<-ggplot(data=tlearn_grouped_who1, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
+tlearn_grouped <- table(toollearning$Transmission.modes_cat, useNA = "always")
+tlearn_grouped <- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.modes_cat = Var1) %>% dplyr::arrange(Freq)
+who1<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
   labs(x="Transmission mode", y = "Frequency(Overall)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
@@ -381,10 +381,10 @@ who1<-ggplot(data=tlearn_grouped_who1, aes(x=reorder(Transmission.modes_cat,-Fre
     hjust = -0.1, colour = "red",
   )+scale_y_continuous(limits = c(0,170))
 ###clay
-tlearn_grouped_who2 <- table(toollearning_clay$Transmission.modes_cat, useNA = "always")
-tlearn_grouped_who2 <- as.data.frame(tlearn_grouped_who2)
-tlearn_grouped_who2 <- tlearn_grouped %>% dplyr::rename(Transmission.modes_cat = Var1) %>% dplyr::arrange(Freq)
-who2<-ggplot(data=tlearn_grouped_who2, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
+tlearn_grouped <- table(toollearning_clay$Transmission.modes_cat, useNA = "always")
+tlearn_grouped<- as.data.frame(tlearn_grouped)
+tlearn_grouped <- tlearn_grouped %>% dplyr::rename(Transmission.modes_cat = Var1) %>% dplyr::arrange(Freq)
+who2<-ggplot(data=tlearn_grouped, aes(x=reorder(Transmission.modes_cat,-Freq), y=Freq)) +
   geom_bar(stat="identity")+ coord_flip()+ 
   labs(x="Transmission mode", y = "Frequency(Clay)")+theme(axis.text=element_text(size=18), axis.title.x = element_text(size=20),axis.title.y = element_text(size=20))+
   geom_text(
@@ -393,27 +393,21 @@ who2<-ggplot(data=tlearn_grouped_who2, aes(x=reorder(Transmission.modes_cat,-Fre
   )+scale_y_continuous(limits = c(0,17))
 patchwork <- (who1 + who2)
 patchwork + plot_annotation(tag_levels = 'A')
-ggplot2::ggsave("./Figure/who.png", width = 44, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/who.jpg", width = 44, height = 20, units = "cm", dpi = 300)
 
 ##########################
 ## missing pattern analysis
-library(naniar)
 
-toollearning <- read.csv("./Data/craft learning.csv")
+
 toollearning <- toollearning %>% select(!c(Area, OWC_Code, Note, Reference, Location, Age.of.learner, Age.of.model, Technology))
 
 # Visualize missing data patterns
 miss1<-naniar::vis_miss(toollearning)+theme(axis.text.x = element_text(angle = 90, vjust = 0, hjust=1))
-ggplot2::ggsave("./Figure/missing.png", width = 22, height = 20, units = "cm", dpi = 600)
+ggplot2::ggsave("./Figure/missing.jpg", width = 22, height = 20, units = "cm", dpi = 300)
 
-# library(VIM)
-# 
-# # Aggregated missing value plot
-# VIM::aggr(toollearning, numbers = TRUE, sortVars = TRUE, cex.axis = 0.7, gap = 3)
+
 miss2<-gg_miss_upset(toollearning, nsets = 10)
-patchwork <- (miss1 + miss2)
-patchwork + plot_annotation(tag_levels = 'A')
-png("Figure/missing together.png", units="in", width=6, height=5, res=600)
+jpeg("Figure/missing together.jpg", units="in", width=6, height=5, res=300)
 gg_miss_upset(toollearning, nsets = 10)
 dev.off()
 
