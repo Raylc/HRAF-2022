@@ -407,7 +407,7 @@ ggplot2::ggsave("./Figure/missing.jpg", width = 22, height = 20, units = "cm", d
 
 
 miss2<-gg_miss_upset(toollearning, nsets = 10)
-jpeg("Figure/missing together.jpg", units="in", width=6, height=5, res=300)
+jpeg("Figure/upset.jpg", units="in", width=6, height=5, res=300)
 gg_miss_upset(toollearning, nsets = 10)
 dev.off()
 

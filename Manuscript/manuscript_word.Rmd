@@ -116,7 +116,7 @@ To assess the patterns of missing data, the author conducted a comprehensive mis
 If we reorganize the classification of toolmaking skills based on the raw materials involved, the results reveal a significant disparity in their distribution (**Figure** \@ref(fig:what)B). The majority of entries fall under the "NA" category (n = 182), indicating a substantial portion of missing data for this variable. Among the recorded materials, plant fiber (n = 157) and wood (n = 63) are the most frequently documented, suggesting their prevalent use or better preservation in the archaeological record. In contrast, materials such as clay (n = 39), metal (n = 17), leather (n = 16), stone (n = 7), composite (n = 4), and bone (n = 2) appear far less frequently. This uneven distribution could be a mixed result shaped by raw material accessibility and processing difficulty, potential cultural preferences in material use, as well as observational biases. Moreover, the prominence of clothing and basket-making technologies, alongside the frequent use of plant fiber and wood—materials prone to poor preservation—suggests that significant aspects of past material culture are underrepresented in the archaeological record. This highlights the importance of integrating ethnographic data to reconstruct technological practices that are archaeologically invisible, offering a more comprehensive understanding of past human behavior [@desmond2022; @langley2020; @gilligan2024].
 
 ```{r what, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="The frequency of toolmaking skills (A) as well as main raw materials involved (B) as documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/what.png"))
+knitr::include_graphics(here::here("figure/what.jpg"))
 ```
 
 ### Who
@@ -126,7 +126,7 @@ Here the author visualized the general distribution of different modes of cultur
 These results suggest a strong reliance on a kin-based learning pathway, particularly vertical transmission, for toolmaking skills in non-industrial societies. It provides strong empirical support of Derek and Morgan's [-@derex2023] recent claim regarding the importance of vertical channel in skill transmission when compared with knowledge transmission. Taking a closer look at the social relationship between models and learners (see Supplementary Table 1), the author also found that the majority of cases under the categories of oblique transmission involve grandparents, aunts, or uncles, who are also close kin members of the learner. This pattern may reflect the importance of familial and inter-generational knowledge transfer in maintaining craft traditions. Interestingly, the data show limited evidence for peer-to-peer (horizontal) transmission contrary to what has been reported by Lew-Levy and her colleagues [@lew-levy2023; @lew-levyWhoTeachesChildren2020a; @lew-levy2024]. It is possible that peer play activities or enculturation through interactions with older siblings falling into a similar age range are not that vital in the domain of toolmaking skills as compared with knowledge domains such as social and gender norms [@lew-levy2018], considering the fact that several skills either require many years' practice to master [@gurven2006; @bock2002; @kaplan2003] and/or a certain degree of physical strength and motor control that is only available during or after adolescence [@jones2002; @bird2002; @bliegebird2002]. On the other hand, the low frequency of peer-to-peer transmission in the data may not reflect its actual occurrence, but rather the limitations in how ethnographers recognized and recorded learning episodes among children [@hirschfeld_why_2002; @hirschfeld_enfant_1999; @sterelny_veiled_2021]. Many brief or informal peer learning interactions, particularly when they were practiced by minors, might have gone undocumented because they did not match Western concepts of teaching and learning, an observational bias that Hewlett and others have noted in ethnographic research [@hewlett2016; @boyette2017].
 
 ```{r who, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Transmission modes of toolmaking skills documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/who.png"))
+knitr::include_graphics(here::here("figure/who.jpg"))
 ```
 
 ### Where
@@ -136,7 +136,7 @@ As displayed in **Figure** \@ref(fig:where)A, the majority of ethnographic cases
 This pattern suggests that the physical setting of skill transmission is potentially tied to the nature of the craft. Activities involving fine, detailed work or those requiring specialized tools and materials are more often learned indoors, whereas tasks demanding larger spaces or environmental resources, such as boat or trap making, are typically learned outdoors. However, it is also possible that this distribution might simply reflect observers' biases given the size of unreported cases.
 
 ```{r where, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Location of toolmaking skill acquisition documented in ethnographic texts. A displays the frequency of learning locations. B is a treemap demonstrating the connections between craft categories and location locations."}
-knitr::include_graphics(here::here("figure/where.png"))
+knitr::include_graphics(here::here("figure/where.jpg"))
 ```
 
 ### When
@@ -146,7 +146,7 @@ The overall analysis of toolmaking skill learners' developmental contexts (**Fig
 Although the clay-related skills might be introduced somewhat earlier in development than the average across all technologies in the dataset, the general distribution suggests that the transmission of tool-making knowledge in non-industrial societies occurs primarily during middle childhood, a critical period in developmental psychology featuring multiple cognitive milestones such as advanced episodic memory [@ghetti2012], theory of mind [@osterhaus2021], and executive function [@wilson2018]. Again, the substantial number of unspecified age cases (NA) indicates potential limitations in the ethnographic documentation of age-specific learning processes.
 
 ```{r when, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Developmental contexts of toolmaking skill acquisition documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/when.png"))
+knitr::include_graphics(here::here("figure/when.jpg"))
 ```
 
 ### How
@@ -156,7 +156,7 @@ knitr::include_graphics(here::here("figure/when.png"))
 These results indicate that the transmission of tool-making knowledge in non-industrial societies relies heavily on social interaction, be it verbal or gestural, with observation serving as a secondary but significant learning method. The relatively low frequency of individual learning confirms the observer's bias towards social activities as opposed to following individuals as mentioned in the introduction, which by no means suggests that individual trial-and-error learning is not important in the acquisition of toolmaking skills. Rather, given the inclusive nature between the three categories in this coding scheme, this result suggests that practice is integral to the learning process but pure individual practice without social interaction is rarely documented.
 
 ```{r how, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Learning processes of toolmaking skill acquisition documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/how.png"))
+knitr::include_graphics(here::here("figure/how.jpg"))
 ```
 
 ### Why
@@ -166,7 +166,7 @@ The distribution of transmission bias (**Figure** \@ref(fig:why)A) agrees with t
 The high frequency of kin-based transmission in our data aligns with previous research on traditional skill acquisition such as the kin-based adze making system observed in West Papua [@stout2002; @perequin2020] as well as the Maya weaving apprenticeship across multiple generations in domestic settings [@greenfield2003; @maynard2024]. This finding is particularly interesting because traditionally the field of cultural evolutionary model focuses mainly on success/prestige bias or conformist bias (copying the majority), while kin-based bias remains understudied. A potential explanation is that success/prestige bias [@chudek2012; @jiménez2019; @chellappoo2021] or conformist bias [@henrich1998; @wakano2007; @mcguigan2012; @heinrichmora2025] may be more important in other cultural domains like the transmission of beliefs or ascetic preferences, while toolmaking usually is a long-term learning process that featuring more intimate social relationship. This pattern, combined with the argument made by Henrich [-@henrich2020] that kinship is central to everyone but the WEIRD population, suggested the much-needed empirical recalibration to cultural evolution modeling regarding the research priority of kin-based transmission bias.
 
 ```{r why, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Transmission biases of toolmaking skill acquisition documented in ethnographic texts."}
-knitr::include_graphics(here::here("figure/why.png"))
+knitr::include_graphics(here::here("figure/why.jpg"))
 ```
 
 ## Missing pattern analysis
@@ -174,13 +174,13 @@ knitr::include_graphics(here::here("figure/why.png"))
 The missing data heatmap (**Figure** \@ref(fig:missing)) visualizes the distribution of missing values across observations and variables. High proportions of missing data are evident in variables like Time spent (92%), Location type (87%), Number of learners (87%), Age group of learner (56%), and Number of models (40%). This was further verified by the result of Little's statistical test for missing completely at random (MCAR) data (*p* \< 0.001), suggesting this dataset is not missing completely at random.
 
 ```{r missing, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Missing data heatmap. Darker segments represent missing data, while lighter segments indicate available data."}
-knitr::include_graphics(here::here("figure/missing.png"))
+knitr::include_graphics(here::here("figure/missing.jpg"))
 ```
 
 The UpSet plot (**Figure** \@ref(fig:intersection)) further illustrates the extent and combinations of missing values among the variables. Notably, 79 observations feature missing data of the four variables with the highest percentage of missing values, including Time spent, number of learners, location type, and age group of learners. In 39 instances, it was found that nine out of ten variables with the highest percentage of missing values are co-missing, and similar patterns occur repeatedly in several intersecting groups. The clustering of missingness across specific variables suggests non-random patterns, possibly due to the varying research interests of the observers as well as the complexity of documenting certain social or learning contexts in the fieldwork.
 
 ```{r intersection, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="The UpSet plot displaying the co-occurrence of missing variables across observations. Ten variables with the highest percentage of missing values are visualized here."}
-knitr::include_graphics(here::here("figure/upset.png"))
+knitr::include_graphics(here::here("figure/upset.jpg"))
 ```
 
 # Qualitative insights
