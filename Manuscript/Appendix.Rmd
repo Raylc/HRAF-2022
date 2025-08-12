@@ -1,5 +1,5 @@
 ---
-title: "Appendix: HRAF Ethnographic Sources^[Note: This appendix consists of direct quotations from ethnographic texts. All figures and tables cited within this appendix refer to those in the original sources, not to figures and tables in the main text of the article. The original formatting and citation systems have been preserved to maintain the integrity of the source materials.]"
+title: "Appendix: HRAF Ethnographic Sources^[Note: This appendix consists of direct quotations from ethnographic texts. All figures and tables cited within this appendix refer to those in the original sources, not to figures and tables in the main text of the article. The original formatting and citation systems have been preserved to maintain the integrity of the source materials. Also, the bolded text was added by the compiler to indicate the specific information chunks used for ethnographic coding, with surrounding text retained to clarify their meaning in context.]"
 author: "Compiled by **xx**"
 date: "`r Sys.Date()`"
 fontsize: 11pt
