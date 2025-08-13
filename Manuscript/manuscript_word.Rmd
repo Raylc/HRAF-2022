@@ -153,7 +153,7 @@ knitr::include_graphics(here::here("figure/when.jpg"))
 
 **Figure** \@ref(fig:how)A presents the distribution of learning processes for toolmaking skills as follows. Interactive learning, which involves direct engagement between teacher and learner, was the most common method documented with 304 instances. Observational learning, where individuals learn by watching others without direct interaction, occurred in 62 cases. Individual learning, characterized by self-directed experimentation and practice, was recorded in 16 instances. In 104 cases, the specific learning process was not identified. The clay-specific analysis (**Figure** \@ref(fig:how)B) shows a proportional distribution that closely mirrors the overall pattern, with interactive learning strongly dominating (n=23) compared to observational learning (n=6) and individual learning (n=3).
 
-These results indicate that the transmission of tool-making knowledge in non-industrial societies relies heavily on social interaction, be it verbal or gestural, with observation serving as a secondary but significant learning method. The relatively low frequency of individual learning confirms the observer's bias towards social activities as opposed to following individuals as mentioned in the introduction, which by no means suggests that individual trial-and-error learning is not important in the acquisition of toolmaking skills. Rather, given the inclusive nature between the three categories in this coding scheme, this result suggests that practice is integral to the learning process but pure individual practice without social interaction is rarely documented.
+These results indicate that the transmission of tool-making knowledge in non-industrial societies relies heavily on social interaction, be it verbal or gestural, with observation serving as a secondary but significant learning method. The relatively low frequency of individual learning may reflect the observer's bias towards social activities as opposed to following individuals as mentioned in the introduction, which by no means suggests that individual trial-and-error learning is not important in the acquisition of toolmaking skills. Rather, given the inclusive nature between the three categories in this coding scheme, this result suggests that practice is integral to the learning process but pure individual practice without social interaction is rarely doc
 
 ```{r how, echo=FALSE, out.width = '100%', fig.align='center', fig.cap="Learning processes of toolmaking skill acquisition documented in ethnographic texts."}
 knitr::include_graphics(here::here("figure/how.jpg"))
@@ -267,7 +267,7 @@ Back to the six basic questions regarding toolmaking skill acquisition in non-in
 
 **What**: The two most frequent toolmaking skills are clothes making and basket making, documented in many non-industrial societies regarding subsistence strategies or geographical distribution. From the perspective of raw material exploitation, prevalent yet perishable materials like plant fiber and wood are the dominant categories.
 
-**Who**: People learn most toolmaking skills from their close kin members, particularly parents. Same-gender extended family members like grandparents and uncles/aunts are also heavily involved in this process.
+**Who**: People learn most toolmaking skills from their close kin members, particularly parents. Extended family members like grandparents and uncles/aunts are also heavily involved in this process.
 
 **When**: For many skills, they started the learning processes in middle childhood (6-12 years old), which can last for several years. The initiation ceremonies provide opportunities for a period of intensive training.
 
@@ -285,6 +285,6 @@ However, the presence of substantial and systematically patterned missing data i
 
 # Acknowledgment
 
-This work was assisted in part by skills learned at the 2022 NSF HRAF Summer Institute for Cross Cultural Anthropological Research (NSF BCS Grant #2020156 to HRAF). I would like to thank Carol Ember, Fiana Jordan, and Sean Roberts for their suggestions on the research design of this project. I am also grateful to Dietrich Stout, Craig Hadley, and Claudio Tennie for their constructive comments on an earlier draft of this article.
+This work was assisted in part by skills learned at the 2022 NSF HRAF Summer Institute for Cross Cultural Anthropological Research (NSF BCS Grant #2020156 to HRAF). I would like to thank Carol Ember, Fiona Jordan, and Sean Roberts for their suggestions on the research design of this project. I am also grateful to Dietrich Stout, Craig Hadley, and Claudio Tennie for their constructive comments on an earlier draft of this article.
 
 # References
