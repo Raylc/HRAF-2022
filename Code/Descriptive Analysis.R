@@ -281,9 +281,9 @@ where2<-ggplot(tmap1, aes(area = N, fill = Location.type.,
                label = paste0(Technology_cat,'\n',N), subgroup = Location.type.)) +
   geom_treemap() +
   geom_treemap_subgroup_border(colour = "white", size = 5) +
-  geom_treemap_subgroup_text(place = "centre", grow = TRUE,
-                             alpha = 0.25, colour = "black",
-                             fontface = "italic") +
+  # geom_treemap_subgroup_text(place = "centre", grow = TRUE,
+  #                            alpha = 0.25, colour = "black",
+  #                            fontface = "italic") +
   geom_treemap_text(colour = "black",
                     min.size = 3, grow = TRUE)+
   scale_fill_discrete(name = "Location")

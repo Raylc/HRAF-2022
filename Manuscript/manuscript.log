@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.3)  23 APR 2025 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.3)  16 AUG 2025 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -556,17 +556,17 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 139.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./manuscript.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 3.
-
-
-[1
-
-{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}])
+(Font)              <10.95> on input line 2.
+)
 \tf@toc=\write3
 \openout3 = `manuscript.toc'.
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 153--154
+
+[1
+
+{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+Underfull \hbox (badness 1117) in paragraph at lines 150--151
 \T1/put/m/n/10.95 re-la-tion-ship be-tween tool-mak-ing and bi-o-log-i-cal adap-ta-tion rep-re-sents a uniquely hu-man
  []
 
@@ -577,23 +577,33 @@ Underfull \hbox (badness 1117) in paragraph at lines 153--154
 [3]
 
 [4]
+Underfull \hbox (badness 3930) in paragraph at lines 172--173
+\T1/put/m/n/10.95 pro-duce/producing, man-u-fac-ture/manufacturing, cre-ate/creating, con-struct/constructing,
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 172--173
+\T1/put/m/n/10.95 as-sem-ble/assembling, fab-ri-cate/fabricating, shape/shaping, forge/forging, form/forming.
+ []
+
+
 
 [5]
-<../Figure/Map.pdf, id=143, 1084.05pt x 722.7pt>
+<../Figure/Map.pdf, id=142, 1084.05pt x 722.7pt>
 File: ../Figure/Map.pdf Graphic file (type pdf)
 <use ../Figure/Map.pdf>
-Package pdftex.def Info: ../Figure/Map.pdf  used on input line 182.
+Package pdftex.def Info: ../Figure/Map.pdf  used on input line 178.
 (pdftex.def)             Requested size: 469.75496pt x 313.16995pt.
 
 
-[6]
-
-[7 <../Figure/Map.pdf>]
-Underfull \hbox (badness 1509) in paragraph at lines 204--206
+[6 <../Figure/Map.pdf>]
+Underfull \hbox (badness 1509) in paragraph at lines 200--202
 []\T1/put/b/n/10.95 Subsistence\T1/put/m/n/10.95 : This vari-able fol-lows eHRAF's clas-si-fi-ca-tion sys-tem, in-clud-ing hunter-
  []
 
 
+
+[7]
 
 [8]
 
@@ -602,72 +612,72 @@ Underfull \hbox (badness 1509) in paragraph at lines 204--206
 [10]
 
 [11]
-<../Figure/what.jpg, id=218, 5215.485pt x 2370.8575pt>
-File: ../Figure/what.jpg Graphic file (type jpg)
-<use ../Figure/what.jpg>
-Package pdftex.def Info: ../Figure/what.jpg  used on input line 263.
-(pdftex.def)             Requested size: 469.69173pt x 213.51266pt.
-
 
 [12]
+<../Figure/what.jpg, id=240, 5215.485pt x 2370.8575pt>
+File: ../Figure/what.jpg Graphic file (type jpg)
+<use ../Figure/what.jpg>
+Package pdftex.def Info: ../Figure/what.jpg  used on input line 265.
+(pdftex.def)             Requested size: 469.69173pt x 213.51266pt.
+
 
 [13 <../Figure/what.jpg>]
-<../Figure/who.jpg, id=252, 5215.485pt x 2370.8575pt>
+<../Figure/who.jpg, id=270, 5215.485pt x 2370.8575pt>
 File: ../Figure/who.jpg Graphic file (type jpg)
 <use ../Figure/who.jpg>
-Package pdftex.def Info: ../Figure/who.jpg  used on input line 278.
+Package pdftex.def Info: ../Figure/who.jpg  used on input line 280.
 (pdftex.def)             Requested size: 469.69173pt x 213.51266pt.
 
 
-[14 <../Figure/who.jpg>]
-<../Figure/where.jpg, id=273, 5215.485pt x 2370.8575pt>
+[14]
+<../Figure/where.jpg, id=291, 5215.485pt x 2370.8575pt>
 File: ../Figure/where.jpg Graphic file (type jpg)
 <use ../Figure/where.jpg>
-Package pdftex.def Info: ../Figure/where.jpg  used on input line 293.
+Package pdftex.def Info: ../Figure/where.jpg  used on input line 295.
 (pdftex.def)             Requested size: 469.69173pt x 213.51266pt.
 
 
-[15 <../Figure/where.jpg>]
-<../Figure/when.jpg, id=285, 5215.485pt x 2370.8575pt>
+[15 <../Figure/who.jpg>]
+<../Figure/when.jpg, id=303, 5215.485pt x 2370.8575pt>
 File: ../Figure/when.jpg Graphic file (type jpg)
 <use ../Figure/when.jpg>
-Package pdftex.def Info: ../Figure/when.jpg  used on input line 308.
+Package pdftex.def Info: ../Figure/when.jpg  used on input line 310.
 (pdftex.def)             Requested size: 469.69173pt x 213.51266pt.
 
 
-[16 <../Figure/when.jpg>]
-<../Figure/how.jpg, id=299, 5215.485pt x 2370.8575pt>
+[16 <../Figure/where.jpg>]
+
+[17 <../Figure/when.jpg>]
+<../Figure/how.jpg, id=323, 5215.485pt x 2370.8575pt>
 File: ../Figure/how.jpg Graphic file (type jpg)
 <use ../Figure/how.jpg>
-Package pdftex.def Info: ../Figure/how.jpg  used on input line 323.
+Package pdftex.def Info: ../Figure/how.jpg  used on input line 325.
 (pdftex.def)             Requested size: 469.69173pt x 213.51266pt.
 
 
-[17 <../Figure/how.jpg>]
-<../Figure/why.jpg, id=320, 5215.485pt x 2370.8575pt>
+[18 <../Figure/how.jpg>]
+<../Figure/why.jpg, id=344, 5215.485pt x 2370.8575pt>
 File: ../Figure/why.jpg Graphic file (type jpg)
 <use ../Figure/why.jpg>
-Package pdftex.def Info: ../Figure/why.jpg  used on input line 338.
+Package pdftex.def Info: ../Figure/why.jpg  used on input line 340.
 (pdftex.def)             Requested size: 469.69173pt x 213.51266pt.
-
-
-[18]
-<../Figure/missing.jpg, id=342, 2607.7425pt x 2370.8575pt>
-File: ../Figure/missing.jpg Graphic file (type jpg)
-<use ../Figure/missing.jpg>
-Package pdftex.def Info: ../Figure/missing.jpg  used on input line 351.
-(pdftex.def)             Requested size: 469.73152pt x 427.06152pt.
 
 
 [19 <../Figure/why.jpg>]
-<../Figure/upset.jpg, id=350, 433.62pt x 361.35pt>
-File: ../Figure/upset.jpg Graphic file (type jpg)
-<use ../Figure/upset.jpg>
-Package pdftex.def Info: ../Figure/upset.jpg  used on input line 362.
-(pdftex.def)             Requested size: 433.61894pt x 361.34912pt.
+<../Figure/missing.jpg, id=366, 2607.7425pt x 2370.8575pt>
+File: ../Figure/missing.jpg Graphic file (type jpg)
+<use ../Figure/missing.jpg>
+Package pdftex.def Info: ../Figure/missing.jpg  used on input line 353.
+(pdftex.def)             Requested size: 469.73152pt x 427.06152pt.
 
 
 [20 <../Figure/missing.jpg>]
+<../Figure/upset.jpg, id=373, 433.62pt x 361.35pt>
+File: ../Figure/upset.jpg Graphic file (type jpg)
+<use ../Figure/upset.jpg>
+Package pdftex.def Info: ../Figure/upset.jpg  used on input line 364.
+(pdftex.def)             Requested size: 433.61894pt x 361.34912pt.
+
 
 [21 <../Figure/upset.jpg>]
 
@@ -700,12 +710,12 @@ Package pdftex.def Info: ../Figure/upset.jpg  used on input line 362.
 [35]
 
 [36]
-Underfull \hbox (badness 5036) in paragraph at lines 657--658
+Underfull \hbox (badness 5036) in paragraph at lines 662--663
 \T1/put/m/n/10.95 technical evo-lu-tion through the lens of an abstracted-wheel ex-per-i-ment: A crit-i-
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 657--658
+Underfull \hbox (badness 1975) in paragraph at lines 662--663
 \T1/put/m/n/10.95 cal look at a micro-society lab-o-ra-tory study. \T1/put/m/it/10.95 PLOS ONE\T1/put/m/n/10.95 , \T1/put/m/it/10.95 19\T1/put/m/n/10.95 (11), e0310503. [][]$https :
  []
 
@@ -714,46 +724,54 @@ Underfull \hbox (badness 1975) in paragraph at lines 657--658
 [37]
 
 [38]
+Overfull \hbox (99.3762pt too wide) in paragraph at lines 752--753
+\T1/put/m/n/10.95 org / core / journals / africa / article / craft -[] organization -[] in -[] yoruba -[] towns1 / 91C914583A17E012C0C11CA586C9951D$[][] 
+ []
+
+
 
 [39]
 
 [40]
 
 [41]
-Underfull \hbox (badness 1622) in paragraph at lines 843--844
+Underfull \hbox (badness 1622) in paragraph at lines 869--870
 []\T1/put/m/n/10.95 Wilbert, J. (1977). Nav-i-ga-tors of the win-ter sun. In E. Ben-son (Ed.), \T1/put/m/it/10.95 Sea in the Pre-
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 843--844
+Underfull \hbox (badness 1097) in paragraph at lines 869--870
 \T1/put/m/n/10.95 46). Dum-b-ar-ton Oaks Re-search Li-brary; Col-lec-tions, Trustees for Har-vard Uni-ver-sity.
  []
 
+
+
+[42]
 
 Package caption Warning: Unused \captionsetup[table] on input line 116.
 See the caption package documentation for explanation.
 
 
 
-[42] (./manuscript.aux)
+[43] (./manuscript.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14436 strings out of 475172
- 232328 string characters out of 5764331
- 669748 words of memory out of 5000000
- 36993 multiletter control sequences out of 15000+600000
- 647195 words of font info for 81 fonts, out of 8000000 for 9000
+ 14456 strings out of 475172
+ 232920 string characters out of 5764331
+ 673488 words of memory out of 5000000
+ 37003 multiletter control sequences out of 15000+600000
+ 633911 words of font info for 77 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,81p,2760b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,81p,2925b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (42 pages, 8579955 bytes).
+Output written on manuscript.pdf (43 pages, 8547097 bytes).
 PDF statistics:
- 836 PDF objects out of 1000 (max. 8388607)
- 768 compressed objects within 8 object streams
- 219 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 877 PDF objects out of 1000 (max. 8388607)
+ 807 compressed objects within 9 object streams
+ 231 named destinations out of 1000 (max. 500000)
+ 214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
