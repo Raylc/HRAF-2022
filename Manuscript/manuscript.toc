@@ -5,23 +5,27 @@
 \contentsline {subsection}{\numberline {2.1}Searching strategy}{5}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Coding scheme}{6}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Taphonomic Control: Clay-Specific Analysis}{11}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Statistical analysis and visualization}{11}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Results and discussion}{12}{section.3}%
+\contentsline {subsection}{\numberline {2.4}Statistical analysis and visualization}{12}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Results}{12}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Descriptive results}{12}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Content of transmission: What skills are learned?}{12}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Agents of transmission: Who transmits skills?}{13}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}Spatial context: Where does learning occur?}{15}{subsubsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}Developmental timing: When are skills acquired?}{16}{subsubsection.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.1.5}Learning processes: How are skills learned?}{17}{subsubsection.3.1.5}%
-\contentsline {subsubsection}{\numberline {3.1.6}Transmission biases: Why are models chosen?}{18}{subsubsection.3.1.6}%
-\contentsline {subsection}{\numberline {3.2}Missing pattern analysis}{19}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Qualitative insights}{21}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Protracted and staged learning trajectories}{22}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Task-dependent learning locations}{24}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Teaching and causal knowledge in the craftsmanship}{25}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Alternative pedagogies: Co-production and miniature model}{27}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Skill training for community integration}{29}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Distribution of expertise}{30}{subsection.4.6}%
-\contentsline {section}{\numberline {5}Conclusion}{31}{section.5}%
-\contentsline {section}{\numberline {6}Acknowledgment}{33}{section.6}%
-\contentsline {section}{References}{33}{section*.11}%
+\contentsline {subsubsection}{\numberline {3.1.3}Spatial context: Where does learning occur?}{14}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Developmental timing: When are skills acquired?}{15}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Learning processes: How are skills learned?}{16}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Transmission biases: Why are models chosen?}{17}{subsubsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.2}Missing pattern analysis}{18}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Discussion}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}The nature of transmitted skills: Utilitarian crafts and material bias}{21}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The social fabric of learning: Kinship and peers}{21}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Spatial differentiation and task dependency}{22}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}From middle childhood to protracted learning trajectories}{23}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Dissecting the complexity of learning processes}{25}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Teaching and causal knowledge in the craftsmanship}{26}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Alternative pedagogies: Co-production and miniature model}{28}{subsubsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.6}Why this model? Why learning at all?}{30}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}Distribution of expertise}{30}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}Skill training for community integration}{31}{subsubsection.4.6.2}%
+\contentsline {section}{\numberline {5}Conclusion}{33}{section.5}%
+\contentsline {section}{\numberline {6}Acknowledgment}{35}{section.6}%
+\contentsline {section}{References}{35}{section*.11}%
