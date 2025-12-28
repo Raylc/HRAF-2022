@@ -100,7 +100,7 @@
 \contentsline {section}{\numberline {6}North America}{118}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Arctic and Subarctic}{118}{subsection.6.1}%
 \contentsline {subsubsection}{\numberline {6.1.1}Aleut}{118}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}Alutiq}{120}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.2}Alutiiq}{120}{subsubsection.6.1.2}%
 \contentsline {subsubsection}{\numberline {6.1.3}Chipewyans}{121}{subsubsection.6.1.3}%
 \contentsline {subsubsection}{\numberline {6.1.4}Copper Inuit}{123}{subsubsection.6.1.4}%
 \contentsline {subsubsection}{\numberline {6.1.5}Eyak}{124}{subsubsection.6.1.5}%

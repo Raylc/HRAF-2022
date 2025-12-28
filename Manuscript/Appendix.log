@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.10)  30 OCT 2025 00:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.19)  24 DEC 2025 01:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Appendix.tex
 (./Appendix.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-14>
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -69,7 +69,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks18
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
+Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -129,8 +129,8 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
@@ -141,7 +141,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks24
@@ -185,7 +185,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip54
 \LTright=\skip55
 \LTpre=\skip56
@@ -222,7 +222,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count306
 \@thisrulewidth=\dimen179
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen180
 \ar@mcellbox=\box60
 \extrarowheight=\dimen181
@@ -422,7 +422,7 @@ LaTeX Font Info:    Trying to load font information for T1+put on input line 96.
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1put.fd
 File: t1put.fd 2001/06/04 font definitions for T1/put.
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
 ) (./Appendix.aux)
 \openout1 = `Appendix.aux'.
@@ -534,13 +534,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (./Appendix.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 2.
-
-
 [1
 
-{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-
-[2]
+{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2]
 Overfull \hbox (0.43774pt too wide) detected at line 82
  []\T1/put/m/n/10.95 101
  []
@@ -569,8 +565,6 @@ Overfull \hbox (0.43774pt too wide) detected at line 86
 Overfull \hbox (0.43774pt too wide) detected at line 87
  []\T1/put/m/n/10.95 103
  []
-
-
 
 [3]
 Overfull \hbox (0.43774pt too wide) detected at line 88
@@ -721,8 +715,6 @@ Overfull \hbox (0.43774pt too wide) detected at line 118
 Overfull \hbox (0.43774pt too wide) detected at line 119
  []\T1/put/m/n/10.95 146
  []
-
-
 
 [4]
 Overfull \hbox (0.43774pt too wide) detected at line 120
@@ -889,8 +881,6 @@ Overfull \hbox (0.43774pt too wide) detected at line 152
  []\T1/put/m/n/10.95 200
  []
 
-
-
 [5]
 Overfull \hbox (0.43774pt too wide) detected at line 154
  []\T1/put/m/n/10.95 200
@@ -1046,8 +1036,6 @@ Overfull \hbox (0.43774pt too wide) detected at line 185
  []\T1/put/m/n/10.95 243
  []
 
-
-
 [6]
 Overfull \hbox (0.43774pt too wide) detected at line 186
  []\T1/put/m/n/10.95 244
@@ -1177,567 +1165,27 @@ Overfull \hbox (0.43774pt too wide) detected at line 210
 \tf@toc=\write3
 \openout3 = `Appendix.toc'.
 
-
-
-[7]
-
-[8]
-
-[9]
+[7] [8] [9]
 Overfull \hbox (13.73192pt too wide) in paragraph at lines 152--153
 \T1/put/b/n/10.95 crops\T1/put/m/n/10.95 . This in-stru-ment is also called, ono-matopo-et-i-cally, gur[unknown]r[unknown]mo[unknown]s
  []
 
-
-
-[10]
-
-[11]
-
-[12]
-
-[13]
-
-[14]
-
-[15]
-
-[16]
-
-[17]
-
-[18]
-
-[19]
-
-[20]
-
-[21]
-
-[22]
-
-[23]
-
-[24]
-
-[25]
-
-[26]
-
-[27]
-
-[28]
-
-[29]
-
-[30]
-
-[31]
-
-[32]
-
-[33]
-
-[34]
-
-[35]
-
-[36]
-
-[37]
-
-[38]
-
-[39]
-
-[40]
-
-[41]
-
-[42]
-
-[43]
-
-[44]
-
-[45]
-
-[46]
-
-[47]
-
-[48]
-
-[49]
-
-[50]
-
-[51]
-
-[52]
-
-[53]
-
-[54]
-
-[55]
-
-[56]
-
-[57]
-
-[58]
-
-[59]
-
-[60]
-
-[61]
-
-[62]
-
-[63]
-
-[64]
-
-[65]
-
-[66]
-
-[67]
-
-[68]
-
-[69]
-
-[70]
-
-[71]
-
-[72]
-
-[73]
-
-[74]
-
-[75]
-
-[76]
-
-[77]
-
-[78]
-
-[79]
-
-[80]
-
-[81]
-
-[82]
-
-[83]
-
-[84]
-
-[85]
-
-[86]
-
-[87]
-
-[88]
-
-[89]
-
-[90]
-
-[91]
-
-[92]
-
-[93]
-
-[94]
-
-[95]
-
-[96]
-
-[97]
-
-[98]
-
-[99]
-
-[100]
-
-[101]
-
-[102]
-
-[103]
-
-[104]
-
-[105]
-
-[106]
-
-[107]
-
-[108]
-
-[109]
-
-[110]
-
-[111]
-
-[112]
-
-[113]
-
-[114]
-
-[115]
-
-[116]
-
-[117]
-
-[118]
-
-[119]
-
-[120]
-
-[121]
-
-[122]
-
-[123]
-
-[124]
-
-[125]
-
-[126]
-
-[127]
-
-[128]
-
-[129]
-
-[130]
-
-[131]
-
-[132]
-
-[133]
-
-[134]
-
-[135]
-
-[136]
-
-[137]
-
-[138]
-
-[139]
-
-[140]
-
-[141]
-
-[142]
-
-[143]
-
-[144]
-
-[145]
-
-[146]
-
-[147]
-
-[148]
-
-[149]
-
-[150]
-
-[151]
-
-[152]
-
-[153]
-
-[154]
-
-[155]
-
-[156]
-
-[157]
-
-[158]
-
-[159]
-
-[160]
-
-[161]
-
-[162]
-
-[163]
-
-[164]
-
-[165]
-
-[166]
-
-[167]
-
-[168]
-
-[169]
-
-[170]
-
-[171]
-
-[172]
-
-[173]
-
-[174]
-
-[175]
-
-[176]
-
-[177]
-
-[178]
-
-[179]
-
-[180]
-
-[181]
-
-[182]
-
-[183]
-
-[184]
-
-[185]
-
-[186]
-
-[187]
-
-[188]
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188]
 Underfull \hbox (badness 1158) in paragraph at lines 2141--2142
 \T1/put/m/n/10.95 painters dif-fered from those in-volved in the learn-ing of cer-e-mo-nial knowl-edge but were
  []
 
-
-
-[189]
-
-[190]
-
-[191]
-
-[192]
-
-[193]
-
-[194]
-
-[195]
-
-[196]
-
-[197]
-
-[198]
-
-[199]
-
-[200]
-
-[201]
-
-[202]
-
-[203]
-
-[204]
-
-[205]
-
-[206]
-
-[207]
-
-[208]
-
-[209]
-
-[210]
-
-[211]
-
-[212]
-
-[213]
-
-[214]
-
-[215]
-
-[216]
-
-[217]
-
-[218]
-
-[219]
-
-[220]
-
-[221]
-
-[222]
-
-[223]
-
-[224]
-
-[225]
-
-[226]
-
-[227]
-
-[228]
-
-[229]
-
-[230]
-
-[231]
-
-[232]
-
-[233]
-
-[234]
-
-[235]
-
-[236]
-
-[237]
-
-[238]
-
-[239]
-
-[240]
-
-[241]
-
-[242]
-
-[243]
-
-[244]
+[189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241] [242] [243] [244]
 Underfull \hbox (badness 1077) in paragraph at lines 2715--2716
 []\T1/put/m/n/10.95 Leeds, A. (1962). Eco-log-i-cal de-ter-mi-nants of chief-tain-ship among the Yaruro In-di-ans of
  []
-
-
 
 [245]
 Underfull \hbox (badness 1077) in paragraph at lines 2721--2722
 []\T1/put/m/n/10.95 Leeds, A. (1962). Eco-log-i-cal de-ter-mi-nants of chief-tain-ship among the Yaruro In-di-ans of
  []
 
-
-
-[246]
-
-[247]
-
-[248]
-
-[249]
-
-[250]
-
-[251]
-
-[252]
-
-[253]
-
-[254]
-
-[255]
-
-[256]
-
-[257]
-
-[258]
-
-[259]
-
-[260]
-
-[261]
-
-[262]
-
-[263]
-
-[264]
-
-[265]
-
-[266]
-
-[267]
-
-[268]
-
-[269]
-
-[270]
-
-[271]
-
-[272]
-
-[273]
-
-[274]
-
-[275]
-
-[276]
+[246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270] [271] [272] [273] [274] [275] [276]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 77.
 See the caption package documentation for explanation.
@@ -1746,24 +1194,22 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 78.
 See the caption package documentation for explanation.
 
-
-
 [277] (./Appendix.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14600 strings out of 469729
- 227463 string characters out of 5475668
- 669337 words of memory out of 5000000
- 42307 multiletter control sequences out of 15000+600000
+ 14609 strings out of 469519
+ 227649 string characters out of 5468255
+ 672942 words of memory out of 5000000
+ 42525 multiletter control sequences out of 15000+600000
  725897 words of font info for 104 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,6n,93p,5035b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,6n,93p,5035b,552s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on Appendix.pdf (277 pages, 763760 bytes).
+Output written on Appendix.pdf (277 pages, 763805 bytes).
 PDF statistics:
  2392 PDF objects out of 2487 (max. 8388607)
  2086 compressed objects within 21 object streams

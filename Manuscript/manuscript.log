@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.10)  31 OCT 2025 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.19)  28 DEC 2025 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **manuscript.tex
 (./manuscript.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-14>
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -69,7 +69,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks18
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
+Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -129,8 +129,8 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
@@ -141,7 +141,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks24
@@ -185,7 +185,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip54
 \LTright=\skip55
 \LTpre=\skip56
@@ -222,7 +222,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count306
 \@thisrulewidth=\dimen179
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen180
 \ar@mcellbox=\box60
 \extrarowheight=\dimen181
@@ -450,7 +450,7 @@ LaTeX Font Info:    Trying to load font information for T1+put on input line 135
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1put.fd
 File: t1put.fd 2001/06/04 font definitions for T1/put.
 ) (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count338
 ) (./manuscript.aux)
 \openout1 = `manuscript.aux'.
@@ -553,8 +553,6 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `manuscript.toc'.
 
-
-
 [1
 
 {c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}]
@@ -562,175 +560,91 @@ Underfull \hbox (badness 1117) in paragraph at lines 148--149
 \T1/put/m/n/10.95 re-la-tion-ship be-tween tool-mak-ing and bi-o-log-i-cal adap-ta-tion rep-re-sents a uniquely hu-man
  []
 
-
-
-[2]
-
-[3]
-
-[4]
-
-[5]
+[2] [3] [4] [5]
 <../Figure/Map.pdf, id=142, 1084.05pt x 722.7pt>
 File: ../Figure/Map.pdf Graphic file (type pdf)
 <use ../Figure/Map.pdf>
-Package pdftex.def Info: ../Figure/Map.pdf  used on input line 176.
+Package pdftex.def Info: ../Figure/Map.pdf  used on input line 174.
 (pdftex.def)             Requested size: 469.75502pt x 313.16995pt.
-
-
 [6 <../Figure/Map.pdf>]
-Underfull \hbox (badness 1509) in paragraph at lines 198--200
+Underfull \hbox (badness 1509) in paragraph at lines 196--198
 []\T1/put/b/n/10.95 Subsistence\T1/put/m/n/10.95 : This vari-able fol-lows eHRAF's clas-si-fi-ca-tion sys-tem, in-clud-ing hunter-
  []
 
-
-
-[7]
-
-[8]
-
-[9]
-
-[10]
-
-[11]
-
-[12]
+[7] [8] [9] [10] [11] [12]
 <../Figure/what.jpg, id=237, 5215.485pt x 2370.8575pt>
 File: ../Figure/what.jpg Graphic file (type jpg)
 <use ../Figure/what.jpg>
-Package pdftex.def Info: ../Figure/what.jpg  used on input line 261.
+Package pdftex.def Info: ../Figure/what.jpg  used on input line 259.
 (pdftex.def)             Requested size: 469.75502pt x 213.51266pt.
 <../Figure/who.jpg, id=240, 5215.485pt x 2370.8575pt>
 File: ../Figure/who.jpg Graphic file (type jpg)
 <use ../Figure/who.jpg>
-Package pdftex.def Info: ../Figure/who.jpg  used on input line 274.
+Package pdftex.def Info: ../Figure/who.jpg  used on input line 272.
 (pdftex.def)             Requested size: 469.75502pt x 213.51266pt.
-
-
 [13 <../Figure/what.jpg>]
 <../Figure/where.jpg, id=250, 5215.485pt x 2370.8575pt>
 File: ../Figure/where.jpg Graphic file (type jpg)
 <use ../Figure/where.jpg>
-Package pdftex.def Info: ../Figure/where.jpg  used on input line 287.
+Package pdftex.def Info: ../Figure/where.jpg  used on input line 285.
 (pdftex.def)             Requested size: 469.75502pt x 213.51266pt.
-
-
 [14 <../Figure/who.jpg>]
 <../Figure/when.jpg, id=259, 5215.485pt x 2370.8575pt>
 File: ../Figure/when.jpg Graphic file (type jpg)
 <use ../Figure/when.jpg>
-Package pdftex.def Info: ../Figure/when.jpg  used on input line 300.
+Package pdftex.def Info: ../Figure/when.jpg  used on input line 298.
 (pdftex.def)             Requested size: 469.75502pt x 213.51266pt.
-
-
 [15 <../Figure/where.jpg>]
 <../Figure/how.jpg, id=268, 5215.485pt x 2370.8575pt>
 File: ../Figure/how.jpg Graphic file (type jpg)
 <use ../Figure/how.jpg>
-Package pdftex.def Info: ../Figure/how.jpg  used on input line 313.
+Package pdftex.def Info: ../Figure/how.jpg  used on input line 311.
 (pdftex.def)             Requested size: 469.75502pt x 213.51266pt.
-
-
 [16 <../Figure/when.jpg>]
 <../Figure/why.jpg, id=277, 5215.485pt x 2370.8575pt>
 File: ../Figure/why.jpg Graphic file (type jpg)
 <use ../Figure/why.jpg>
-Package pdftex.def Info: ../Figure/why.jpg  used on input line 326.
+Package pdftex.def Info: ../Figure/why.jpg  used on input line 324.
 (pdftex.def)             Requested size: 469.75502pt x 213.51266pt.
-
-
 [17 <../Figure/how.jpg>]
 <../Figure/missing.jpg, id=285, 2607.7425pt x 2370.8575pt>
 File: ../Figure/missing.jpg Graphic file (type jpg)
 <use ../Figure/missing.jpg>
-Package pdftex.def Info: ../Figure/missing.jpg  used on input line 339.
+Package pdftex.def Info: ../Figure/missing.jpg  used on input line 337.
 (pdftex.def)             Requested size: 469.75502pt x 427.06152pt.
-
-
 [18 <../Figure/why.jpg>]
 <../Figure/upset.jpg, id=293, 433.62pt x 361.35pt>
 File: ../Figure/upset.jpg Graphic file (type jpg)
 <use ../Figure/upset.jpg>
-Package pdftex.def Info: ../Figure/upset.jpg  used on input line 350.
+Package pdftex.def Info: ../Figure/upset.jpg  used on input line 348.
 (pdftex.def)             Requested size: 469.75502pt x 391.48175pt.
-
-
-[19 <../Figure/missing.jpg>]
-
-[20 <../Figure/upset.jpg>]
-
-[21]
-
-[22]
-
-[23]
-
-[24]
-Underfull \hbox (badness 1210) in paragraph at lines 413--414
+[19 <../Figure/missing.jpg>] [20 <../Figure/upset.jpg>] [21] [22] [23] [24]
+Underfull \hbox (badness 1210) in paragraph at lines 411--412
 \T1/put/m/n/10.95 The de-scrip-tive re-sults in-di-cate that the trans-mis-sion of tool-making knowl-edge in non-
  []
 
-
-
-[25]
-
-[26]
-
-[27]
-
-[28]
-
-[29]
-
-[30]
-
-[31]
-
-[32]
-
-[33]
-
-[34]
-
-[35]
-
-[36]
-
-[37]
-
-[38]
-Underfull \hbox (badness 5036) in paragraph at lines 668--669
+[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
+Underfull \hbox (badness 5036) in paragraph at lines 666--667
 \T1/put/m/n/10.95 technical evo-lu-tion through the lens of an abstracted-wheel ex-per-i-ment: A crit-i-
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 668--669
+Underfull \hbox (badness 1975) in paragraph at lines 666--667
 \T1/put/m/n/10.95 cal look at a micro-society lab-o-ra-tory study. \T1/put/m/it/10.95 PLOS ONE\T1/put/m/n/10.95 , \T1/put/m/it/10.95 19\T1/put/m/n/10.95 (11), e0310503. [][]$https :
  []
 
-
-
-[39]
-
-[40]
-Overfull \hbox (99.3762pt too wide) in paragraph at lines 758--759
+[39] [40]
+Overfull \hbox (99.3762pt too wide) in paragraph at lines 756--757
 \T1/put/m/n/10.95 org / core / journals / africa / article / craft -[] organization -[] in -[] yoruba -[] towns1 / 91C914583A17E012C0C11CA586C9951D$[][] 
  []
 
-
-
-[41]
-
-[42]
-
-[43]
-Underfull \hbox (badness 1622) in paragraph at lines 875--876
+[41] [42] [43]
+Underfull \hbox (badness 1622) in paragraph at lines 873--874
 []\T1/put/m/n/10.95 Wilbert, J. (1977). Nav-i-ga-tors of the win-ter sun. In E. Ben-son (Ed.), \T1/put/m/it/10.95 Sea in the Pre-
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 875--876
+Underfull \hbox (badness 1097) in paragraph at lines 873--874
 \T1/put/m/n/10.95 46). Dum-b-ar-ton Oaks Re-search Li-brary; Col-lec-tions, Trustees for Har-vard Uni-ver-sity.
  []
 
@@ -738,27 +652,25 @@ Underfull \hbox (badness 1097) in paragraph at lines 875--876
 Package caption Warning: Unused \captionsetup[table] on input line 117.
 See the caption package documentation for explanation.
 
-
-
 [44] (./manuscript.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-11-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14422 strings out of 469729
- 231664 string characters out of 5475668
- 684149 words of memory out of 5000000
- 42410 multiletter control sequences out of 15000+600000
+ 14431 strings out of 469519
+ 231849 string characters out of 5468255
+ 687701 words of memory out of 5000000
+ 42628 multiletter control sequences out of 15000+600000
  702795 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,6n,81p,2964b,562s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,6n,84p,2964b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (44 pages, 8545394 bytes).
+Output written on manuscript.pdf (44 pages, 8545589 bytes).
 PDF statistics:
- 892 PDF objects out of 1000 (max. 8388607)
- 821 compressed objects within 9 object streams
+ 888 PDF objects out of 1000 (max. 8388607)
+ 817 compressed objects within 9 object streams
  236 named destinations out of 1000 (max. 500000)
  214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
