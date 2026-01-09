@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.19)  28 DEC 2025 22:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.5)  9 JAN 2026 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **manuscript.tex
 (./manuscript.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-11-14>
+L3 programming layer <2025-12-29>
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -655,19 +655,19 @@ See the caption package documentation for explanation.
 [44] (./manuscript.aux)
  ***********
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-11-14>
+L3 programming layer <2025-12-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
  14431 strings out of 469519
- 231849 string characters out of 5468255
- 687701 words of memory out of 5000000
+ 231849 string characters out of 5468257
+ 688097 words of memory out of 5000000
  42628 multiletter control sequences out of 15000+600000
  702795 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,6n,84p,2964b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/Users/raylc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on manuscript.pdf (44 pages, 8545589 bytes).
+Output written on manuscript.pdf (44 pages, 8545864 bytes).
 PDF statistics:
  888 PDF objects out of 1000 (max. 8388607)
  817 compressed objects within 9 object streams
